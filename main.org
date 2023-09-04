@@ -1,0 +1,10 @@
+#+HUGO_BASE_DIR: .
+#+options: creator:nil author:nil
+
+* Homepage
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_SECTION: /
+:END:
+
+
