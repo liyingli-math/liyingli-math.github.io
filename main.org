@@ -5,7 +5,14 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: _index
 :EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_TYPE: homepage
 :END:
+
+My name is LI Liying (李立颖). I am a mathematician working in the probability theory.  I am an associate professor in the Math Department at [[https://math.sustech.edu.cn/?lang=cn][SUSTech]], Shenzhen, China.
+
+- *email*: lily at sustech dot edu dot cn
+- [[https://math.sustech.edu.cn/c/liliying?lang=en][My homepage at SUSTech]]
+ 
 
 * CV
 :PROPERTIES:
@@ -53,6 +60,27 @@ My primary research field is probability.  More specifically, I am interested in
 - /Zhiyi You, L. Li, Jianfeng Lu, Hao Ge/, Integrated tempering enhanced sampling method as the infinite switching limit, [[https://arxiv.org/pdf/1806.00725.pdf][https://arxiv.org/abs/1806.00725]], J. Chem. Phys.,  *149*, 084114 (2018)
 - Ph.D. Thesis (advisor: Yuri Bakhtin), Ergodic problems in random environments: polymers, Burgers equation and transport, 2019, New York University ([[file:thesis.pdf][pdf]])
 - Undergraduate Thesis (advisor: Hao Ge 葛颢), Enhanced Sampling method, 2014, Peking University
+
+
+
+* Teaching
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_BUNDLE: teaching
+:EXPORT_FILE_NAME: _index
+:CUSTOM_ID: teaching
+:END:
+
+[[#mat215-2023F][MAT215, 2023 Fall]]
+
+** MAT215, 2023 Spring
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: mat215-2023F
+:EXPORT_FILE_NAME: index
+:CUSTOM_ID: mat215-2023F
+:END:
+
+Course Website
 
 
 

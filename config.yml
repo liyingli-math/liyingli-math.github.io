@@ -9,16 +9,8 @@ markup.goldmark.renderer:
   unsafe: true 
 
 params:
-  homeInfoParams:
-    Title: Welcome!
-    Content: >
-      My name is LI Liying (李立颖). I am a mathematician working in the probability theory.  I am an associate professor in the Math Department at [SUSTech](https://math.sustech.edu.cn/?lang=en), Shenzhen, China.
-
-        
-      **email**: lily at sustech dot edu dot cn
-        
-      [My SUSTech homepage](https://math.sustech.edu.cn/c/liliying?lang=en)
-        
+  mainSections:
+       
   math: true
   ## code
   ShowCodeCopyButtons: true
@@ -26,7 +18,7 @@ params:
   ## toc
   showtoc: false
   tocopen: false
-  UseHugoToc: false
+  UseHugoToc: true
 
   ## additional info
   # ShowPostNavLinks: true
@@ -35,6 +27,7 @@ params:
 
   ## layout
   # ShowBreadCrumbs: true
+  hideSummary: true
 
   ## use chroma for markup
   assets:
