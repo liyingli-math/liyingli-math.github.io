@@ -24,9 +24,9 @@ params:
   ShowCodeCopyButtons: true
 
   ## toc
-  showtoc: true
-  tocopen: true
-  UseHugoToc: true
+  showtoc: false
+  tocopen: false
+  UseHugoToc: false
 
   ## additional info
   # ShowPostNavLinks: true
