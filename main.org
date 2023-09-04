@@ -8,6 +8,7 @@
 :EXPORT_HUGO_TYPE: homepage
 :END:
 
+[[/photo.jpg]]
 My name is LI Liying (李立颖). I am a mathematician working in the probability theory.  I am an associate professor in the Math Department at [[https://math.sustech.edu.cn/?lang=cn][SUSTech]], Shenzhen, China.
 
 - *email*: lily at sustech dot edu dot cn
