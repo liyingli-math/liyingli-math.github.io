@@ -1,0 +1,78 @@
+baseURL: "https://liyingli-math.gitee.io"
+defaultContentLanguage : "en"
+title: "LI Liying's Homepage"
+
+     
+theme: "PaperMod"
+
+markup.goldmark.renderer:
+  unsafe: true 
+
+params:
+  homeInfoParams:
+    Title: Welcome!
+    Content: >
+      My name is LI Liying (李立颖). I am a mathematician working in the probability theory.  I am an associate professor in the Math Department at [SUSTech](https://math.sustech.edu.cn/?lang=en), Shenzhen, China.
+
+        
+      **email**: lily at sustech dot edu dot cn
+        
+      [My SUSTech homepage](https://math.sustech.edu.cn/c/liliying?lang=en)
+        
+  math: true
+  ## code
+  ShowCodeCopyButtons: true
+
+  ## toc
+  showtoc: true
+  tocopen: true
+  UseHugoToc: true
+
+  ## additional info
+  # ShowPostNavLinks: true
+  # ShowWordCount: true
+  # ShowReadingTime: true
+
+  ## layout
+  # ShowBreadCrumbs: true
+
+  ## use chroma for markup
+  assets:
+    disableHLJS: true
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: personal
+      name: CV
+      url: /cv/
+      weight: 5
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 10
+    - identifier: teaching
+      name: Teaching
+      url: /teaching/
+      weight: 20
+    - identifier: other
+      name: Other
+      url: /Other/
+      weight: 30
+    # - identifier: sustech
+    #   name: SUSTech
+    #   url: "https://math.sustech.edu.cn/?lang=en"
+    #   weight: 99
+
+## use chroma for syntax highlighting
+markup:
+  highlight:
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    # noClasses: false
+    style: monokai
