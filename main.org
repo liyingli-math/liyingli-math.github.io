@@ -81,7 +81,7 @@ My primary research field is probability.  More specifically, I am interested in
 :CUSTOM_ID: mat215-2023F
 :END:
 *** Course Info
-Lecture
+Lecture:
 - Instructor: 李立颖 (lily at sustech dot edu dot cn)
 - Time: Tue 14-16, Thu 16-18 (bi-weekly)
 - Location: 第一教学楼 108
@@ -96,6 +96,7 @@ Problem session:
   - Chung, Kai Lai, and Farid AitSahlia. Elementary Probability Theory: With Stochastic Processes and an Introduction to Mathematical Finance. 4th Ed. New York, NY: Springer, 2003. ([[https://link.springer.com/book/10.1007/978-0-387-21548-8][Springer Link]])
   - (Chapter 1) Shiryaev, A. N. Probability. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. ([[https://doi.org/10.1007/978-1-4757-2539-1][Springer Link]])
   - 李贤平. 概率论基础. 北京: 高等教育出版社, 2010. ([[https://sustc.primo.exlibrisgroup.com.cn/discovery/fulldisplay?docid=alma991001345561304181&context=L&vid=86SUSTC_INST:86SUSTC][Library Link]])
+*** Lecture notes
 *** Grades
 |------------+-----|
 | Components |   % |
@@ -118,8 +119,12 @@ Problem session:
 :PROPERTIES:
 :CUSTOM_ID: HW
 :END:
-
 There will be weakly homework assignments, which will be due and submitted at the problem session at the following week.
+|-----+-----|
+|     | Due |
+|-----+-----|
+| HW1 |     |
+|-----+-----|
 *** Bonus Assignments
 :PROPERTIES:
 :CUSTOM_ID: bonus
@@ -127,7 +132,13 @@ There will be weakly homework assignments, which will be due and submitted at th
 
 TBA
 *** Schedule
+|------+----------+-------------------|
+| Date | Material | Suggested Reading |
+|------+----------+-------------------|
+| 9.12 |          |                   |
+|------+----------+-------------------|
 
+Outline:
 - Ch1. Introduction (2 hours) :: Introduction; Baby Set Theory; Combinatorial Methods; Binomial Coefficients; Binomial Theorems.
 - Ch2. Probability Space (4 hours) :: Sample Spaces; Events; The Probability of an Event; Some Rules of Probability; Conditional Probability; Independent Events; Bayes’ Theorem.
 - Ch3. Discrete & Continuous Random Variables (10 hours) :: Random Variables; Discrete Random Variables; Probability Distributions; Probability Mass Functions; Binomial Random Variable; Poisson Random Variable; Continuous Random Variables; Probability Density Functions; Uniform Distributions; Exponential Distributions; Gamma Distributions; Normal Distributions; Functions of a Random Variable.
