@@ -33,6 +33,9 @@ Problem session:
     -   李贤平. 概率论基础. 北京: 高等教育出版社, 2010. ([Library Link](https://sustc.primo.exlibrisgroup.com.cn/discovery/fulldisplay?docid=alma991001345561304181&context=L&vid=86SUSTC_INST:86SUSTC))
 
 
+### Lecture notes {#lecture-notes}
+
+
 ### Grades {#grades}
 
 | Components | %   |
@@ -52,6 +55,10 @@ Problem session:
 
 There will be weakly homework assignments, which will be due and submitted at the problem session at the following week.
 
+|     | Due |
+|-----|-----|
+| HW1 |     |
+
 
 ### Bonus Assignments {#bonus}
 
@@ -59,6 +66,12 @@ TBA
 
 
 ### Schedule {#schedule}
+
+| Date | Material | Suggested Reading |
+|------|----------|-------------------|
+| 9.12 |          |                   |
+
+Outline:
 
 Ch1. Introduction (2 hours)
 : Introduction; Baby Set Theory; Combinatorial Methods; Binomial Coefficients; Binomial Theorems.
