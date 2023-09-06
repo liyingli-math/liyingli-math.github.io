@@ -11,7 +11,7 @@ draft = false
 
 ### Course Info {#course-info}
 
-Lecture
+Lecture:
 
 -   Instructor: 李立颖 (lily at sustech dot edu dot cn)
 -   Time: Tue 14-16, Thu 16-18 (bi-weekly)
