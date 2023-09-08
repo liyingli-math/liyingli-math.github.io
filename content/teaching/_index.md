@@ -11,7 +11,7 @@ draft = false
 
 ### Course Info {#course-info}
 
-Lecture
+Lecture:
 
 -   Instructor: 李立颖 (lily at sustech dot edu dot cn)
 -   Time: Tue 14-16, Thu 16-18 (bi-weekly)
@@ -28,7 +28,7 @@ Problem session:
 
 -   (Required) Ross, Sheldon M. A First Course in Probability. 10th ed. Upper Saddle River, N.J: Pearson Prentice Hall, 2010. ([Library Link - 9th edition](https://sustc.primo.exlibrisgroup.com.cn/discovery/fulldisplay?docid=alma991000396759704181&context=L&vid=86SUSTC_INST:86SUSTC))
 -   Supplementary reading:
-    -   Chung, Kai Lai, and Farid AitSahlia. Elementary Probability Theory: With Stochastic Processes and an Introduction to Mathematical Finance. 4th Ed. New York, NY: Springer, 2003. ([Springer Link](https://link.springer.com/book/10.1007/978-0-387-21548-8))
+    -   (Chapters 1 -- 7)Chung, Kai Lai, and Farid AitSahlia. Elementary Probability Theory: With Stochastic Processes and an Introduction to Mathematical Finance. 4th Ed. New York, NY: Springer, 2003. ([Springer Link](https://link.springer.com/book/10.1007/978-0-387-21548-8))
     -   (Chapter 1) Shiryaev, A. N. Probability. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. ([Springer Link](https://doi.org/10.1007/978-1-4757-2539-1))
     -   李贤平. 概率论基础. 北京: 高等教育出版社, 2010. ([Library Link](https://sustc.primo.exlibrisgroup.com.cn/discovery/fulldisplay?docid=alma991001345561304181&context=L&vid=86SUSTC_INST:86SUSTC))
 
