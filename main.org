@@ -146,9 +146,15 @@ Outline:
 - Ch5. Mathematical Expectations (10 hours) :: The Expected Value of a Random Variable; The Basic Properties of Expectations; The Variance of a Random Variable; Moments; Covariance and Correlation of Random Vectors.
 - Ch6. Functions of Random Variables (8 hours) :: Basic Concepts; Property of Expectation of Function of Random Variables; Distribution Function Techniques; Transformation Technique for One Variable; Transformation Technique for Several Variables; Generating Function Technique; Sum and Ratio of Two Random Variables; the Moment Generating Functions: properties and Applications.
 - Ch7. Limit Theorems (4 hours+2 hours for review) :: Weak Law of Large Number; Central Limit Theorems; Strong Law of Large Number.
+* Other
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_BUNDLE: other
+:CUSTOM_ID: other
+:END:
 
-
-
+(There is nothing yet!)
 
 
 
