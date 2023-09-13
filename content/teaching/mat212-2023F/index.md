@@ -1,30 +1,35 @@
 +++
-title = "MAT215, 2023 Spring"
+title = "MAT212 概率论与数理统计, 2023 秋"
 draft = false
 +++
 
-## Course Info {#course-info}
+## 课程信息 {#课程信息}
 
-Lecture:
+正课
 
--   Instructor: 李立颖 (lily at sustech dot edu dot cn)
--   Time: Tue 14-16, Thu 16-18 (bi-weekly)
--   Location: 第一教学楼 108
--   Office hour: Tue 16-17 or by appointment (Office: M622)
+-   教师: 李立颖 (lily at sustech dot edu dot cn)
+-   时间及地点
+    -   周一: 5-6节, 一教 501
+    -   单周三: 5-6节, 一教306
+-   答疑: 周一 4-6pm, 理学院 M622
 
-Problem session:
+习题课
 
--   TA: 王梓桐 (12331017 at mail dot sustech dot edu dot cn)
--   Time: TBA
+-   助教: 王梓桐 (12331017 at mail dot sustech dot edu dot cn)
+-   时间及地点: 待定
 
 
-## Textbook {#textbook}
+## 教材 {#教材}
 
--   (Required) Ross, Sheldon M. A First Course in Probability. 10th ed. Upper Saddle River, N.J: Pearson Prentice Hall, 2010. ([Library Link - 9th edition](https://sustc.primo.exlibrisgroup.com.cn/discovery/fulldisplay?docid=alma991000396759704181&context=L&vid=86SUSTC_INST:86SUSTC))
--   Supplementary reading:
-    -   (Chapters 1 -- 7)Chung, Kai Lai, and Farid AitSahlia. Elementary Probability Theory: With Stochastic Processes and an Introduction to Mathematical Finance. 4th Ed. New York, NY: Springer, 2003. ([Springer Link](https://link.springer.com/book/10.1007/978-0-387-21548-8))
-    -   (Chapter 1) Shiryaev, A. N. Probability. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. ([Springer Link](https://doi.org/10.1007/978-1-4757-2539-1))
-    -   李贤平. 概率论基础. 北京: 高等教育出版社, 2010. ([Library Link](https://sustc.primo.exlibrisgroup.com.cn/discovery/fulldisplay?docid=alma991001345561304181&context=L&vid=86SUSTC_INST:86SUSTC))
+-   课本: John A. Rice, Mathematical Statistics and Data Analysis, 3rd edition
+-   参考资料
+    -   Jay L. Devore, Probability and Statistics, 8th edition
+    -   概率论与数理统计, 浙大版
+    -   数苑校园
+        -   网络题库: <http://www.sciyard.com/home/index>
+        -   使用方法: <http://www.sciyard.com/chs/softwarevideo/?type=KP&index=0>
+        -   数苑校园使用答疑群：
+            ![](/img/QR-code.jpg)
 
 
 ## Lecture notes {#lecture-notes}

@@ -72,30 +72,34 @@ My primary research field is probability.  More specifically, I am interested in
 :CUSTOM_ID: teaching
 :END:
 
-[[#mat215-2023F][MAT215, 2023 Fall]]
 
-** MAT215, 2023 Spring
+** MAT212 概率论与数理统计, 2023 秋
 :PROPERTIES:
-:EXPORT_HUGO_BUNDLE: mat215-2023F
+:EXPORT_HUGO_BUNDLE: mat212-2023F
 :EXPORT_FILE_NAME: index
-:CUSTOM_ID: mat215-2023F
+:CUSTOM_ID: mat212-2023F
 :END:
-*** Course Info
-Lecture:
-- Instructor: 李立颖 (lily at sustech dot edu dot cn)
-- Time: Tue 14-16, Thu 16-18 (bi-weekly)
-- Location: 第一教学楼 108
-- Office hour: Tue 16-17 or by appointment (Office: M622)
+*** 课程信息
+正课
+- 教师: 李立颖 (lily at sustech dot edu dot cn)
+- 时间及地点
+  - 周一: 5-6节, 一教 501
+  - 单周三: 5-6节, 一教306
+- 答疑: 周一 4-6pm, 理学院 M622
 
-Problem session:  
-- TA: 王梓桐 (12331017 at mail dot sustech dot edu dot cn)
-- Time: TBA
-*** Textbook
-- (Required) Ross, Sheldon M. A First Course in Probability. 10th ed. Upper Saddle River, N.J: Pearson Prentice Hall, 2010. ([[https://sustc.primo.exlibrisgroup.com.cn/discovery/fulldisplay?docid=alma991000396759704181&context=L&vid=86SUSTC_INST:86SUSTC][Library Link - 9th edition]])
-- Supplementary reading:
-  - (Chapters 1 -- 7)Chung, Kai Lai, and Farid AitSahlia. Elementary Probability Theory: With Stochastic Processes and an Introduction to Mathematical Finance. 4th Ed. New York, NY: Springer, 2003. ([[https://link.springer.com/book/10.1007/978-0-387-21548-8][Springer Link]])
-  - (Chapter 1) Shiryaev, A. N. Probability. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. ([[https://doi.org/10.1007/978-1-4757-2539-1][Springer Link]])
-  - 李贤平. 概率论基础. 北京: 高等教育出版社, 2010. ([[https://sustc.primo.exlibrisgroup.com.cn/discovery/fulldisplay?docid=alma991001345561304181&context=L&vid=86SUSTC_INST:86SUSTC][Library Link]])
+习题课
+- 助教: 王梓桐 (12331017 at mail dot sustech dot edu dot cn)
+- 时间及地点: 待定
+*** 教材
+- 课本: John A. Rice, Mathematical Statistics and Data Analysis, 3rd edition
+- 参考资料
+  - Jay L. Devore, Probability and Statistics, 8th edition 
+  - 概率论与数理统计, 浙大版
+  - 数苑校园
+    - 网络题库: [[http://www.sciyard.com/home/index]]
+    - 使用方法: [[http://www.sciyard.com/chs/softwarevideo/?type=KP&index=0]]
+    - 数苑校园使用答疑群：
+      [[/img/QR-code.jpg]]
 *** Lecture notes
 *** Grades
 |------------+-----|
