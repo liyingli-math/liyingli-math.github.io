@@ -18,7 +18,7 @@ draft = false
 
 ## Teaching {#teaching}
 
--   2023 Fall: MAT215, Probability, SUSTech
+-   2023 Fall: MAT212, Probability and mathematical statistics, SUSTech
 -   2022 Fall &amp; 2023 Spring: MAT115, Calculus I, UM
 -   2021 Fall &amp; 2022 Spring: MAT337, Introduction to Real Analysis, U of T
 -   2020 Fall &amp; 2021 Spring: MAT244, Ordinary Differential Equations, U of T
