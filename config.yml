@@ -18,7 +18,7 @@ params:
   ## toc
   showtoc: false
   tocopen: false
-  UseHugoToc: true
+  UseHugoToc: false
 
   ## additional info
   # ShowPostNavLinks: true
@@ -49,7 +49,7 @@ menu:
       weight: 10
     - identifier: teaching
       name: Teaching
-      url: /teaching/
+      url: /teaching/all-courses
       weight: 20
     - identifier: other
       name: Other
