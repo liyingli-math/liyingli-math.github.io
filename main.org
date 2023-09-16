@@ -66,7 +66,7 @@ My primary research field is probability.  More specifically, I am interested in
 
 * Teaching
 :PROPERTIES:
-:EXPORT_HUGO_SECTION_FRAG: /teaching
+:EXPORT_HUGO_SECTION: /teaching
 :END:
 ** Teaching
 :PROPERTIES:
@@ -92,10 +92,13 @@ My primary research field is probability.  More specifically, I am interested in
 习题课
 - 助教: 王梓桐 (12331017 at mail dot sustech dot edu dot cn)
 - 时间及地点: 待定
-*** 幻灯片下载 (每次上课后更新)
-# [幻灯片](/teaching/mat212-2023F/slide.pdf)
+*** 课件下载 (每次上课后更新)
+|------+----------------------|
+| 章节  | 课件                  |
+|------+----------------------|
+| 第一章 | [chap1](./chap1.pdf) |
+|------+----------------------|
 
-[幻灯片](./slide.pdf)
 *** 教材
 - 课本: John A. Rice, Mathematical Statistics and Data Analysis, 3rd edition (第4版和第3版的习题一样, 不影响使用)
 - 参考资料
