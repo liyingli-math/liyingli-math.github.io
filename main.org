@@ -100,7 +100,8 @@ My primary research field is probability.  More specifically, I am interested in
 |------+----------------------|
 | 第二章 | [chap2](./chap2.pdf) |
 |------+----------------------|
-
+| 第三章 | [chap3](./chap3.pdf)   |
+|------+----------------------|
 *** 教材
 - 课本: John A. Rice, Mathematical Statistics and Data Analysis, 3rd edition (第4版和第3版的习题一样, 不影响使用)
 - 参考资料

@@ -25,6 +25,7 @@ draft = false
 |----|--------------------|
 | 第一章 | [chap1](./chap1.pdf) |
 | 第二章 | [chap2](./chap2.pdf) |
+| 第三章 | [chap3](./chap3.pdf) |
 
 
 ## 教材 {#教材}
