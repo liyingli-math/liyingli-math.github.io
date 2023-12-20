@@ -30,6 +30,7 @@ draft = false
 | 第五章 | [chap5](./chap5.pdf) |
 | 第六章 | [chap6](./chap6.pdf) |
 | 第七章 | [chap7](./chap7.pdf) |
+| 第八章 | [chap8](./chap8.pdf) |
 
 
 ## 教材 {#教材}
