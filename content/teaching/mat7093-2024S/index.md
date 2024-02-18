@@ -7,12 +7,12 @@ draft = false
 
 -   Time: Mon 6-9 pm
 -   Location: 三教 309
--   TA:
+-   TA: 徐子舟 (12331003 at sustech dot edu dot cn)
 
 
 ## Lecture note {#lecture-note}
 
-(updated regularly)
+[lecture note](./stochastic-analysis-LN.pdf) (updated regularly)
 
 
 ## HW {#hw}

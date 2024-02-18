@@ -89,9 +89,9 @@ My primary research field is probability.  More specifically, I am interested in
 *** Course Information
 - Time: Mon 6-9 pm
 - Location: 三教 309
-- TA:
+- TA: 徐子舟 (12331003 at sustech dot edu dot cn)
 *** Lecture note
-(updated regularly)
+[lecture note](./stochastic-analysis-LN.pdf) (updated regularly)
 *** HW
 - weekly; usually posted by Tuesday and due next Monday before class.
 - Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
@@ -140,8 +140,8 @@ My primary research field is probability.  More specifically, I am interested in
 大课
 - 教师: 李立颖 (lily at sustech dot edu dot cn)
 - 时间及地点
-  - 周一: 5-6节, 一教 501
-  - 单周三: 5-6节, 一教306
+  1. 周一: 5-6节, 一教 501
+  2. 单周三: 5-6节, 一教306
 - 答疑: 周一 4-6pm, 理学院 M622
 
 习题课
