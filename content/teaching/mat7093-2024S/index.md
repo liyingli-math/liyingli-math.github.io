@@ -23,6 +23,7 @@ draft = false
 | Assignments      | Due date |
 |------------------|----------|
 | [HW1](./hw1.pdf) | Feb 24   |
+| [HW2](./hw2.pdf) | Mar 4    |
 
 
 ## Grading scheme {#grading-scheme}
