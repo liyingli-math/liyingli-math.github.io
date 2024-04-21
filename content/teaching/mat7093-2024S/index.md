@@ -30,7 +30,7 @@ draft = false
 | HW6: Ex 5.32, 5.33 | Apr 1    | [HW6-sol](./hw6_sol.pdf) |
 | [HW7](./hw7.pdf)   | Apr 8    | [HW7-sol](./hw7_sol.pdf) |
 | [HW8](./hw8.pdf)   | Apr 15   |                          |
-| [HW9](./hw9.pdf)   | Apr 15   |                          |
+| [HW9](./hw9.pdf)   | Apr 22   |                          |
 
 
 ## Grading scheme {#grading-scheme}
