@@ -33,6 +33,7 @@ draft = false
 | [HW9](./hw9.pdf)                                    | Apr 22   |                          |
 | [HW10](./hw10.pdf)                                  | Apr 29   |                          |
 | No HW Apr 29 -- May 6 due to the Labour Day Holiday |          |                          |
+| [HW11](./hw11.pdf)                                  | May 13   |                          |
 
 
 ## Grading scheme {#grading-scheme}
