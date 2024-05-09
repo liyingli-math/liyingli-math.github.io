@@ -18,7 +18,8 @@ draft = false
 
 ## Teaching {#teaching}
 
--   2023 Fall: MAT212, Probability and mathematical statistics, SUSTech
+-   2024 Spring: MAT7093, Stochastic Analysis,SUSTech [[Course Page]​]({{< relref "mat7093-2024S" >}})
+-   2023 Fall: MAT212, Probability and mathematical statistics, SUSTech [[Course Page]​]({{< relref "mat212-2023F" >}})
 -   2022 Fall &amp; 2023 Spring: MAT115, Calculus I, UM
 -   2021 Fall &amp; 2022 Spring: MAT337, Introduction to Real Analysis, U of T
 -   2020 Fall &amp; 2021 Spring: MAT244, Ordinary Differential Equations, U of T
@@ -26,3 +27,10 @@ draft = false
 -   2018 Fall: Putnam Competition Workshop, NYU
 -   2018 Spring: TA, Introduction to Mathematical Analysis II, NYU
 -   2017 Spring: TA, Probability and Statistics, NYU
+
+
+## Invited Talks {#invited-talks}
+
+-   2024.4, 湘潭大学,  Math Department Seminar
+-   2024.3, BIMSA, Workshop on "interacting Particle Systems and Stochastic Analysis"
+-   2023.11, HKUST, Math Colloquium

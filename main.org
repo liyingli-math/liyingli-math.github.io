@@ -31,7 +31,8 @@ My name is LI Liying (李立颖). I am a mathematician working in the probabilit
 - 2022 - 2023: Postdoc, University of Michigan, Ann Arbor
 - 2019 - 2022: Postdoc, University of Toronto, Mississauga
 ** Teaching
-- 2023 Fall: MAT212, Probability and mathematical statistics, SUSTech
+- 2024 Spring: MAT7093, Stochastic Analysis,SUSTech [[#mat7093-2024S][[Course Page]​]]
+- 2023 Fall: MAT212, Probability and mathematical statistics, SUSTech [[#mat212-2023F][[Course Page]​]]
 - 2022 Fall & 2023 Spring: MAT115, Calculus I, UM
 - 2021 Fall & 2022 Spring: MAT337, Introduction to Real Analysis, U of T
 - 2020 Fall & 2021 Spring: MAT244, Ordinary Differential Equations, U of T
@@ -39,7 +40,10 @@ My name is LI Liying (李立颖). I am a mathematician working in the probabilit
 - 2018 Fall: Putnam Competition Workshop, NYU
 - 2018 Spring: TA, Introduction to Mathematical Analysis II, NYU
 - 2017 Spring: TA, Probability and Statistics, NYU
-
+** Invited Talks
+- 2024.4, 湘潭大学,  Math Department Seminar 
+- 2024.3, BIMSA, Workshop on "interacting Particle Systems and Stochastic Analysis"
+- 2023.11, HKUST, Math Colloquium
 * Research
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
