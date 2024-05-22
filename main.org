@@ -128,35 +128,36 @@ My primary research field is probability.  More specifically, I am interested in
 |-----------------------------------------------------+----------+----------------------------|
 | [HW12](./hw12.pdf)                                  | May 20   |                            |
 |-----------------------------------------------------+----------+----------------------------|
+| [HW13](./hw13.pdf)                                  | May 27   |                            |
+|-----------------------------------------------------+----------+----------------------------|
 *** Grading scheme
-|----------------+-----+---------|
-|                |   % |         |
-|----------------+-----+---------|
-| Participation  | 20% |         |
-|----------------+-----+---------|
-| HW assignments | 30% | weekly  |
-|----------------+-----+---------|
-| Final          | 50% |         |
-|----------------+-----+---------|
-| Bonus          |  5% | TBA     |
-|----------------+-----+---------|
+|----------------+-----+--------|
+|                |   % |        |
+|----------------+-----+--------|
+| Participation  | 20% |        |
+|----------------+-----+--------|
+| HW assignments | 30% | weekly |
+|----------------+-----+--------|
+| Final          | 50% |        |
+|----------------+-----+--------|
+| Bonus          |  5% | TBA    |
+|----------------+-----+--------|
 
-*** (Tentative) Schedule
-|-------+-------------------------------------------------------------------------|
-|  Week | Content                                                                 |
-|-------+-------------------------------------------------------------------------|
+*** Schedule
+|-------+-----------------------------------------------------------------------------------------------------------------------|
+|  Week | Content                                                                                                               |
+|-------+-----------------------------------------------------------------------------------------------------------------------|
 |     1 | *Preliminaries*: stochastic processes, Gaussian spaces and Gaussian processes, measure theory on infinite-dimensional spaces. |
-|-------+-------------------------------------------------------------------------|
-|   2-4 | *Brownian motion and continuous martingales*: construction of Brownian motions, path properties; stopping times, continuous-time martingales, Optional Sampling Theorem; the Doob-Meyer decomposition, continuous, square-integrable martingales; Brownian Motion. |
-|-------+-------------------------------------------------------------------------|
-|   5-8 | *Stochastic integrals*: Construction of the Itô integral; technique of localization; the change-of-variable formula (Itô’s Formula); representations of continuous martingales in terms of Brownian motion; The Girsanov theorem. |
-|-------+-------------------------------------------------------------------------|
-|  9-10 | *Brownian motion and partial differential equations*: Feller semi-groups, generators; Brownian motion and harmonic functions; Brownian motion and the heat equation, Feynman--Kac Formula. |
-|-------+-------------------------------------------------------------------------|
-| 11-14 | *Stochastic differential equations*: strong solutions, existence and uniqueness; weak solutions, the martingale problem; linear equations; general Feynman--Kac Formula. |
-|-------+-------------------------------------------------------------------------|
-| 15-16 | *Selected topics on applications*: local time, generalized Itô’s Formula; linear backward stochastic differential equations, existence and uniqueness of adapted solutions. |
-|-------+-------------------------------------------------------------------------|
+|-------+-----------------------------------------------------------------------------------------------------------------------|
+|   2-4 | *Brownian motion and continuous martingales*: construction of Brownian motions, path properties; stopping times, continuous-time martingales, Optional Sampling Theorem, maximal inequality; the Doob-Meyer decomposition; filtration, augmentation and usual condition. |
+|-------+-----------------------------------------------------------------------------------------------------------------------|
+|   5-9 | *Stochastic integrals*: continuous local martingales, quadratic and cross variation;  Construction of the Itô integral; technique of localization; the change-of-variable formula (Itô’s Formula), semi-martingales; Lévy's characterization; representations of continuous martingales as time-change Brownian motion; continuous martingale as Brownian integrals; Girsanov theorem, exponential martingales, Novikov condition. |
+|-------+-----------------------------------------------------------------------------------------------------------------------|
+| 10-14 | *Stochastic differential equations*: Feller semi-groups, generators; strong and weak solutions; Lipschitz case; pathwise uniqueness; Yamada--Watanabe Theorem; martingale problem, existence and uniqueness; strong Markov property for diffusions.|
+|-------+-----------------------------------------------------------------------------------------------------------------------|
+| 12-13| *Connection with partial differential equations*: representation of solutions via diffusion; Feynman--Kac Formula; Brownian motion and harmonic functions; regular boundary points; recurrence of Brownian motions, study of hitting time; Doob's \(h\)-transform and conditioned diffusions. |
+| 14-15 | *Local time*: Tanaka's Formula, generalized Itô’s Formula, Ray--Knight Theorem, Lévy's Theorey.                       |
+|-------+-----------------------------------------------------------------------------------------------------------------------|
 ** MAT212 概率论与数理统计, 2023 秋
 :PROPERTIES:
 :EXPORT_HUGO_BUNDLE: mat212-2023F
