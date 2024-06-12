@@ -24,14 +24,14 @@ My name is LI Liying (李立颖). I am a mathematician working in the probabilit
 :END:
 
 ** Education
-- 2010 - 2014: B.S., Peking University, School of Mathematical Sciences
 - 2014 - 2019: Ph.D., New York University, Courant Institute (advisor: [[https://cims.nyu.edu/~bakhtin/][Yuri Bakhtin]])
+- 2010 - 2014: B.S., Peking University, School of Mathematical Sciences
 ** Work
 - 2023.7 - now: Associate Professor, Southern University of Science and Technology
 - 2022 - 2023: Postdoc, University of Michigan, Ann Arbor
 - 2019 - 2022: Postdoc, University of Toronto, Mississauga
 ** Teaching
-- 2024 Spring: MAT7093, Stochastic Analysis,SUSTech [[#mat7093-2024S][[Course Page]​]]
+- 2024 Spring: MAT7093, Stochastic Analysis ,SUSTech [[#mat7093-2024S][[Course Page]​]]
 - 2023 Fall: MAT212, Probability and mathematical statistics, SUSTech [[#mat212-2023F][[Course Page]​]]
 - 2022 Fall & 2023 Spring: MAT115, Calculus I, UM
 - 2021 Fall & 2022 Spring: MAT337, Introduction to Real Analysis, U of T
@@ -41,6 +41,7 @@ My name is LI Liying (李立颖). I am a mathematician working in the probabilit
 - 2018 Spring: TA, Introduction to Mathematical Analysis II, NYU
 - 2017 Spring: TA, Probability and Statistics, NYU
 ** Invited Talks
+- 2024.6, Shandong University, "Random and stochastic dynamics"
 - 2024.4, 湘潭大学,  Math Department Seminar 
 - 2024.3, BIMSA, Workshop on "interacting Particle Systems and Stochastic Analysis"
 - 2023.11, HKUST, Math Colloquium
@@ -55,9 +56,10 @@ My name is LI Liying (李立颖). I am a mathematician working in the probabilit
 My primary research field is probability.  More specifically, I am interested in ergodic properties of SPDEs and models related to the Kardar--Parisi--Zhang universality class, including stochastic  Burgers/Hamilton--Jacobi equations, directed polymers, first-/last-passage percolation, etc.
 
 ** papers
+- /Khanin Konstantin, L. Li/, On the rate of convergence to coalescing Brownian motions, [[https://arxiv.org/pdf/2110.09731][https://arxiv.org/abs/2110.09731]],
+   Ann. Inst. H. Poincaré Probab. Statist. *60(1):* 208-231 (2024)
 - /Alexander Dunlap, Yu Gu, L. Li/, Localization length of the 1+1 continuum directed random polymer, [[https://arxiv.org/pdf/2211.07318][https://arxiv.org/abs/2211.07318]], Annales Henri Poincaré, *volume 24*, pages 2537–2555 (2023)
 - /Khanin Konstantin, L. Li, Zhanghan Yin/, Point fields of last-passage percolation and coalescing fractional Brownian motions, [[https://arxiv.org/pdf/2112.02247][https://arxiv.org/abs/2112.02247]], Phys. Rev. E *105*, 064127
-- /Khanin Konstantin, L. Li/, On the rate of convergence to coalescing Brownian motions, [[https://arxiv.org/pdf/2110.09731][https://arxiv.org/abs/2110.09731]], accepted by Annales de l'Institut Henri Poincaré
 - /Khanin Konstantin, L. Li/, On end-point distribution for directed polymers and related problems for random forced Burgers equation, Phil. Trans. R. Soc. A.  *380:* 20210081
 - /Yuri Bakhtin, L. Li/, Strongly mixing smooth planer vector field without asymptotic directions, [[https://arxiv.org/pdf/1903.02733][https://arxiv.org/abs/1903.02733]], Nonlinearity *36* 1789 (2023)
 - /Yuri Bakhtin, L. Li/, Weakly mixing smooth planer vector field without asymptotic directions, [[https://arxiv.org/pdf/1808.05544.pdf][https://arxiv.org/abs/1808.05544]], Proc. Amer. Math. Soc., *148* (2020), 4733-4744
