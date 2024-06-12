@@ -8,9 +8,10 @@ My primary research field is probability.  More specifically, I am interested in
 
 ## papers {#papers}
 
+-   _Khanin Konstantin, L. Li_, On the rate of convergence to coalescing Brownian motions, [https://arxiv.org/abs/2110.09731](https://arxiv.org/pdf/2110.09731),
+    Ann. Inst. H. Poincaré Probab. Statist. **60(1):** 208-231 (2024)
 -   _Alexander Dunlap, Yu Gu, L. Li_, Localization length of the 1+1 continuum directed random polymer, [https://arxiv.org/abs/2211.07318](https://arxiv.org/pdf/2211.07318), Annales Henri Poincaré, **volume 24**, pages 2537–2555 (2023)
 -   _Khanin Konstantin, L. Li, Zhanghan Yin_, Point fields of last-passage percolation and coalescing fractional Brownian motions, [https://arxiv.org/abs/2112.02247](https://arxiv.org/pdf/2112.02247), Phys. Rev. E **105**, 064127
--   _Khanin Konstantin, L. Li_, On the rate of convergence to coalescing Brownian motions, [https://arxiv.org/abs/2110.09731](https://arxiv.org/pdf/2110.09731), accepted by Annales de l'Institut Henri Poincaré
 -   _Khanin Konstantin, L. Li_, On end-point distribution for directed polymers and related problems for random forced Burgers equation, Phil. Trans. R. Soc. A.  **380:** 20210081
 -   _Yuri Bakhtin, L. Li_, Strongly mixing smooth planer vector field without asymptotic directions, [https://arxiv.org/abs/1903.02733](https://arxiv.org/pdf/1903.02733), Nonlinearity **36** 1789 (2023)
 -   _Yuri Bakhtin, L. Li_, Weakly mixing smooth planer vector field without asymptotic directions, [https://arxiv.org/abs/1808.05544](https://arxiv.org/pdf/1808.05544.pdf), Proc. Amer. Math. Soc., **148** (2020), 4733-4744

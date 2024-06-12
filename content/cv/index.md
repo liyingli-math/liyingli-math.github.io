@@ -5,8 +5,8 @@ draft = false
 
 ## Education {#education}
 
--   2010 - 2014: B.S., Peking University, School of Mathematical Sciences
 -   2014 - 2019: Ph.D., New York University, Courant Institute (advisor: [Yuri Bakhtin](https://cims.nyu.edu/~bakhtin/))
+-   2010 - 2014: B.S., Peking University, School of Mathematical Sciences
 
 
 ## Work {#work}
@@ -18,7 +18,7 @@ draft = false
 
 ## Teaching {#teaching}
 
--   2024 Spring: MAT7093, Stochastic Analysis,SUSTech [[Course Page]​]({{< relref "mat7093-2024S" >}})
+-   2024 Spring: MAT7093, Stochastic Analysis ,SUSTech [[Course Page]​]({{< relref "mat7093-2024S" >}})
 -   2023 Fall: MAT212, Probability and mathematical statistics, SUSTech [[Course Page]​]({{< relref "mat212-2023F" >}})
 -   2022 Fall &amp; 2023 Spring: MAT115, Calculus I, UM
 -   2021 Fall &amp; 2022 Spring: MAT337, Introduction to Real Analysis, U of T
@@ -31,6 +31,7 @@ draft = false
 
 ## Invited Talks {#invited-talks}
 
+-   2024.6, Shandong University, "Random and stochastic dynamics"
 -   2024.4, 湘潭大学,  Math Department Seminar
 -   2024.3, BIMSA, Workshop on "interacting Particle Systems and Stochastic Analysis"
 -   2023.11, HKUST, Math Colloquium
