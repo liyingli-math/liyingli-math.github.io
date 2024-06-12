@@ -33,8 +33,9 @@ draft = false
 | [HW9](./hw9.pdf)                                    | Apr 22   | [HW9-sol](./hw9_sol.pdf)   |
 | [HW10](./hw10.pdf)                                  | Apr 29   | [HW10-sol](./hw10_sol.pdf) |
 | No HW Apr 29 -- May 6 due to the Labour Day Holiday |          |                            |
-| [HW11](./hw11.pdf)                                  | May 13   |                            |
-| [HW12](./hw12.pdf)                                  | May 20   |                            |
+| [HW11](./hw11.pdf)                                  | May 13   | [HW11-sol](./hw11_sol.pdf) |
+| [HW12](./hw12.pdf)                                  | May 20   | [HW12-sol](./hw12_sol.pdf) |
+| [HW13](./hw13.pdf)                                  | May 27   | [HW13-sol](./hw13_sol.pdf) |
 
 
 ## Grading scheme {#grading-scheme}
