@@ -1,18 +1,16 @@
 +++
-title = "MAT8030 , 2024 Spring"
+title = "MAT Probability, 2024 Fall"
 draft = false
 +++
 
 ## Course Information {#course-information}
 
--   Time: Mon 6-9 pm
--   Location: 三教 309
--   TA: 徐子舟 (12331003 at sustech dot edu dot cn)
+-   Time: Mon 7-10 pm
+-   Location: 三教 107
+-   TA:  ( at sustech dot edu dot cn)
 
 
 ## Lecture note {#lecture-note}
-
-[lecture note](./stochastic-analysis-LN.pdf) (updated regularly)
 
 
 ## HW {#hw}
@@ -20,22 +18,8 @@ draft = false
 -   weekly; usually posted by Tuesday and due next Monday 12pm at noon.
 -   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 
-| Assignments                                         | Due date | Solution (by Mr. Xu)       |
-|-----------------------------------------------------|----------|----------------------------|
-| [HW1](./hw1.pdf)                                    | Feb 24   |                            |
-| [HW2](./hw2.pdf)                                    | Mar 4    | [HW2-sol](./hw2_sol.pdf)   |
-| [HW3](./hw3.pdf)                                    | Mar 11   | [HW3-sol](./hw3_sol.pdf)   |
-| [HW4](./hw4.pdf)                                    | Mar 18   | [HW4-sol](./hw4_sol.pdf)   |
-| [HW5](./hw5.pdf)                                    | Mar 25   | [HW5-sol](./hw5_sol.pdf)   |
-| HW6: Ex 5.32, 5.33                                  | Apr 1    | [HW6-sol](./hw6_sol.pdf)   |
-| [HW7](./hw7.pdf)                                    | Apr 8    | [HW7-sol](./hw7_sol.pdf)   |
-| [HW8](./hw8.pdf)                                    | Apr 15   | [HW8-sol](./hw8_sol.pdf)   |
-| [HW9](./hw9.pdf)                                    | Apr 22   | [HW9-sol](./hw9_sol.pdf)   |
-| [HW10](./hw10.pdf)                                  | Apr 29   | [HW10-sol](./hw10_sol.pdf) |
-| No HW Apr 29 -- May 6 due to the Labour Day Holiday |          |                            |
-| [HW11](./hw11.pdf)                                  | May 13   | [HW11-sol](./hw11_sol.pdf) |
-| [HW12](./hw12.pdf)                                  | May 20   | [HW12-sol](./hw12_sol.pdf) |
-| [HW13](./hw13.pdf)                                  | May 27   | [HW13-sol](./hw13_sol.pdf) |
+| Assignments | Due date | Solution |
+|-------------|----------|----------|
 
 
 ## Grading scheme {#grading-scheme}
