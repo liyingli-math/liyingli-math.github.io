@@ -17,7 +17,8 @@ references
 -   Tao Tang, Xuefeng Wang, [/Lecture notes on partial differential equations/](./PDE-notes-TW.pdf)
 -   Evans, Lawrence C.,  _Partial Differential Equations_. Vol 19, Graduate Studies in Mathematics, AMS
 -   Strauss, Walter A., _Partial Differential Equations: An Introduction_. 2nd ed, Wiley, 2008
--   Courant, R., and D. Hilbert. _Methods of Mathematical Physics_. 1st ed, Wiley, 1989
+-   周蜀林, _偏微分方程_, 北京大学出版社
+-   Courant, R., and Hilbert D., _Methods of Mathematical Physics II: Partial Differential Equations_. 1st ed, Wiley, 1989
 
 
 ## HW {#hw}
@@ -39,13 +40,15 @@ references
 | Bonus          | 5%  | TBA    |
 
 
-## Schedule {#schedule}
+## Schedule (tentative) {#schedule--tentative}
 
-| Week  | Content                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | **Preliminaries**: stochastic processes, Gaussian spaces and Gaussian processes, measure theory on infinite-dimensional spaces.                                                                                                                                                                                                                                                                                                      |
-| 2-4   | **Brownian motion and continuous martingales**: construction of Brownian motions, path properties; stopping times, continuous-time martingales, Optional Sampling Theorem, maximal inequality; the Doob-Meyer decomposition; filtration, augmentation and usual condition.                                                                                                                                                           |
-| 5-9   | **Stochastic integrals**: continuous local martingales, quadratic and cross variation;  Construction of the Itô integral; technique of localization; the change-of-variable formula (Itô’s Formula), semi-martingales; Lévy's characterization; representations of continuous martingales as time-change Brownian motion; continuous martingale as Brownian integrals; Girsanov theorem, exponential martingales, Novikov condition. |
-| 10-14 | **Stochastic differential equations**: Feller semi-groups, generators; strong and weak solutions; Lipschitz case; pathwise uniqueness; Yamada--Watanabe Theorem; martingale problem, existence and uniqueness; strong Markov property for diffusions.                                                                                                                                                                                |
-| 12-13 | **Connection with partial differential equations**: representation of solutions via diffusion; Feynman--Kac Formula; Brownian motion and harmonic functions; regular boundary points; recurrence of Brownian motions, study of hitting time; Doob's \\(h\\)-transform and conditioned diffusions.                                                                                                                                    |
-| 14-15 | **Local time**: Tanaka's Formula, generalized Itô’s Formula, Ray--Knight Theorem, Lévy's Theorey.                                                                                                                                                                                                                                                                                                                                    |
+| Lecture | Content                                                                                                                                                                                                                                        |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1       | **Introduction to PDEs**:  important examples, classical solutions, initial values and boundary conditions, well-posedness, classification.                                                                                                    |
+| 2       | **First-order equations**:  transport problem, methods of characteristics, formation of shocks.                                                                                                                                                |
+| 3-6     | **Parabolic (Heat) equation**: Fourier transform, fundamental solutions; maximum principle and energy estimates; mixed boundary conditions                                                                                                     |
+| 7-11    | **Elliptic equations**: Laplace and Poisson's equation; harmonic function, mean-value properties, maximum principle; fundamental solutions, Green's functions; energy method; eigenvalue problem and separation of variables, Parron's method. |
+| 12      | Midterm                                                                                                                                                                                                                                        |
+| 13-16   | **Wave equation**: solutions formula in dimension 1, 2 and 3; domain of influences; separation of variables, plane and traveling waves.                                                                                                        |
+| 17-20   | **Calculus of Variation**: Sobolev spaces, weak solutions and convergence, Lax-Milgram Theorem                                                                                                                                                 |
+| 21-23   | **Nonlinear first-order equations**: Hamilton--Jacobi equation, entropy solutions, shocks, Hopf--Lax formula.                                                                                                                                  |
