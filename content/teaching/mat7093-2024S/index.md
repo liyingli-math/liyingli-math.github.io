@@ -1,5 +1,5 @@
 +++
-title = "MAT8030 , 2024 Spring"
+title = "MAT7093 Stochastic Analysis, 2024 Spring"
 draft = false
 +++
 
