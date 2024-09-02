@@ -10,7 +10,11 @@ draft = false
 -   TA:  ( at sustech dot edu dot cn)
 
 
-## Lecture note {#lecture-note}
+## Lecture note and references {#lecture-note-and-references}
+
+-   Durrett, Richard. _Probability: Theory and Examples (Fifth edition)_. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019.
+-   Chung, Kai Lai. _A Course in Probability Theory (Third edition)_. San Diego, Calif.: Academic Press, 2007.
+-   Billingsley, Patrick. _Convergence of Probability Measures (2nd edition)_. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
 
 
 ## HW {#hw}
