@@ -161,8 +161,12 @@ references
 - Time: Mon 7-10 pm
 - Location: 三教 107
 - TA:  ( at sustech dot edu dot cn)
-*** Lecture note
+*** Lecture note and references
 # [lecture note](./stochastic-analysis-LN.pdf) (updated regularly)
+
+- Durrett, Richard. /Probability: Theory and Examples (Fifth edition)/. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019.
+- Chung, Kai Lai. /A Course in Probability Theory (Third edition)/. San Diego, Calif.: Academic Press, 2007.
+- Billingsley, Patrick. /Convergence of Probability Measures (2nd edition)/. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
 *** HW
 - weekly; usually posted by Tuesday and due next Monday 12pm at noon.
 - Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
