@@ -107,7 +107,7 @@ My primary research field is probability.  More specifically, I am interested in
 # [lecture note](./stochastic-analysis-LN.pdf) (updated regularly)
 
 references
-- Tao Tang, Xuefeng Wang, [/Lecture notes on partial differential equations/](./PDE-notes-TW.pdf)
+- Tao Tang, Xuefeng Wang, [Lecture notes on partial differential equations](./PDE-notes-TW.pdf)
 - Evans, Lawrence C.,  /Partial Differential Equations/. Vol 19, Graduate Studies in Mathematics, AMS
 - Strauss, Walter A., /Partial Differential Equations: An Introduction/. 2nd ed, Wiley, 2008
 - 周蜀林, /偏微分方程/, 北京大学出版社
