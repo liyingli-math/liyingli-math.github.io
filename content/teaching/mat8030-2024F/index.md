@@ -12,9 +12,10 @@ draft = false
 
 ## Lecture note and references {#lecture-note-and-references}
 
--   Durrett, Richard. _Probability: Theory and Examples (Fifth edition)_. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019.
+-   Durrett, Richard. _Probability: Theory and Examples (Fifth edition)_. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [Copy from Durrett's homepage](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf)
 -   Chung, Kai Lai. _A Course in Probability Theory (Third edition)_. San Diego, Calif.: Academic Press, 2007.
 -   Billingsley, Patrick. _Convergence of Probability Measures (2nd edition)_. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
+-   Kolmogorov, A.N. _Foundations of the Theory of Probability (English Translation)_. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](./Kolmogorov1933.pdf)
 
 
 ## HW {#hw}
