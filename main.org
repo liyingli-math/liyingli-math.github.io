@@ -162,7 +162,7 @@ references
 - Location: 三教 107
 - TA:  ( at sustech dot edu dot cn)
 *** Lecture note and references
-# [lecture note](./stochastic-analysis-LN.pdf) (updated regularly)
+[lecture note](./adv-prob-note.pdf) (updated regularly)
 
 - Durrett, Richard. /Probability: Theory and Examples (Fifth edition)/. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [[https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf][Copy from Durrett's homepage]]
 - Chung, Kai Lai. /A Course in Probability Theory (Third edition)/. San Diego, Calif.: Academic Press, 2007.
