@@ -7,7 +7,7 @@ draft = false
 
 -   Time: Mon 7-10 pm
 -   Location: 三教 107
--   TA:  ( at sustech dot edu dot cn)
+-   TA: 樊泽腾 (fanzet at hotmail dot com)
 
 
 ## Lecture note and references {#lecture-note-and-references}
