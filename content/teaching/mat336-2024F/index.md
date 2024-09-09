@@ -23,7 +23,7 @@ references
 
 ## HW {#hw}
 
--   weekly; usually posted by Tuesday and due next Monday 12pm at noon.
+-   weekly; posted usually by Wednesday, due next Monday before class.
 -   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 
 | Assignments | Due date | Solution |
