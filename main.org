@@ -113,7 +113,7 @@ references
 - 周蜀林, /偏微分方程/, 北京大学出版社
 - Courant, R., and Hilbert D., /Methods of Mathematical Physics II: Partial Differential Equations/. 1st ed, Wiley, 1989
 *** HW
-- weekly; usually posted by Tuesday and due next Monday 12pm at noon.
+- weekly; posted usually by Wednesday, due next Monday before class.
 - Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 |-----------------------------------------------------+----------+----------------------------|
 | Assignments                                         | Due date | Solution                   |
@@ -169,7 +169,7 @@ references
 - Billingsley, Patrick. /Convergence of Probability Measures (2nd edition)/. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
 - Kolmogorov, A.N. /Foundations of the Theory of Probability (English Translation)/. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](./Kolmogorov1933.pdf)
 *** HW
-- weekly; usually posted by Tuesday and due next Monday 12pm at noon.
+- weekly; posted usually by Wednesday, due next Monday before class.
 - Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 |-----------------------------------------------------+----------+----------------------------|
 | Assignments                                         | Due date | Solution                   |
