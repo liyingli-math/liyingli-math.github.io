@@ -112,12 +112,21 @@ references
 - Strauss, Walter A., /Partial Differential Equations: An Introduction/. 2nd ed, Wiley, 2008
 - 周蜀林, /偏微分方程/, 北京大学出版社
 - Courant, R., and Hilbert D., /Methods of Mathematical Physics II: Partial Differential Equations/. 1st ed, Wiley, 1989
+
+  Lecture note
+  |------+-----------------------|
+  | date | file                  |
+  |------+-----------------------|
+  | 9/11 | [Lect 2](./lect2.pdf) |
+  |------+-----------------------|
 *** HW
 - weekly; posted usually by Wednesday, due next Monday before class.
 - Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
-|-----------------------------------------------------+----------+----------------------------|
-| Assignments                                         | Due date | Solution                   |
-|-----------------------------------------------------+----------+----------------------------|
+|--------------------------------+----------+----------|
+| Assignments                    | Due date | Solution |
+|--------------------------------+----------+----------|
+| [HW 1 (incomplete)](./hw1.pdf) | 9/23     |          |
+|--------------------------------+----------+----------|
 *** Grading scheme
 |----------------+------+--------|
 |                |    % |        |

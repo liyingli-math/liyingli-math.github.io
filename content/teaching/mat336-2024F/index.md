@@ -20,14 +20,21 @@ references
 -   周蜀林, _偏微分方程_, 北京大学出版社
 -   Courant, R., and Hilbert D., _Methods of Mathematical Physics II: Partial Differential Equations_. 1st ed, Wiley, 1989
 
+    Lecture note
+
+    | date | file                  |
+    |------|-----------------------|
+    | 9/11 | [Lect 2](./lect2.pdf) |
+
 
 ## HW {#hw}
 
 -   weekly; posted usually by Wednesday, due next Monday before class.
 -   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 
-| Assignments | Due date | Solution |
-|-------------|----------|----------|
+| Assignments                    | Due date | Solution |
+|--------------------------------|----------|----------|
+| [HW 1 (incomplete)](./hw1.pdf) | 9/23     |          |
 
 
 ## Grading scheme {#grading-scheme}
