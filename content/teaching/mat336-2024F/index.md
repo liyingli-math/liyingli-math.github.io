@@ -7,6 +7,7 @@ draft = false
 
 -   Time: Mon 2-4 pm, Wed (biweekly) 10 am-12 pm
 -   Location: 三教 307
+-   Office hour: Mon 4-6 pm
 -   TA: 陈祚俣 (12432008 at sustech dot edu dot cn)
 
 

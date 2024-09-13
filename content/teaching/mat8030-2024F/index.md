@@ -7,6 +7,7 @@ draft = false
 
 -   Time: Mon 7-10 pm
 -   Location: 三教 107
+-   Office hour: M622, Mon 4-6 pm or by appointment
 -   TA: 樊泽腾 (fanzet at hotmail dot com)
 
 
