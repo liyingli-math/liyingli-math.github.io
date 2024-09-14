@@ -7,7 +7,7 @@ draft = false
 
 -   Time: Mon 2-4 pm, Wed (biweekly) 10 am-12 pm
 -   Location: 三教 307
--   Office hour: Mon 4-6 pm
+-   Office hour: M622, Mon 4-6 pm or by appointment
 -   TA: 陈祚俣 (12432008 at sustech dot edu dot cn)
 
 
@@ -26,6 +26,7 @@ references
     | date | file                  |
     |------|-----------------------|
     | 9/11 | [Lect 2](./lect2.pdf) |
+    | 9/14 | [Lect 3](./lect3.pdf) |
 
 
 ## HW {#hw}
@@ -33,9 +34,9 @@ references
 -   weekly; posted usually by Wednesday, due next Monday before class.
 -   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 
-| Assignments                    | Due date | Solution |
-|--------------------------------|----------|----------|
-| [HW 1 (incomplete)](./hw1.pdf) | 9/23     |          |
+| Assignments      | Due date | Solution |
+|------------------|----------|----------|
+| [HW1](./hw1.pdf) | 9/23     |          |
 
 
 ## Grading scheme {#grading-scheme}
@@ -45,7 +46,6 @@ references
 | HW assignments | 20% | weekly |
 | Mid-term       | 30% |        |
 | Final          | 50% |        |
-| Bonus          | 5%  | TBA    |
 
 
 ## Schedule (tentative) {#schedule--tentative}
