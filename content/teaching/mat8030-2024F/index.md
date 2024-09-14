@@ -11,9 +11,18 @@ draft = false
 -   TA: 樊泽腾 (fanzet at hotmail dot com)
 
 
-## Lecture note and references {#lecture-note-and-references}
+## Lecture note {#lecture-note}
 
 [lecture note](./adv-prob-note.pdf) (updated regularly)
+
+hand-written draft notes
+
+| date | file                  |
+|------|-----------------------|
+| 9/14 | [lect 2](./lect2.pdf) |
+
+
+## references {#references}
 
 -   Durrett, Richard. _Probability: Theory and Examples (Fifth edition)_. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [Copy from Durrett's homepage](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf)
 -   Chung, Kai Lai. _A Course in Probability Theory (Third edition)_. San Diego, Calif.: Academic Press, 2007.
