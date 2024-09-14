@@ -35,10 +35,8 @@ draft = false
 
 |                | %   |        |
 |----------------|-----|--------|
-| Participation  | 20% |        |
-| HW assignments | 30% | weekly |
-| Final          | 50% |        |
-| Bonus          | 5%  | TBA    |
+| HW assignments | 40% | weekly |
+| Final          | 60% |        |
 
 
 ## Schedule (tentative) {#schedule--tentative}
