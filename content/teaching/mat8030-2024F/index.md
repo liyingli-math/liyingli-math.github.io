@@ -28,6 +28,7 @@ hand-written draft notes
 -   Chung, Kai Lai. _A Course in Probability Theory (Third edition)_. San Diego, Calif.: Academic Press, 2007.
 -   Billingsley, Patrick. _Convergence of Probability Measures (2nd edition)_. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
 -   Kolmogorov, A.N. _Foundations of the Theory of Probability (English Translation)_. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](./Kolmogorov1933.pdf)
+-   Shiryaev, A. N. _Probability_. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. [Copy from Springer](https://doi.org/10.1007/978-1-4757-2539-1).
 
 
 ## HW {#hw}
@@ -35,9 +36,9 @@ hand-written draft notes
 -   weekly; posted usually by Wednesday, due next Monday before class.
 -   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 
-| Assignments                   | Due date | Solution |
-|-------------------------------|----------|----------|
-| [HW1 (incomplete)](./hw1.pdf) | 9/23     |          |
+| Assignments      | Due date | Solution |
+|------------------|----------|----------|
+| [HW1](./hw1.pdf) | 9/23     |          |
 
 
 ## Grading scheme {#grading-scheme}
