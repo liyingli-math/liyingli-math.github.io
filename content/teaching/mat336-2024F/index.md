@@ -43,8 +43,9 @@ references
 
 |                | %   |        |
 |----------------|-----|--------|
+| Participation  | 5%  |        |
 | HW assignments | 20% | weekly |
-| Mid-term       | 30% |        |
+| Mid-term       | 25% |        |
 | Final          | 50% |        |
 
 
