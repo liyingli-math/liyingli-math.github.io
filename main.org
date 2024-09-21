@@ -131,15 +131,17 @@ references
 | [HW1](./hw1.pdf)   | 9/23     |          |
 |--------------------------------+----------+----------|
 *** Grading scheme
-|----------------+------+--------|
-|                |    % |        |
-|----------------+------+--------|
-| HW assignments |  20% | weekly |
-|----------------+------+--------|
-| Mid-term       | 30%  |        |
-|----------------+------+--------|
-| Final          |  50% |        |
-|----------------+------+--------|
+|----------------+-----+--------|
+|                |   % |        |
+|----------------+-----+--------|
+| Participation  |  5% |        |
+|----------------+-----+--------|
+| HW assignments | 20% | weekly |
+|----------------+-----+--------|
+| Mid-term       | 25% |        |
+|----------------+-----+--------|
+| Final          | 50% |        |
+|----------------+-----+--------|
 
 *** Schedule (tentative)
 | Lecture | Content                                                                                                                                                                                                   |
@@ -173,7 +175,7 @@ references
 - Office hour: M622, Mon 4-6 pm or by appointment
 - TA: 樊泽腾 (fanzet at hotmail dot com)
 *** Lecture note 
-[lecture note](./adv-prob-note.pdf) (updated regularly)
+[lecture note](./adv-prob-note.pdf) (updated up to week 2)
 
 hand-written draft notes
 |------+-----------------------|
