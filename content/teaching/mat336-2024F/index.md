@@ -27,6 +27,7 @@ references
     |------|-----------------------|
     | 9/11 | [Lect 2](./lect2.pdf) |
     | 9/14 | [Lect 3](./lect3.pdf) |
+    | 9/23 | [Lect 4](./lect4.pdf) |
 
 
 ## HW {#hw}
