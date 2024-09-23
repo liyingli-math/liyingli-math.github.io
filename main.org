@@ -122,6 +122,8 @@ references
   |------+-----------------------|
   | 9/14 | [Lect 3](./lect3.pdf) |
   |------+-----------------------|
+  | 9/23 | [Lect 4](./lect4.pdf) |
+  |------+-----------------------|
 *** HW
 - weekly; posted usually by Wednesday, due next Monday before class.
 - Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
