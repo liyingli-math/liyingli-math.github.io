@@ -28,6 +28,7 @@ references
     | 9/11 | [Lect 2](./lect2.pdf) |
     | 9/14 | [Lect 3](./lect3.pdf) |
     | 9/23 | [Lect 4](./lect4.pdf) |
+    | 9/25 | [Lect 5](./lect5.pdf) |
 
 
 ## HW {#hw}
@@ -38,6 +39,7 @@ references
 | Assignments      | Due date | Solution |
 |------------------|----------|----------|
 | [HW1](./hw1.pdf) | 9/23     |          |
+| [HW2](./hw2.pdf) | 9/30     |          |
 
 
 ## Grading scheme {#grading-scheme}
