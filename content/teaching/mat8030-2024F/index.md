@@ -13,7 +13,7 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](./adv-prob-note.pdf) (updated up to week 2)
+[lecture note](./adv-prob-note.pdf) (updated up to week 3)
 
 hand-written draft notes
 
