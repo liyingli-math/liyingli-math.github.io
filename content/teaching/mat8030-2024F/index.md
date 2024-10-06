@@ -21,6 +21,7 @@ hand-written draft notes
 |------|-----------------------|
 | 9/14 | [lect 2](./lect2.pdf) |
 | 9/23 | [lect 3](./lect3.pdf) |
+| 9/30 | [lect 4](./lect4.pdf) |
 
 
 ## references {#references}
@@ -41,6 +42,7 @@ hand-written draft notes
 |------------------|----------|----------|
 | [HW1](./hw1.pdf) | 9/23     |          |
 | [HW2](./hw2.pdf) | 9/30     |          |
+| [HW3](./hw3.pdf) | 10/14    |          |
 
 
 ## Grading scheme {#grading-scheme}
