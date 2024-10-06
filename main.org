@@ -191,6 +191,8 @@ hand-written draft notes
 |------+-----------------------|
 | 9/23 | [lect 3](./lect3.pdf) |
 |------+-----------------------|
+| 9/30 | [lect 4](./lect4.pdf) |
+|------+-----------------------|
 *** references
 - Durrett, Richard. /Probability: Theory and Examples (Fifth edition)/. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [[https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf][Copy from Durrett's homepage]]
 - Chung, Kai Lai. /A Course in Probability Theory (Third edition)/. San Diego, Calif.: Academic Press, 2007.
@@ -207,6 +209,8 @@ hand-written draft notes
 | [HW1](./hw1.pdf) | 9/23     |          |
 |------------------+----------+----------|
 | [HW2](./hw2.pdf) | 9/30     |          |
+|------------------+----------+----------|
+| [HW3](./hw3.pdf) | 10/14    |          |
 |------------------+----------+----------|
 *** Grading scheme
 |----------------+-----+--------|
