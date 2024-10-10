@@ -128,6 +128,8 @@ references
   |------+-----------------------|
   | 9/30 | [Lect 6](./lect6.pdf) |
   |------+-----------------------|
+  | 10/9 | [Lect 7](./lect7.pdf) |
+  |------+-----------------------|
 *** HW
 - weekly; posted usually by Wednesday, due next Monday before class.
 - Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
@@ -137,6 +139,8 @@ references
 | [HW1](./hw1.pdf) | 9/23     |          |
 |------------------+----------+----------|
 | [HW2](./hw2.pdf) | 9/30     |          |
+|------------------+----------+----------|
+| [HW3](./hw3.pdf) | 10/14    |          |
 |------------------+----------+----------|
 *** Grading scheme
 |----------------+-----+--------|
