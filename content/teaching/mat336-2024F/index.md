@@ -30,6 +30,7 @@ references
     | 9/23 | [Lect 4](./lect4.pdf) |
     | 9/25 | [Lect 5](./lect5.pdf) |
     | 9/30 | [Lect 6](./lect6.pdf) |
+    | 10/9 | [Lect 7](./lect7.pdf) |
 
 
 ## HW {#hw}
@@ -41,6 +42,7 @@ references
 |------------------|----------|----------|
 | [HW1](./hw1.pdf) | 9/23     |          |
 | [HW2](./hw2.pdf) | 9/30     |          |
+| [HW3](./hw3.pdf) | 10/14    |          |
 
 
 ## Grading scheme {#grading-scheme}
