@@ -32,6 +32,7 @@ references
     | 9/30  | [Lect 6](./lect6.pdf) |
     | 10/9  | [Lect 7](./lect7.pdf) |
     | 10/14 | [Lect 8](./lect8.pdf) |
+    | 10/21 | [Lect 9](./lect9.pdf) |
 
 
 ## HW {#hw}
