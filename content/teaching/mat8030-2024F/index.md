@@ -23,6 +23,7 @@ hand-written draft notes
 | 9/23  | [lect 3](./lect3.pdf) |
 | 9/30  | [lect 4](./lect4.pdf) |
 | 10/14 | [lect 5](./lect5.pdf) |
+| 10/21 | [lect 6](./lect6.pdf) |
 
 
 ## references {#references}
