@@ -114,7 +114,10 @@ references
 - 周蜀林, /偏微分方程/, 北京大学出版社
 - Courant, R., and Hilbert D., /Methods of Mathematical Physics II: Partial Differential Equations/. 1st ed, Wiley, 1989
 
-  Lecture note
+
+[midterm review](./review-midterm.pdf)
+
+Lecture note
   |-------+-----------------------|
   | date  | file                  |
   |-------+-----------------------|
