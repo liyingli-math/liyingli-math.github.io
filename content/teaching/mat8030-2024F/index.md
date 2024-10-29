@@ -17,13 +17,14 @@ draft = false
 
 hand-written draft notes
 
-| date  | file                  |
-|-------|-----------------------|
-| 9/14  | [lect 2](./lect2.pdf) |
-| 9/23  | [lect 3](./lect3.pdf) |
-| 9/30  | [lect 4](./lect4.pdf) |
-| 10/14 | [lect 5](./lect5.pdf) |
-| 10/21 | [lect 6](./lect6.pdf) |
+| date  | file                   |
+|-------|------------------------|
+| 9/14  | [lect 2](./lect2.pdf)  |
+| 9/23  | [lect 3](./lect3.pdf)  |
+| 9/30  | [lect 4](./lect4.pdf)  |
+| 10/14 | [lect 5](./lect5.pdf)  |
+| 10/21 | [lect 6](./lect6.pdf)  |
+| 10/28 | [lect 7](./lect07.pdf) |
 
 
 ## references {#references}

@@ -139,6 +139,8 @@ Lecture note
   |-------+-----------------------|
   | 10/23 | [Lect 10](./lect-10.pdf) |
   |-------+-----------------------|
+  | 10/28 | [Lect 11](./lect-11.pdf) |
+  |-------+-----------------------|
 
 *** HW
 - weekly; posted usually by Wednesday, due next Monday before class.
@@ -217,6 +219,9 @@ hand-written draft notes
 |-------+-----------------------|
 | 10/21 | [lect 6](./lect6.pdf) |
 |-------+-----------------------|
+| 10/28 | [lect 7](./lect07.pdf) |
+|-------+-----------------------|
+
 *** references
 - Durrett, Richard. /Probability: Theory and Examples (Fifth edition)/. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [[https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf][Copy from Durrett's homepage]]
 - Chung, Kai Lai. /A Course in Probability Theory (Third edition)/. San Diego, Calif.: Academic Press, 2007.
