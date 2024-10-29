@@ -36,6 +36,7 @@ Lecture note
 | 10/14 | [Lect 8](./lect8.pdf)    |
 | 10/21 | [Lect 9](./lect9.pdf)    |
 | 10/23 | [Lect 10](./lect-10.pdf) |
+| 10/23 | [Lect 11](./lect-11.pdf) |
 
 
 ## HW {#hw}
