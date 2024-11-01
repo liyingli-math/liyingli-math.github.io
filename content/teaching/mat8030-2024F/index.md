@@ -17,12 +17,14 @@ draft = false
 
 hand-written draft notes
 
-| date  | file                  |
-|-------|-----------------------|
-| 9/14  | [lect 2](./lect2.pdf) |
-| 9/23  | [lect 3](./lect3.pdf) |
-| 9/30  | [lect 4](./lect4.pdf) |
-| 10/14 | [lect 5](./lect5.pdf) |
+| date  | file                   |
+|-------|------------------------|
+| 9/14  | [lect 2](./lect2.pdf)  |
+| 9/23  | [lect 3](./lect3.pdf)  |
+| 9/30  | [lect 4](./lect4.pdf)  |
+| 10/14 | [lect 5](./lect5.pdf)  |
+| 10/21 | [lect 6](./lect6.pdf)  |
+| 10/28 | [lect 7](./lect07.pdf) |
 
 
 ## references {#references}
@@ -45,6 +47,7 @@ hand-written draft notes
 | [HW2](./hw2.pdf) | 9/30     |          |
 | [HW3](./hw3.pdf) | 10/14    |          |
 | [HW4](./hw4.pdf) | 10/21    |          |
+| [HW5](./hw5.pdf) | 10/28    |          |
 
 
 ## Grading scheme {#grading-scheme}
@@ -57,14 +60,14 @@ hand-written draft notes
 
 ## Schedule (tentative) {#schedule--tentative}
 
-| Week    | Content                                                                                                                                                                                                                                                                                                                                                 |
-|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1-2     | **Measure theory preliminaries**: elementary probability; measurable spaces, sigma-fields, probability spaces and random variables; distribution functions, classification of monotone functions; examples of probability spaces, Dynkin's Theorem, Kolmogorov Extension Theorem.  Integration and expectation,  convergence theorems, Fubini's Theorem |
-| 3       | **Mode of convergence**: convergence in probability, weak convergence, convergence in law; almost sure convergence, Borel--Cantelli Lemma; uniform integrability, convergence in moments.                                                                                                                                                               |
-| 4-5     | **Law of Large Numbers**: independence of random variables and sigma-fields; weak law of large numbers, Chebyshev's inequality, truncation; strong law of large numbers, tail sigma-fields, zero-one law, triangle arrays, convergence of random series, Kolmogorov's Three Series Theorem; (optional) ergodic theory, renewal theory, large deviation  |
-| 6-7     | **Central Limit Theorem**: weak convergence; characteristic functions and inversion formula; Levy's continuity Theorem; Lindeburg's condition; stable laws and infinitely divisible distributions                                                                                                                                                       |
-| 8-9     | **Discrete martingales**: conditional expectations; Doob's inequalities, uniformly integrable martingales, down-crossing inequality and a.s. convergence; stopping times, optional sampling theorem                                                                                                                                                     |
-| 10 - 11 | **Markov chains**: random walks, zero-one law, recurrence; stationary measures; strong Markov property.                                                                                                                                                                                                                                                 |
-| 12      | **Ergodic Theorems**: measure preserving map, invariant sets; invariant measure, ergodic measure; Birkhoff's Ergodic Theorem; subadditive ergodic theorem.                                                                                                                                                                                              |
-| 13 - 14 | **Functional CLT**: measures on metric spaces, weak convergence; Brownian motions; Donsker's invariance principle; CLT for martingales; CLT for stationary sequences; mixing.                                                                                                                                                                           |
-| 15-16   | **Other topics and review**: regular conditional expectation; renewal process                                                                                                                                                                                                                                                                           |
+-   **Measure theory preliminaries (weeks 1-2)**: properties of measures, probability spaces;  sigma-algebras, monotone class theorem, principle of appropriate sets; distribution functions, construction of measures, Carathéodory's extension theorem; decomposition of distribution functions, singular and absolute continuity, singular measures, Cantor set and function.
+-   **Random variables and integration (week 2)**: measurable maps, random variables and vectors, Borel measurability; simple functions, expectation of random variables; monotone/dominated/bounded convergence theorems, Fatou's lemma; change of variables.
+-   **Mode of convergence (week 3)**: almost sure convergence, convergence in probability, convergence in Lp, convergence in distribution; first Borel--Cantelli lemma; uniform integrability.
+-   **Independence and product measures (week 4)**: independence of r.v.'s, independence of sigma-algebras; product measures, Fubini's theorem, cross-section, Fubini on complete measure spaces; Kolmogorov's extension theorem, cylinder sets, consistency condition, iid r.v.'s.
+-   **Law of large numbers (weeks 5-6)**: uncorrelated r.v.'s, Chebyshev's inequality, L2 LLN; weak LLN, convergence of  triangular arrays; second Borel--Cantelli lemma, strong LLN, tail sigma-algebras, Kolmogorov's 0-1 law, Kolmogorov's three-series theorem.
+-   **Central Limit Theorem (weeks 7-8)**: weak convergence; characteristic functions and inversion formula; Levy's continuity Theorem; Lindeburg's condition; stable laws and infinitely divisible distributions
+-   **Discrete martingales (weeks 9-10)**: conditional expectations; Doob's inequalities, uniformly integrable martingales, down-crossing inequality and a.s. convergence; stopping times, optional sampling theorem
+-   **Markov chains (weeks 11-12)**: random walks, zero-one law, recurrence; stationary measures; strong Markov property.
+-   **Ergodic Theorems (week 13)**: measure preserving map, invariant sets; invariant measure, ergodic measure; Birkhoff's Ergodic Theorem; subadditive ergodic theorem.
+-   **Functional CLT (week 14)**: measures on metric spaces, weak convergence; Brownian motions; Donsker's invariance principle; CLT for martingales; CLT for stationary sequences; mixing.
+-   **Other topics and review (weeks 15-16)**: regular conditional expectation; renewal process
