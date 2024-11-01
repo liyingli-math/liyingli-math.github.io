@@ -21,17 +21,22 @@ references
 -   周蜀林, _偏微分方程_, 北京大学出版社
 -   Courant, R., and Hilbert D., _Methods of Mathematical Physics II: Partial Differential Equations_. 1st ed, Wiley, 1989
 
-    Lecture note
+[midterm review](./review-midterm.pdf)
 
-    | date  | file                  |
-    |-------|-----------------------|
-    | 9/11  | [Lect 2](./lect2.pdf) |
-    | 9/14  | [Lect 3](./lect3.pdf) |
-    | 9/23  | [Lect 4](./lect4.pdf) |
-    | 9/25  | [Lect 5](./lect5.pdf) |
-    | 9/30  | [Lect 6](./lect6.pdf) |
-    | 10/9  | [Lect 7](./lect7.pdf) |
-    | 10/14 | [Lect 8](./lect8.pdf) |
+Lecture note
+
+| date  | file                     |
+|-------|--------------------------|
+| 9/11  | [Lect 2](./lect2.pdf)    |
+| 9/14  | [Lect 3](./lect3.pdf)    |
+| 9/23  | [Lect 4](./lect4.pdf)    |
+| 9/25  | [Lect 5](./lect5.pdf)    |
+| 9/30  | [Lect 6](./lect6.pdf)    |
+| 10/9  | [Lect 7](./lect7.pdf)    |
+| 10/14 | [Lect 8](./lect8.pdf)    |
+| 10/21 | [Lect 9](./lect9.pdf)    |
+| 10/23 | [Lect 10](./lect-10.pdf) |
+| 10/23 | [Lect 11](./lect-11.pdf) |
 
 
 ## HW {#hw}
@@ -45,6 +50,7 @@ references
 | [HW2](./hw2.pdf) | 9/30     |          |
 | [HW3](./hw3.pdf) | 10/14    |          |
 | [HW4](./hw4.pdf) | 10/21    |          |
+| [HW5](./hw5.pdf) | 10/28    |          |
 
 
 ## Grading scheme {#grading-scheme}
