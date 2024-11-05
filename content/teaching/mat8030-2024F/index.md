@@ -25,6 +25,7 @@ hand-written draft notes
 | 10/14 | [lect 5](./lect5.pdf)  |
 | 10/21 | [lect 6](./lect6.pdf)  |
 | 10/28 | [lect 7](./lect07.pdf) |
+| 11/4  | [lect 8](./lect08.pdf) |
 
 
 ## references {#references}
