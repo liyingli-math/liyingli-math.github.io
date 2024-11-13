@@ -20,8 +20,11 @@ references
 -   Strauss, Walter A., _Partial Differential Equations: An Introduction_. 2nd ed, Wiley, 2008
 -   周蜀林, _偏微分方程_, 北京大学出版社
 -   Courant, R., and Hilbert D., _Methods of Mathematical Physics II: Partial Differential Equations_. 1st ed, Wiley, 1989
+-   Qing Han, Fanghua Lin, _Elliptic Partial Differential Equations_. 2nd ed, AMS Lecture Notes.
 
 [midterm review](./review-midterm.pdf)
+
+[\*lecture note\*](./PDE-H-note.pdf) (updated regularly)
 
 Lecture note
 
@@ -36,7 +39,8 @@ Lecture note
 | 10/14 | [Lect 8](./lect8.pdf)    |
 | 10/21 | [Lect 9](./lect9.pdf)    |
 | 10/23 | [Lect 10](./lect-10.pdf) |
-| 10/23 | [Lect 11](./lect-11.pdf) |
+| 10/28 | [Lect 11](./lect-11.pdf) |
+| 11/11 | See the lecture note     |
 
 
 ## HW {#hw}
