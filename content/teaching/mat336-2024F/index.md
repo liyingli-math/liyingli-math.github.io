@@ -24,7 +24,7 @@ references
 
 [midterm review](./review-midterm.pdf)
 
-[\*lecture note\*](./PDE-H-note.pdf) (updated regularly)
+[lecture note](./PDE-H-note.pdf)
 
 Lecture note
 
@@ -40,7 +40,7 @@ Lecture note
 | 10/21 | [Lect 9](./lect9.pdf)    |
 | 10/23 | [Lect 10](./lect-10.pdf) |
 | 10/28 | [Lect 11](./lect-11.pdf) |
-| 11/11 | See the lecture note     |
+| 11/11 | See the note above       |
 
 
 ## HW {#hw}
@@ -48,13 +48,14 @@ Lecture note
 -   weekly; posted usually by Wednesday, due next Monday before class.
 -   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 
-| Assignments      | Due date | Solution |
-|------------------|----------|----------|
-| [HW1](./hw1.pdf) | 9/23     |          |
-| [HW2](./hw2.pdf) | 9/30     |          |
-| [HW3](./hw3.pdf) | 10/14    |          |
-| [HW4](./hw4.pdf) | 10/21    |          |
-| [HW5](./hw5.pdf) | 10/28    |          |
+| Assignments      | Due date |
+|------------------|----------|
+| [HW1](./hw1.pdf) | 9/23     |
+| [HW2](./hw2.pdf) | 9/30     |
+| [HW3](./hw3.pdf) | 10/14    |
+| [HW4](./hw4.pdf) | 10/21    |
+| [HW5](./hw5.pdf) | 10/28    |
+| [HW6](./hw6.pdf) | 11/18    |
 
 
 ## Grading scheme {#grading-scheme}
