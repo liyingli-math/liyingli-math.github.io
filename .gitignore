@@ -54,4 +54,5 @@ flycheck_*.el
 # public site
 /public
 
-
+# org cache
+/static/ltximg
