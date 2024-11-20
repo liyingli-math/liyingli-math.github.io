@@ -41,6 +41,7 @@ Lecture note
 | 10/23 | [Lect 10](./lect-10.pdf) |
 | 10/28 | [Lect 11](./lect-11.pdf) |
 | 11/11 | See the note above       |
+| 11/18 | See the note above       |
 
 
 ## HW {#hw}
@@ -56,6 +57,7 @@ Lecture note
 | [HW4](./hw4.pdf) | 10/21    |
 | [HW5](./hw5.pdf) | 10/28    |
 | [HW6](./hw6.pdf) | 11/18    |
+| [HW7](./hw7.pdf) | 11/18    |
 
 
 ## Grading scheme {#grading-scheme}
