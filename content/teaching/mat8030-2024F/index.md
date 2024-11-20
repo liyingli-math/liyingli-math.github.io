@@ -13,7 +13,7 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](./adv-prob-note.pdf) (updated up to lect 8)
+[lecture note](./adv-prob-note.pdf) (updated up to lect 9)
 
 hand-written draft notes
 
@@ -26,6 +26,7 @@ hand-written draft notes
 | 10/21 | [lect 6](./lect6.pdf)  |
 | 10/28 | [lect 7](./lect07.pdf) |
 | 11/4  | [lect 8](./lect08.pdf) |
+| 11/11 | See the lecture note   |
 
 
 ## references {#references}

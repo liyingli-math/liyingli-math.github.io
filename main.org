@@ -214,7 +214,7 @@ Lecture note
 - Office hour: M622, Mon 4-6 pm or by appointment
 - TA: 樊泽腾 (fanzet at hotmail dot com)
 *** Lecture note 
-[lecture note](./adv-prob-note.pdf) (updated up to lect 8)
+[lecture note](./adv-prob-note.pdf) (updated up to lect 9)
 
 hand-written draft notes
 |-------+------------------------|
@@ -234,6 +234,9 @@ hand-written draft notes
 |-------+------------------------|
 | 11/4  | [lect 8](./lect08.pdf) |
 |-------+------------------------|
+| 11/11 | See the lecture note |
+|-------+------------------------|
+
 *** references
 - Durrett, Richard. /Probability: Theory and Examples (Fifth edition)/. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [[https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf][Copy from Durrett's homepage]]
 - Chung, Kai Lai. /A Course in Probability Theory (Third edition)/. San Diego, Calif.: Academic Press, 2007.
