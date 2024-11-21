@@ -52,6 +52,7 @@ hand-written draft notes
 | [HW5](./hw5.pdf) | 10/28    |
 | [HW6](./hw6.pdf) | 11/11    |
 | [HW7](./hw7.pdf) | 11/18    |
+| [HW8](./hw8.pdf) | 11/25    |
 
 
 ## Grading scheme {#grading-scheme}
