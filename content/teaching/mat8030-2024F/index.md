@@ -13,7 +13,7 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](./adv-prob-note.pdf) (updated up to lect 9)
+[lecture note](./adv-prob-note.pdf) (last update: 11/21 )
 
 hand-written draft notes
 
@@ -52,6 +52,7 @@ hand-written draft notes
 | [HW5](./hw5.pdf) | 10/28    |
 | [HW6](./hw6.pdf) | 11/11    |
 | [HW7](./hw7.pdf) | 11/18    |
+| [HW8](./hw8.pdf) | 11/25    |
 
 
 ## Grading scheme {#grading-scheme}
