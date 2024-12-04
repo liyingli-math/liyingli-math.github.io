@@ -45,11 +45,12 @@ Lecture note
 | 11/20     | [Lect 14](./lect-14.pdf)                                    |
 |           | Also see the note for some discussion on Fourier transforms |
 | 11/25, 27 | [Lect 15 and 16](./lect-15-and-16.pdf)                      |
+| 12/2, 4   | [Lect 17 and 18](./lect-17-and-18.pdf)                      |
 
 
 ## HW {#hw}
 
--   weekly; posted usually by Wednesday, due next Monday before class.
+-   weekly; posted by Wednesday, due next Monday before class.
 -   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 
 | Assignments      | Due date |
@@ -62,6 +63,7 @@ Lecture note
 | [HW6](./hw6.pdf) | 11/18    |
 | [HW7](./hw7.pdf) | 11/25    |
 | [HW8](./hw8.pdf) | 12/2     |
+| [HW9](./hw9.pdf) | 12/9     |
 
 
 ## Grading scheme {#grading-scheme}
