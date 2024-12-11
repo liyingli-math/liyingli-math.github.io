@@ -46,6 +46,7 @@ Lecture note
 |           | Also see the note for some discussion on Fourier transforms |
 | 11/25, 27 | [Lect 15 and 16](./lect-15-and-16.pdf)                      |
 | 12/2, 4   | [Lect 17 and 18](./lect-17-and-18.pdf)                      |
+| 12/9      | [Lect 19](./lect-19.pdf)                                    |
 
 
 ## HW {#hw}
