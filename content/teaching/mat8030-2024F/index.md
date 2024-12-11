@@ -17,16 +17,17 @@ draft = false
 
 hand-written draft notes
 
-| date  | file                   |
-|-------|------------------------|
-| 9/14  | [lect 2](./lect2.pdf)  |
-| 9/23  | [lect 3](./lect3.pdf)  |
-| 9/30  | [lect 4](./lect4.pdf)  |
-| 10/14 | [lect 5](./lect5.pdf)  |
-| 10/21 | [lect 6](./lect6.pdf)  |
-| 10/28 | [lect 7](./lect07.pdf) |
-| 11/4  | [lect 8](./lect08.pdf) |
-| 11/11 | See the lecture note   |
+| date  | file                     |
+|-------|--------------------------|
+| 9/14  | [lect 2](./lect2.pdf)    |
+| 9/23  | [lect 3](./lect3.pdf)    |
+| 9/30  | [lect 4](./lect4.pdf)    |
+| 10/14 | [lect 5](./lect5.pdf)    |
+| 10/21 | [lect 6](./lect6.pdf)    |
+| 10/28 | [lect 7](./lect07.pdf)   |
+| 11/4  | [lect 8](./lect08.pdf)   |
+| 11/11 | See the lecture note     |
+| 12/9  | [lect 11](./lect-11.pdf) |
 
 
 ## references {#references}
@@ -43,17 +44,18 @@ hand-written draft notes
 -   weekly; posted usually by Wednesday, due next Monday before class.
 -   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 
-| Assignments      | Due date |
-|------------------|----------|
-| [HW1](./hw1.pdf) | 9/23     |
-| [HW2](./hw2.pdf) | 9/30     |
-| [HW3](./hw3.pdf) | 10/14    |
-| [HW4](./hw4.pdf) | 10/21    |
-| [HW5](./hw5.pdf) | 10/28    |
-| [HW6](./hw6.pdf) | 11/11    |
-| [HW7](./hw7.pdf) | 11/18    |
-| [HW8](./hw8.pdf) | 11/25    |
-| [HW9](./hw9.pdf) | 12/2     |
+| Assignments        | Due date |
+|--------------------|----------|
+| [HW1](./hw1.pdf)   | 9/23     |
+| [HW2](./hw2.pdf)   | 9/30     |
+| [HW3](./hw3.pdf)   | 10/14    |
+| [HW4](./hw4.pdf)   | 10/21    |
+| [HW5](./hw5.pdf)   | 10/28    |
+| [HW6](./hw6.pdf)   | 11/11    |
+| [HW7](./hw7.pdf)   | 11/18    |
+| [HW8](./hw8.pdf)   | 11/25    |
+| [HW9](./hw9.pdf)   | 12/2     |
+| [HW10](./hw10.pdf) | 12/16    |
 
 
 ## Grading scheme {#grading-scheme}
