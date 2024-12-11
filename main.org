@@ -154,6 +154,8 @@ Lecture note
   |-------+-------------------------------------------------------------|
   | 12/2, 4    | [Lect 17 and 18](./lect-17-and-18.pdf)               |
   |-------+-------------------------------------------------------------|
+  | 12/9       | [Lect 19](./lect-19.pdf)              |
+  |-------+-------------------------------------------------------------|
 *** HW
 - weekly; posted by Wednesday, due next Monday before class.
 - Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
@@ -227,26 +229,27 @@ Lecture note
 [lecture note](./adv-prob-note.pdf) (last update: 12/5 )
 
 hand-written draft notes
-|-------+------------------------|
-| date  | file                   |
-|-------+------------------------|
-| 9/14  | [lect 2](./lect2.pdf)  |
-|-------+------------------------|
-| 9/23  | [lect 3](./lect3.pdf)  |
-|-------+------------------------|
-| 9/30  | [lect 4](./lect4.pdf)  |
-|-------+------------------------|
-| 10/14 | [lect 5](./lect5.pdf)  |
-|-------+------------------------|
-| 10/21 | [lect 6](./lect6.pdf)  |
-|-------+------------------------|
-| 10/28 | [lect 7](./lect07.pdf) |
-|-------+------------------------|
-| 11/4  | [lect 8](./lect08.pdf) |
-|-------+------------------------|
-| 11/11 | See the lecture note |
-|-------+------------------------|
-
+|-------+--------------------------|
+| date  | file                     |
+|-------+--------------------------|
+| 9/14  | [lect 2](./lect2.pdf)    |
+|-------+--------------------------|
+| 9/23  | [lect 3](./lect3.pdf)    |
+|-------+--------------------------|
+| 9/30  | [lect 4](./lect4.pdf)    |
+|-------+--------------------------|
+| 10/14 | [lect 5](./lect5.pdf)    |
+|-------+--------------------------|
+| 10/21 | [lect 6](./lect6.pdf)    |
+|-------+--------------------------|
+| 10/28 | [lect 7](./lect07.pdf)   |
+|-------+--------------------------|
+| 11/4  | [lect 8](./lect08.pdf)   |
+|-------+--------------------------|
+| 11/11 | See the lecture note     |
+|-------+--------------------------|
+| 12/9  | [lect 11](./lect-11.pdf) |
+|-------+--------------------------|
 *** references
 - Durrett, Richard. /Probability: Theory and Examples (Fifth edition)/. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [[https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf][Copy from Durrett's homepage]]
 - Chung, Kai Lai. /A Course in Probability Theory (Third edition)/. San Diego, Calif.: Academic Press, 2007.
@@ -277,6 +280,8 @@ hand-written draft notes
 | [HW8](./hw8.pdf) | 11/25    |
 |------------------+----------+
 | [HW9](./hw9.pdf) | 12/2     |
+|------------------+----------+
+| [HW10](./hw10.pdf)   | 12/16    |
 |------------------+----------+
 *** Grading scheme
 |----------------+-----+--------|
