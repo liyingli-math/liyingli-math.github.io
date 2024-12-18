@@ -47,6 +47,7 @@ Lecture note
 | 11/25, 27 | [Lect 15 and 16](./lect-15-and-16.pdf)                      |
 | 12/2, 4   | [Lect 17 and 18](./lect-17-and-18.pdf)                      |
 | 12/9      | [Lect 19](./lect-19.pdf)                                    |
+| 12/16, 18 | [Lect 20 and 21](./lect-20-and-21.pdf)                      |
 
 
 ## HW {#hw}
@@ -54,17 +55,18 @@ Lecture note
 -   weekly; posted by Wednesday, due next Monday before class.
 -   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
 
-| Assignments      | Due date |
-|------------------|----------|
-| [HW1](./hw1.pdf) | 9/23     |
-| [HW2](./hw2.pdf) | 9/30     |
-| [HW3](./hw3.pdf) | 10/14    |
-| [HW4](./hw4.pdf) | 10/21    |
-| [HW5](./hw5.pdf) | 10/28    |
-| [HW6](./hw6.pdf) | 11/18    |
-| [HW7](./hw7.pdf) | 11/25    |
-| [HW8](./hw8.pdf) | 12/2     |
-| [HW9](./hw9.pdf) | 12/9     |
+| Assignments        | Due date |
+|--------------------|----------|
+| [HW1](./hw1.pdf)   | 9/23     |
+| [HW2](./hw2.pdf)   | 9/30     |
+| [HW3](./hw3.pdf)   | 10/14    |
+| [HW4](./hw4.pdf)   | 10/21    |
+| [HW5](./hw5.pdf)   | 10/28    |
+| [HW6](./hw6.pdf)   | 11/18    |
+| [HW7](./hw7.pdf)   | 11/25    |
+| [HW8](./hw8.pdf)   | 12/2     |
+| [HW9](./hw9.pdf)   | 12/9     |
+| [HW10](./hw10.pdf) | 12/23    |
 
 
 ## Grading scheme {#grading-scheme}
