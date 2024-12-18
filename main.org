@@ -156,6 +156,9 @@ Lecture note
   |-------+-------------------------------------------------------------|
   | 12/9       | [Lect 19](./lect-19.pdf)              |
   |-------+-------------------------------------------------------------|
+  | 12/16, 18  | [Lect 20 and 21](./lect-20-and-21.pdf) |
+  |-------+-------------------------------------------------------------|
+
 *** HW
 - weekly; posted by Wednesday, due next Monday before class.
 - Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
@@ -179,6 +182,8 @@ Lecture note
 | [HW8](./hw8.pdf) | 12/2     |
 |------------------+----------+
 | [HW9](./hw9.pdf) | 12/9     |
+|------------------+----------+
+| [HW10](./hw10.pdf) | 12/23    |
 |------------------+----------+
 
 *** Grading scheme
