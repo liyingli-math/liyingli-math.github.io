@@ -48,6 +48,7 @@ Lecture note
 | 12/2, 4   | [Lect 17 and 18](./lect-17-and-18.pdf)                      |
 | 12/9      | [Lect 19](./lect-19.pdf)                                    |
 | 12/16, 18 | [Lect 20 and 21](./lect-20-and-21.pdf)                      |
+| 12/23     | [Lect 22](./lect-22.pdf)                                    |
 
 
 ## HW {#hw}
