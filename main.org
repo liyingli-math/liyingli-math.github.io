@@ -233,7 +233,7 @@ Lecture note
 - Office hour: M622, Mon 4-6 pm or by appointment
 - TA: 樊泽腾 (fanzet at hotmail dot com)
 *** Lecture note 
-[lecture note](./adv-prob-note.pdf) (last update: 12/5 )
+[lecture note](./adv-prob-note.pdf) (last update: 12/24 )
 
 hand-written draft notes
 |-------+--------------------------|
