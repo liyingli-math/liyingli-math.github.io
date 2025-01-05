@@ -24,6 +24,8 @@ references
 
 [midterm review](./review-midterm.pdf)
 
+[final review](./review-final.pdf)
+
 [lecture note](./PDE-H-note.pdf)
 
 Lecture note
