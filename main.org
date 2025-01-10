@@ -85,10 +85,10 @@ My primary research field is probability.  More specifically, I am interested in
 *** Current semester
 [[#mat7093-2025S]]
 
-[[#mat336-2024F]]
-
 *** Past
 [[#mat8030-2024F]]
+
+[[#mat336-2024F]]
 
 [[#mat7093-2024S]]
  
