@@ -5,20 +5,20 @@ draft = false
 
 ## Course Information {#course-information}
 
--   Time: Mon 6-9 pm
+-   Time: Mon 6 - 9 PM
 -   Location: 三教 309
 -   TA: 徐子舟 (12331003 at sustech dot edu dot cn)
 
 
 ## Lecture note {#lecture-note}
 
-[lecture note](./stochastic-analysis-LN.pdf) (updated regularly)
+[lecture note](../notes/stochastic-analysis-LN.pdf)
 
 
 ## HW {#hw}
 
--   weekly; usually posted by Tuesday and due next Monday 12pm at noon.
--   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
+-   weekly; posted by Tuesday and due next Monday noon.
+-   We encourage discussion and collaboration, but students should mention the names of their collaborators in their submitted
 
 | Assignments                                         | Due date | Solution (by Mr. Xu)       |
 |-----------------------------------------------------|----------|----------------------------|
