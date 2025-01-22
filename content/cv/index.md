@@ -18,7 +18,7 @@ draft = false
 
 ## Teaching {#teaching}
 
--   2024 Spring: MAT7093, Stochastic Analysis ,SUSTech [[Course Page]​]({{< relref "mat7093-2024S" >}})
+-   2024 Spring: MAT7093, Stochastic Analysis, SUSTech [[Course Page]​]({{< relref "mat7093-2024S" >}})
 -   2023 Fall: MAT212, Probability and mathematical statistics, SUSTech [[Course Page]​]({{< relref "mat212-2023F" >}})
 -   2022 Fall &amp; 2023 Spring: MAT115, Calculus I, UM
 -   2021 Fall &amp; 2022 Spring: MAT337, Introduction to Real Analysis, U of T

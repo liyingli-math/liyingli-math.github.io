@@ -5,9 +5,9 @@ draft = false
 
 ## Course Information {#course-information}
 
--   Time: Mon 2-4 pm, Wed (biweekly) 10 am-12 pm
+-   Time: Mon 2:10 - 4 PM, Wed (biweekly) 10:20 AM - 12:10 PM
 -   Location: 三教 307
--   Office hour: M622, Mon 4-6 pm or by appointment
+-   Office hour: M622, Mon 4-6 PM or by appointment
 -   TA: 陈祚俣 (12432008 at sustech dot edu dot cn)
 
 
@@ -17,7 +17,7 @@ references
 
 -   Tao Tang, Xuefeng Wang, [Lecture notes on partial differential equations](./PDE-notes-TW.pdf)
 -   Evans, Lawrence C.,  _Partial Differential Equations_. Vol 19, Graduate Studies in Mathematics, AMS
--   Strauss, Walter A., _Partial Differential Equations: An Introduction_. 2nd ed, Wiley, 2008
+-   Strauss, Walter A., _Partial Differential Equations: An Introduction_.  2nd ed, Wiley, 2008
 -   周蜀林, _偏微分方程_, 北京大学出版社
 -   Courant, R., and Hilbert D., _Methods of Mathematical Physics II: Partial Differential Equations_. 1st ed, Wiley, 1989
 -   Qing Han, Fanghua Lin, _Elliptic Partial Differential Equations_. 2nd ed, AMS Lecture Notes.
@@ -56,7 +56,7 @@ Lecture note
 ## HW {#hw}
 
 -   weekly; posted by Wednesday, due next Monday before class.
--   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
+-   We encourage discussion and collaboration, but students should mention the names of their collaborators in their submitted work.
 
 | Assignments        | Due date |
 |--------------------|----------|
