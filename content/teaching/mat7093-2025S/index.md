@@ -12,12 +12,12 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](../notes/stochastic-analysis-LN.pdf) (updated regularly)
+[lecture note](../notes/stochastic-analysis-LN.pdf)
 
 
 ## references {#references}
 
-We will loosely follow Le Gall's presentation at the beginning, and then switch to KS, Chapters 5 and 6 for SDEs and Lévy's theory. KS chapters 1-4 can be a substitute for Le Gall but they are more technically involved.
+We will follow Le Gall's presentation at the beginning, and then switch to KS, Chapters 5 and 6 for SDEs and Lévy's theory. KS chapters 1-4 can be a substitute for Le Gall but they are more technically involved.
 
 -   Le Gall, Jean-François. Brownian Motion, Martingales, and Stochastic Calculus. Vol. 274. Graduate Texts in Mathematics. Cham: Springer International Publishing, 2016. <https://doi.org/10.1007/978-3-319-31089-3>.
 -   Karatzas, Ioannis, and Steven Shreve. Brownian Motion and Stochastic Calculus. 2nd ed. Graduate Texts in Mathematics. New York: Springer-Verlag, 1998. <https://www.springer.com/us/book/9780387976556>.

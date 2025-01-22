@@ -5,9 +5,9 @@ draft = false
 
 ## Course Information {#course-information}
 
--   Time: Mon 7-10 pm
+-   Time: Mon 7 - 10 PM
 -   Location: 三教 107
--   Office hour: M622, Mon 4-6 pm or by appointment
+-   Office hour: M622, Mon 4 - 6 PM or by appointment
 -   TA: 樊泽腾 (fanzet at hotmail dot com)
 
 
@@ -35,14 +35,14 @@ hand-written draft notes
 -   Durrett, Richard. _Probability: Theory and Examples (Fifth edition)_. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [Copy from Durrett's homepage](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf)
 -   Chung, Kai Lai. _A Course in Probability Theory (Third edition)_. San Diego, Calif.: Academic Press, 2007.
 -   Billingsley, Patrick. _Convergence of Probability Measures (2nd edition)_. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
--   Kolmogorov, A.N. _Foundations of the Theory of Probability (English Translation)_. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](./Kolmogorov1933.pdf)
+-   Kolmogorov, A. N. _Foundations of the Theory of Probability (English Translation)_. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](./Kolmogorov1933.pdf)
 -   Shiryaev, A. N. _Probability_. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. [Copy from Springer](https://doi.org/10.1007/978-1-4757-2539-1).
 
 
 ## HW {#hw}
 
--   weekly; posted usually by Wednesday, due next Monday before class.
--   Discussion and collaboration are encouraged, but names of the collaborators should be given in the submitted work.
+-   weekly; posted by Wednesday, due next Monday before class.
+-   We encourage discussion and collaboration, but students should mention the names of their collaborators in their submitted
 
 | Assignments        | Due date |
 |--------------------|----------|
