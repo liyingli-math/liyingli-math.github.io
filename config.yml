@@ -51,9 +51,9 @@ menu:
       name: Teaching
       url: /teaching/all-courses
       weight: 20
-    - identifier: other
-      name: Other
-      url: /Other/
+    - identifier: emacs
+      name: Emacs
+      url: /emacs/
       weight: 30
     # - identifier: sustech
     #   name: SUSTech
