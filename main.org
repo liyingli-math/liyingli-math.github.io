@@ -604,15 +604,10 @@ biweekly
   - 单样本正态总体均值和方差的检验、两独立样本比较、配对样本比较。
 - Chapter 8 :: Testing hypothesis (6 hours)
   - Basic principles, specification of the significance level and the concept of NULL Hypothesis and alternative hypothesis
-* Other
+* TODO Emacs
 :PROPERTIES:
 :EXPORT_FILE_NAME: _index
 :EXPORT_HUGO_SECTION: /
-:EXPORT_HUGO_BUNDLE: other
-:CUSTOM_ID: other
+:EXPORT_HUGO_BUNDLE: emacs
+:CUSTOM_ID: emacs
 :END:
-
-(There is nothing yet!)
-
-
-
