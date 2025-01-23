@@ -211,24 +211,24 @@ Lecture note
 |----------------+-----+--------|
 
 *** Schedule (tentative)
-| Lecture | Content                                                                                                                                                                                                   |
-|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | *Introduction to PDEs*:  important examples, classical solutions, initial values and boundary conditions, well-posedness, classification.                                                                 |
-|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       2 | *First-order equations*:  transport problem, methods of characteristics, formation of shocks.                                                                                                             |
-|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     3-6 | *Parabolic (Heat) equation*: Fourier transform, fundamental solutions; maximum principle and energy estimates; mixed boundary conditions                                                                  |
-|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lecture | Content                                                                                                                                                                                                                                      |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | *Introduction to PDEs*:  important examples, classical solutions, initial values and boundary conditions, well-posedness, classification.                                                                                                    |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       2 | *First-order equations*:  transport problem, methods of characteristics, formation of shocks.                                                                                                                                                |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     3-6 | *Parabolic (Heat) equation*: Fourier transform, fundamental solutions; maximum principle and energy estimates; mixed boundary conditions                                                                                                     |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    7-11 | *Elliptic equations*: Laplace and Poisson's equation; harmonic function, mean-value properties, maximum principle; fundamental solutions, Green's functions; energy method; eigenvalue problem and separation of variables, Parron's method. |
-|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      12 | Midterm                                                                                                                                                                                                   |
-|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   13-16 | *Wave equation*: solutions formula in dimension 1, 2 and 3; domain of influences; separation of variables, plane and traveling waves.                                                                    |
-|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   17-20 | *Calculus of Variation*: Sobolev spaces, weak solutions and convergence, Lax-Milgram Theorem                                                                                                              |
-|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   21-23 | *Nonlinear first-order equations*: Hamilton--Jacobi equation, entropy solutions, shocks, Hopf--Lax formula.                                                                                               |
-|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      12 | Midterm                                                                                                                                                                                                                                      |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   13-16 | *Wave equation*: solutions formula in dimension 1, 2 and 3; domain of influences; separation of variables, plane and traveling waves.                                                                                                        |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   17-20 | *Calculus of Variation*: Sobolev spaces, weak solutions and convergence, Lax-Milgram Theorem                                                                                                                                                 |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   21-23 | *Nonlinear first-order equations*: Hamilton--Jacobi equation, entropy solutions, shocks, Hopf--Lax formula.                                                                                                                                  |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
  
 ** MAT8030 Advanced Probability, 2024 Fall
 :PROPERTIES:
@@ -608,10 +608,51 @@ biweekly
   - 单样本正态总体均值和方差的检验、两独立样本比较、配对样本比较。
 - Chapter 8 :: Testing hypothesis (6 hours)
   - Basic principles, specification of the significance level and the concept of NULL Hypothesis and alternative hypothesis
-* TODO Emacs
+* Scientific workflow in Emacs
 :PROPERTIES:
-:EXPORT_FILE_NAME: _index
 :EXPORT_HUGO_SECTION: /
 :EXPORT_HUGO_BUNDLE: emacs
+:EXPORT_FILE_NAME: index
 :CUSTOM_ID: emacs
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true
 :END:
+#+begin_quote
+Vim is the editor God, and Emacs is God's editor.
+#+end_quote
+
+I "live" in [[https://www.gnu.org/software/emacs/][Emacs]] everyday. I use it to
+- write LaTeX,
+- take notes,
+- read and annotate PDFs,
+- perform personal knowledge management ([[https://en.wikipedia.org/wiki/Zettelkasten][Zettlekasten system]]),
+- write codes (Python, Julia, ...),
+- build static sites (like this one),
+- read and send emails,
+- do GTD and time management,
+and more.
+For those who are looking for a more productive research workflow,
+I hope that this article can be inspiring and introduce you to the Emacs's world of infinite possibilities.
+
+** Life in Emacs
+*** LaTeX
+I started using Emacs as a LaTeX editor at college. After some time I realized that, I could write LaTeX in Emacs fast enough to keep up with math lectures.
+
+From then on, Emacs became an indispensable part of my research workflow.
+**** Overview
+#+begin_export markdown
+![LaTeX](./LaTeX-small.gif)
+#+end_export
+The AUCTeX package provides the basic functionality for LaTeX editing in Emacs.
+
+When working on a LaTeX file, I split the frame into two windows: the left one shows the file and the right the compiled PDF (PDF-tools).
+
+At startup, section contents are invisible (Outline Mode); I can navigate to the (sub)section that I want to edit and expand it.
+
+Forward search and inverse search are available: in the GIF I use the keybinding ~C-c C-v~ to jump from the LaTeX buffer to the PDF and sync the location (note the little red arrow and the highlight in the text); double-clicks on the PDF will activate the backward search.
+
+I try to show minimal LaTeX syntax while editing.
+For example, the =prettify-symbols-mode= will show a Unicode letter =ℱ= in place of =\mathcal{F}=
+
+** Learning and configuration
+
+Test

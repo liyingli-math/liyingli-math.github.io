@@ -1,0 +1,17 @@
+kbd {
+    background-color: rgba( 134, 134, 134, .166 );
+    border-color: rgba( 134, 134, 134, .5 );
+    border-radius: 0.25rem;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 .0625rem 0 .0625rem rgba( 134, 134, 134, .5 );
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    font-size: 0.75rem;
+    line-height: 1;
+    min-width: 0.75rem;
+    padding: .125rem .3125rem .125rem .3125rem;
+    position: relative;
+    text-align: center;
+    top: -.125rem;
+}
