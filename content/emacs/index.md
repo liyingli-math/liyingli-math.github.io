@@ -27,27 +27,40 @@ I hope that this article can be inspiring and introduce you to the Emacs's world
 
 ### LaTeX {#latex}
 
-I started using Emacs as a LaTeX editor at college. After some time I realized that, I could write LaTeX in Emacs fast enough to keep up with math lectures.
-
-From then on, Emacs became an indispensable part of my research workflow.
+I started using Emacs as a LaTeX editor. One day I found myself capable of typing LaTeX fast enough to keep up with math lectures, and sine then, Emacs has been an indispensable part of my research workflow.
 
 
 #### Overview {#overview}
 
-![LaTeX](./LaTeX-small.gif)
+The three packages AUCTeX, CDLaTeX and PDF-tools give Emacs the core functionality to write LaTeX.
 
-The AUCTeX package provides the basic functionality for LaTeX editing in Emacs.
+![LaTeX](./LaTeX.gif)
 
-When working on a LaTeX file, I split the frame into two windows: the left one shows the file and the right the compiled PDF (PDF-tools).
+-   The left part shows the LaTeX file and the right the compiled PDF (PDF-tools).
+-   At startup, section contents are hidden to make it easier to navigate; you can unfold any section to start editing.
+-   <kbd>C-c C-v</kbd> to jump from source to PDF (note the little red arrow and the highlighted text); double-click to jump from PDF to source.
+-   Prettify: show Unicode symbols like `ℱ`, `∞` to replace math macros like `\mathcal{F}`, `\infty`.
+-   Fold LaTeX macros, so `\label{eq:XXX}`, `\cref{eq:XXX}` becomes `[l]`, `[cr]`.
 
-At startup, section contents are invisible (Outline Mode); I can navigate to the (sub)section that I want to edit and expand it.
+I insert almost all macros using Emacs commands, so the invisible parts can stay error-free. See below.
 
-Forward search and inverse search are available: in the GIF I use the keybinding <kbd>C-c C-v</kbd> to jump from the LaTeX buffer to the PDF and sync the location (note the little red arrow and the highlight in the text); double-clicks on the PDF will activate the backward search.
 
-I try to show minimal LaTeX syntax while editing.
-For example, the `prettify-symbols-mode` will show a Unicode letter `ℱ` in place of `\mathcal{F}`
+#### Insert Macros effortlessly {#insert-macros-effortlessly}
+
+Use CDLaTeX to insert macros fast and accurately.
+
+![CDLaTeX](./CDLaTeX.gif)
+
+-   <kbd>\`+&lt;key&gt;</kbd> inserts Greek letters and symbols.
+-   <kbd>&lt;keyword&gt;+TAB</kbd> expands to a macro or an environment template. Example:
+    -   <kbd>equ*+TAB</kbd> inserts the `equation*` environment.
+    -   <kbd>fr+TAB</kbd> expands to `\frac{}{}`.
+-   <kbd>&lt;key&gt;+'</kbd> or <kbd>'+&lt;key&gt;</kbd> inserts modified letters. Example: <kbd>R'c</kbd> inserts `\mathcal{R}`.
+
+All these shortcuts are highly customizable.
+
+
+#### Cross Reference {#cross-reference}
 
 
 ## Learning and configuration {#learning-and-configuration}
-
-Test
