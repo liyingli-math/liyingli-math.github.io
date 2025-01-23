@@ -17,7 +17,7 @@ references
 
 -   Tao Tang, Xuefeng Wang, [Lecture notes on partial differential equations](./PDE-notes-TW.pdf)
 -   Evans, Lawrence C.,  _Partial Differential Equations_. Vol 19, Graduate Studies in Mathematics, AMS
--   Strauss, Walter A., _Partial Differential Equations: An Introduction_.  2nd ed, Wiley, 2008
+-   Strauss, Walter A., _Partial Differential Equations: An Introduction_. 2nd ed, Wiley, 2008
 -   周蜀林, _偏微分方程_, 北京大学出版社
 -   Courant, R., and Hilbert D., _Methods of Mathematical Physics II: Partial Differential Equations_. 1st ed, Wiley, 1989
 -   Qing Han, Fanghua Lin, _Elliptic Partial Differential Equations_. 2nd ed, AMS Lecture Notes.
