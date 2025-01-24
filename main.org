@@ -644,15 +644,16 @@ The three packages AUCTeX, CDLaTeX and PDF-tools give Emacs the core functionali
 - The left part shows the LaTeX file and the right the compiled PDF (PDF-tools).
 - At startup, section contents are hidden to make it easier to navigate; you can unfold any section to start editing.
 - ~C-c C-v~ to jump from source to PDF (note the little red arrow and the highlighted text); double-click to jump from PDF to source.
-- Prettify: show Unicode symbols like =ℱ=, =∞= to replace math macros like =\mathcal{F}=, =\infty=.
-- Fold LaTeX macros, so =\label{eq:XXX}=, =\cref{eq:XXX}= becomes =[l]=, =[cr]=.
+- Prettify: use Unicode symbols like =ℱ=, =∞= to show math macros like =\mathcal{F}=, =\infty=.
+- Fold LaTeX macros, so =\label{eq:XXX}=, =\cref{eq:XXX}= become =[l]=, =[cr]=.
 
 I insert almost all macros using Emacs commands, so the invisible parts can stay error-free. See below.
-**** Insert Macros effortlessly
+**** Insert Macros Instantly
 Use CDLaTeX to insert macros fast and accurately.
 #+begin_export markdown
 ![CDLaTeX](./CDLaTeX.gif)
 #+end_export
+(Prettify is off in the screenshot.)
 - ~\`+<key>~ inserts Greek letters and symbols.
 - ~<keyword>+TAB~ expands to a macro or an environment template. Example:
   - ~equ*+TAB~ inserts the =equation*= environment.
@@ -660,6 +661,59 @@ Use CDLaTeX to insert macros fast and accurately.
 - ~<key>+'~ or ~'+<key>~ inserts modified letters. Example: ~R'c~ inserts =\mathcal{R}=.
 All these shortcuts are highly customizable.
 **** Cross Reference
+A convenient cross-reference management brings the freedom of creating literate labels.
+#+begin_export markdown
+![RefTeX](./RefTeX.gif)
+#+end_export
+(TeX-fold is off in the screenshot.)
+In the screenshot:
+- ~ref+TAB~ to start the RefTeX interface,
+- select the type =p= for "proposition",
+- navigate through all the =prop:= labels, view the context, and choose the correct label.
+No more copy-and-paste.
+
+*** Note Taking and Knowledge Management
+The traditional note is linear. I used to put all my notes in a single TeX, Org or Markdown file. But often as the note file  grew larger, it became harder to retrieve and analyze information. I also dreamed of integrating the reference manager [[https://www.zotero.org/][Zotero]] with Emacs, so I can connect the notes to the literature.
+
+These were made possible by [[https://www.orgroam.com/][Org-roam]], a modern note system built upon Org mode in Emacs. During the COVID pandemic, a number of modern back-linked note systems (aka "person knowledge management" or "second brain") emerged, including [[https://roamresearch.com/][Roam Research]], [[https://obsidian.md/][Obsedian]], [[https://logseq.com/][Logseq]] and so on. Org-roam gets its name from Roam Research, which is the first such implementation.
+**** What is PKM?
+PKM (personal knowledge management) follows the principles of the [[https://en.wikipedia.org/wiki/Zettelkasten][Zettlekasten system]].
+The first principle is to store knowledge inside a network of notes, rather than a traditional linear system.
+#+begin_export markdown
+![PKM](./PKM-small.gif)
+#+end_export
+(My Org-roam notes in 2 years.)
+
+Using the package ORUI, you can visualize the network of notes and preview the content.
+**** Notes in Org Mode
+I use =.org= files to store notes in Emacs. Org is a markup language like Markdown, and it has first class LaTeX support.
+#+begin_export markdown
+![Org-LaTeX](./Org-LaTeX.gif)
+#+end_export
+- Use the built-in =org-cdlatex-mode= to enter math.
+- Preview the formula in place with =org-latex-preview=.
+With a little more configuration, taking notes in Org mode is as good as in a TeX file, but more flexible and powerful. The Org mode can do A LOT in Emacs!
+**** Links
+#+begin_export markdown
+![](./Roam-note.gif)
+#+end_export
+- Use a completion interface to fuzzy search and insert a (forward) link.
+- The =org-roam-buffer= (on the right) keeps tracks of all the back-links and gives preview.
+
+*** Reference Management
+**** Read PDFs in Emacs
+I use [[https://github.com/weirdNox/org-noter][Org Noter]] to make notes on PDF in Org files. Its key feature is syncing the headlines with their locations in the PDF.
+#+begin_export markdown
+![](./Org-noter-small.gif)
+#+end_export
+An Org Noter session have two dedicated buffers:
+- a PDF-tools buffer (left) to display the PDF,
+- a Org buffer (right) to write notes.
+**** Create Noter notes from Zotero Metadata
+#+begin_export markdown
+![](./roam-ref.gif)
+#+end_export
+
+
 
 ** Learning and configuration
-
