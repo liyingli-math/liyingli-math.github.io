@@ -273,4 +273,11 @@ This whole homepage is in an Org file, exported to Hugo Markdown files by the `o
 ![](./ox-hugo.png)
 
 
+#### Git Client {#git-client}
+
+With [magit](https://magit.vc), Emacs becomes one of the best Git clients.
+
+![](./magit-small.gif)
+
+
 ## Learning and configuration {#learning-and-configuration}
