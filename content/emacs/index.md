@@ -97,7 +97,7 @@ The first principle is to store knowledge inside a network of notes, rather than
 Using the package ORUI, you can visualize the network of notes and preview the content.
 
 
-#### Notes in Org Mode {#notes-in-org-mode}
+#### Notes in Org {#notes-in-org}
 
 I use `.org` files to store notes in Emacs. Org is a markup language like Markdown, and it has first class LaTeX support.
 
@@ -109,7 +109,7 @@ I use `.org` files to store notes in Emacs. Org is a markup language like Markdo
 With a little more configuration, taking notes in Org mode is as good as in a TeX file, but more flexible and powerful. The Org mode can do A LOT in Emacs!
 
 
-#### Links {#links}
+#### Create Links {#create-links}
 
 ![](./Roam-note.gif)
 
@@ -119,8 +119,13 @@ With a little more configuration, taking notes in Org mode is as good as in a Te
 
 ### Reference Management {#reference-management}
 
+I use Zotero to manage my references and full-text PDFs.
+Zotero has a great PDF reader and good plugins on taking notes like [Better Notes](https://github.com/windingwind/zotero-better-notes).
+But I prefer keeping all my notes in one place, that is, inside Org Roam.
+Zotero helps me collect and store the reference, so Org Roam can integrate them into my second brain.
 
-#### Read PDFs in Emacs {#read-pdfs-in-emacs}
+
+#### Take notes on PDFs {#take-notes-on-pdfs}
 
 I use [Org Noter](https://github.com/weirdNox/org-noter) to make notes on PDF in Org files. Its key feature is syncing the headlines with their locations in the PDF.
 
@@ -132,9 +137,140 @@ An Org Noter session have two dedicated buffers:
 -   a Org buffer (right) to write notes.
 
 
-#### Create Noter notes from Zotero Metadata {#create-noter-notes-from-zotero-metadata}
+#### Create notes from Zotero Metadata {#create-notes-from-zotero-metadata}
 
 ![](./roam-ref.gif)
+
+Workflow explained:
+
+-   Zotero exports reference metadata to a `.bib` file,
+-   Zotero stores PDFs in an external cloud drive like Nutstore (or any other ones)
+-   Emacs reads the `.bib` file, so that
+    -   it can search through the reference database,
+    -   it can use the metadata to create Org files compatible with both Org Roam and Org Noter.
+
+
+### Project Management {#emacs-project}
+
+I use an Org Roam note for each of my research projects or other projects like "making an Emacs tutorial". The note acts as an entry point for the project, which contains two parts:
+
+-   the note: written down ideas on the project, like drafts for paper or posts,
+-   the TODO list: integration with GTD workflow in Org.
+
+Below is an example.
+
+![](./roam-project.png)
+
+
+#### Project Note {#project-note}
+
+The main part is like a normal note but much longer. For a research project, I treat it as a draft of paper that consists of concrete definitions, theorems, proofs and so on. I can use the Org export feature to turn it to a true LaTeX file whenever I feel ready and want to have finer control on the output.
+
+The advantage of having a project note sitting in the second brain is to connect with other notes.
+Most links fall into the following three categories.
+
+-   Other ordinary notes containing concepts, results related to the project. These include reference notes.
+-   A piece of argument which I expect to be useful in other context, like a nice small lemma or an estimate. I will create another note for it and link to it.
+-   Some premature ideas that may or may not work. I keep them in "Org dailies" and they are referencing the project note like a tag. These parts in the dailies are like a digital archive of the scrap paper. When I am running out of ideas I can browse through them via the back-links.
+
+
+#### Project TODO List {#emacs-research-todo}
+
+I keep a TODO list of the project following the last headline name "Task".
+These tasks will appear in my Org Agenda View (see [View tasks in Agenda View](#emacs-agenda)).
+
+Random ideas can pop out when I am working on a problem.
+I use the Org Capture function to record them so that I can revisit them later (see [Create Tasks](#emacs-org-capture)).
+They are the headlines with the `IDEA` keywords (see [The TODO keywords](#emacs-todo-keywords)).
+If I decide to work on any of them later, I will turn it into a `TODO` item.
+
+
+### Agenda and GTD {#agenda-and-gtd}
+
+I use the GTD workflow for my research and other projects. A TODO item is an Org headline with `todo-keyword` like `TODO` at the beginning.
+
+
+#### Create Tasks {#emacs-org-capture}
+
+An important step in GTD is to divide a big task into manageable small tasks.
+I use Org capture for this.
+
+![](./create-todo-small.gif)
+
+You can customize the Org capture templates for different types of tasks.
+
+
+#### View tasks in Agenda View {#emacs-agenda}
+
+The Org Agenda View gathers TODO items from a set of files (including my project notes, see [Project Management](#emacs-project)).
+You can organize and sort all your TODO items according to priority, tags, deadlines and so on.
+
+![](./agenda-view-small.gif)
+
+The Agenda View is highly customizable like anything else in Emacs.
+I design my agenda view so that the tasks that I should pick will appear near the top.
+
+-   The first part consists of deadlines due in one week. Most of them are teaching related like "prepare lecture notes", "prepare exam problems".
+-   "Task to Refile": newly captured tasks waiting for classification.
+-   The other sections are tasks with `NEXT`, `TODO` and `IDEA` keywords, see [The TODO keywords](#emacs-todo-keywords) for more explanation. Within each section I sort the tasks according to their priorities.
+
+<!--list-separator-->
+
+-  The TODO keywords
+
+    The default keywords are `TODO` and `DONE`, which are self-explanatory.
+    Depending on your workflow you can customize it, but it is better to keep it simple. I use the following.
+
+    -   `NEXT`: a task in progress, which will appear near the top of my agenda view.
+    -   `IDEA`: I use this keyword for valuable ideas worth pursuing in research projects (see [Project TODO List](#emacs-research-todo)), or immature projects.
+    -   `HOLD`: tasks paused for some reasons.
+
+
+#### Clocking {#clocking}
+
+I use the Org mode to clock how much time I spend on tasks. When I finish a task, a clock summary is created and the task is archived to a daily note.
+
+![](./clock-summary.gif)
+
+
+#### Pomodoro Method {#pomodoro-method}
+
+With the Org Pomodoro package, you can adopt the pomodoro method together with the clock in/out feature.
+In the screenshot in [Project Management](#emacs-project), you can find the pomodoro timer in the modeline.
+
+
+### Other Tasks {#other-tasks}
+
+
+#### Seminar Notes {#seminar-notes}
+
+I use a special template for notes taken during a seminar. See the example below.
+
+![](./seminar-note.png)
+
+-   Other than the metadata, this is a normal Org Roam note.
+-   The template include two extra file tags, which are useful in searching notes.
+    -   `seminar`: this tag is self-explanatory.
+    -   `draft`: I will keep this tag until I have reviewed the note (spell checking, adding links)
+-   Links to two types of notes are visible in the screenshot.
+    -   reference notes: links of the format `ABC20XXSomeTitleWords`. The text is from the BibTeX citation key.
+    -   normal notes: all other links.
+    -   adding links is an important step in the Zettlekasten workflow, because only processed information has value in the note system.
+
+
+#### Email Client {#email-client}
+
+I read and write emails in Emacs, using the package mu4e.
+
+![](./mu4e-summary.png)
+![](./mu4e-header.png)
+
+
+#### Build Static Sites {#build-static-sites}
+
+This whole homepage is in an Org file, exported to Hugo Markdown files by the `ox-hugo`.
+
+![](./ox-hugo.png)
 
 
 ## Learning and configuration {#learning-and-configuration}
