@@ -117,6 +117,16 @@ With a little more configuration, taking notes in Org mode is as good as in a Te
 -   The `org-roam-buffer` (on the right) keeps tracks of all the back-links and gives preview.
 
 
+#### Why Emacs/Org-roam, not ... {#why-emacs-org-roam-not-dot-dot-dot}
+
+Org roam has the following advantages over other note-taking applications.
+
+-   All note files are text files, which are easy to sync and manage. If a better note system appears in Emacs in the future, the migration will also be simple.
+-   For math notes, the LaTeX support is the best.
+-   The note systems is as extensible and customizable as Emacs.
+-   For the last 40 years Emacs has been evolving and adopting new technologies, and will keep doing so in the future. This is ideal for a life-long personal knowledge database. I am excited to see how AI becomes parts of Emacs.
+
+
 ### Reference Management {#reference-management}
 
 I use Zotero to manage my references and full-text PDFs.
@@ -235,7 +245,7 @@ I use the Org mode to clock how much time I spend on tasks. When I finish a task
 
 #### Pomodoro Method {#pomodoro-method}
 
-With the Org Pomodoro package, you can adopt the pomodoro method together with the clock in/out feature.
+With [Org Pomodoro](https://github.com/marcinkoziej/org-pomodoro), you can adopt the pomodoro method together with the clock in/out feature.
 In the screenshot in [Project Management](#emacs-project), you can find the pomodoro timer in the modeline.
 
 
@@ -268,7 +278,7 @@ I read and write emails in Emacs, using the package mu4e.
 
 #### Build Static Sites {#build-static-sites}
 
-This whole homepage is in an Org file, exported to Hugo Markdown files by the `ox-hugo`.
+This whole homepage is in an Org file, exported to [Hugo](https://gohugo.io/) Markdown files by the `ox-hugo`.
 
 ![](./ox-hugo.png)
 
@@ -281,3 +291,31 @@ With [magit](https://magit.vc), Emacs becomes one of the best Git clients.
 
 
 ## Learning and configuration {#learning-and-configuration}
+
+
+### Installation {#installation}
+
+Emacs is available on all systems.
+
+-   Linux: Fastest.
+-   Windows: available as a binary (`.exe`) or through WSL2.
+    -   binary: I recommend installation via [msys2](https://www.msys2.org/), so that you can also install other dependencies conveniently with the package manager.
+    -   WSL2: GUI is now supported thanks to WSLg; almost like Linux except a little slower.
+-   macOS: available via [Homebrew](https://brew.sh/) (I never use macOS myself).
+-   Android: I use it for a while on my Android tablet to take seminar notes; it is slower than a laptop due to the processor. The tricky part is to have Emacs and Termux work together; you can find more details [here](https://sourceforge.net/projects/android-ports-for-gnu-emacs/files/termux/) to have a try.
+
+You can find more installation related guides on the [official site](https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html). The Doom Emacs also provides a good [guide](https://github.com/doomemacs/doomemacs/blob/master/docs/getting_started.org#emacs--dependencies).
+
+
+### Learning {#learning}
+
+Emacs is well-known for the steep learning curve, but being parts of a lift-long project compensates this.
+Below are two introductory series of videos tutorials on Bilibili (in Chinese) that might be helpful.
+
+-   [LaTeX and Emacs](https://space.bilibili.com/314984514/lists/1218873)
+-   [Org Roam and PKM](https://space.bilibili.com/314984514/lists/1292182)
+
+
+### My Configuration {#my-configuration}
+
+I am using [Doom Emacs](https://github.com/doomemacs/doomemacs). You can find my configuration [here](https://github.com/liyingli-math/doom-emacs-config).
