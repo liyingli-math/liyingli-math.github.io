@@ -6,20 +6,21 @@ showtoc = true
 
 > Vim is the editor God, and Emacs is God's editor.
 
-I "live" in [Emacs](https://www.gnu.org/software/emacs/) everyday. I use it to
+I "live" in [Emacs](https://www.gnu.org/software/emacs/) everyday. I use it for a wide range of tasks, including
 
--   write LaTeX,
--   take notes,
--   read and annotate PDFs,
--   perform personal knowledge management ([Zettlekasten system](https://en.wikipedia.org/wiki/Zettelkasten)),
--   write codes (Python, Julia, ...),
--   build static sites (like this one),
--   read and send emails,
--   do GTD and time management,
+-   Writing and typesetting documents in LaTeX,
+-   Taking notes,
+-   Reading and annotating PDFs,
+-   Personal knowledge management ([Zettlekasten system](https://en.wikipedia.org/wiki/Zettelkasten)),
+-   Writing codes (Python, Julia, ...),
+-   Building static sites (like this one),
+-   Reading and sending emails,
+-   GTD and time management,
+-   Interacting with AI,
+-   And more.
 
-and more.
-For those who are looking for a more productive research workflow,
-I hope that this article can be inspiring and introduce you to the Emacs's world of infinite possibilities.
+I hope that this demonstration can be inspiring to anyone seeking a more efficient and customizable research workflow.
+Emacs is more than a text editor --- it's a gateway to a world of infinite possibilities.
 
 
 ## Life in Emacs {#life-in-emacs}
@@ -80,9 +81,8 @@ No more copy-and-paste.
 
 ### Note Taking and Knowledge Management {#note-taking-and-knowledge-management}
 
-The traditional note is linear. I used to put all my notes in a single TeX, Org or Markdown file. But often as the note file  grew larger, it became harder to retrieve and analyze information. I also dreamed of integrating the reference manager [Zotero](https://www.zotero.org/) with Emacs, so I can connect the notes to the literature.
-
-These were made possible by [Org-roam](https://www.orgroam.com/), a modern note system built upon Org mode in Emacs. During the COVID pandemic, a number of modern back-linked note systems (aka "person knowledge management" or "second brain") emerged, including [Roam Research](https://roamresearch.com/), [Obsedian](https://obsidian.md/), [Logseq](https://logseq.com/) and so on. Org-roam gets its name from Roam Research, which is the first such implementation.
+Traditional note-taking is linear. In the past, I tried to keep all my notes in a single file, using TeX, Org or Markdown. However, as the size of the note files grew larger, retrieving and analyzing information became increasingly difficult. I also dreamed of integrating [Zotero](https://www.zotero.org/) with Emacs, to seamlessly connect my notes to the literature.
+The dream became a reality with [Org-roam](https://www.orgroam.com/), a modern note-taking system built upon Emacs's Org mode. During the COVID-19 pandemic, a wave of modern back-linked note systems (often refterred to as "person knowledge management, PKM" or "second brain") emerged, including [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), [Logseq](https://logseq.com/) and so on. Org-roam draws its name from Roam Research, the first "digital" implementation of Zettlekasten.
 
 
 #### What is PKM? {#what-is-pkm}
