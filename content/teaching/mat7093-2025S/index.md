@@ -5,19 +5,20 @@ draft = false
 
 ## Course Information {#course-information}
 
--   Time:
--   Location:
--   TA:
+-   Time: Tue 7 - 10 PM
+-   Location: 三教 308
+-   Office hour: M622, Tue 3-5 PM or by appointment
+-   TA: 陈梓艺 (12231268 at mail dot sustech dot edu dot cn)
 
 
 ## Lecture note {#lecture-note}
 
-[lecture note](../notes/stochastic-analysis-LN.pdf)
+[lecture note](../notes/stochastic-analysis-LN.pdf) (updated regularly)
 
 
 ## references {#references}
 
-We will follow Le Gall's presentation at the beginning, and then switch to KS, Chapters 5 and 6 for SDEs and Lévy's theory. KS chapters 1-4 can be a substitute for Le Gall but they are more technically involved.
+We will begin with Le Gall's presentation, and then switch to KS, Chapters 5 and 6 for SDEs and Lévy's theory. KS chapters 1-4 can serve as an substitute to Le Gall, but they are more technically involved.
 
 -   Le Gall, Jean-François. Brownian Motion, Martingales, and Stochastic Calculus. Vol. 274. Graduate Texts in Mathematics. Cham: Springer International Publishing, 2016. <https://doi.org/10.1007/978-3-319-31089-3>.
 -   Karatzas, Ioannis, and Steven Shreve. Brownian Motion and Stochastic Calculus. 2nd ed. Graduate Texts in Mathematics. New York: Springer-Verlag, 1998. <https://www.springer.com/us/book/9780387976556>.
@@ -26,7 +27,7 @@ We will follow Le Gall's presentation at the beginning, and then switch to KS, C
 
 ## HW {#hw}
 
-biweekly
+bi-weekly
 
 
 ## Grading scheme {#grading-scheme}
