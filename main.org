@@ -410,7 +410,7 @@ hand-written draft notes
 - Office hour: M622, Tue 3-5 PM or by appointment
 - TA: 陈梓艺 (12231268 at mail dot sustech dot edu dot cn)
 *** Lecture note
-[lecture note](../notes/stochastic-analysis-LN.pdf) (updated regularly)
+[lecture note](../notes/stochastic-analysis-LN.pdf) (updated Feb 25)
 *** references
 We will begin with Le Gall's presentation, and then switch to KS, Chapters 5 and 6 for SDEs and Lévy's theory. KS chapters 1-4 can serve as an substitute to Le Gall, but they are more technically involved.
 - Le Gall, Jean-François. Brownian Motion, Martingales, and Stochastic Calculus. Vol. 274. Graduate Texts in Mathematics. Cham: Springer International Publishing, 2016. https://doi.org/10.1007/978-3-319-31089-3.
