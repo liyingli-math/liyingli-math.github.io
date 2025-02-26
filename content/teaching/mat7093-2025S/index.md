@@ -13,7 +13,7 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](../notes/stochastic-analysis-LN.pdf) (updated Feb 25)
+[lecture note](../notes/stochastic-analysis-LN.pdf) (updated Feb 26)
 
 
 ## references {#references}
@@ -28,6 +28,10 @@ We will begin with Le Gall's presentation, and then switch to KS, Chapters 5 and
 ## HW {#hw}
 
 bi-weekly
+
+| Assignments      | Due date |
+|------------------|----------|
+| [HW1](./hw1.pdf) | Mar 4th  |
 
 
 ## Grading scheme {#grading-scheme}
