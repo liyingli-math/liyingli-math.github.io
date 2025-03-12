@@ -32,6 +32,7 @@ bi-weekly
 | Assignments      | Due date |
 |------------------|----------|
 | [HW1](./hw1.pdf) | Mar 11th |
+| [HW2](./hw2.pdf) | Mar 25th |
 
 
 ## Grading scheme {#grading-scheme}
