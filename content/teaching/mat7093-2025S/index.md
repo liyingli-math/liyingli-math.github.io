@@ -35,6 +35,7 @@ bi-weekly
 | [HW2](./hw2.pdf)           | Mar 25th |
 | HW3: Le Gall 3.26,27,28,29 | Apr 8th  |
 | HW4: Le Gall 4.23,24,25,27 | Apr 22nd |
+| HW5: Le Gall 5.26,31,32,33 | May 6th  |
 
 
 ## Grading scheme {#grading-scheme}
