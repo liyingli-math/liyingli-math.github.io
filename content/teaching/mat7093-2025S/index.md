@@ -13,7 +13,7 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](../notes/stochastic-analysis-LN.pdf) (updated May 20th)
+[lecture note](../notes/stochastic-analysis-LN.pdf) (updated May 27th)
 
 
 ## references {#references}
