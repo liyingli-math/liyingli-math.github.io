@@ -5,8 +5,8 @@ draft = false
 
 ## Course Information {#course-information}
 
--   Time:
--   Location:
+-   Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (biweekly)
+-   Location: 三教 304
 -   Office hour:
 -   TA:
 
