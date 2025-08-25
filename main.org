@@ -241,10 +241,11 @@ Lecture note
 :CUSTOM_ID: mat336-2025F
 :END:
 *** Course Information
-- Time:
-- Location:
+- Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (biweekly)
+- Location: 三教 304
 - Office hour:
 - TA:
+
 *** Lecture note and reference
 [lecture note](../notes/PDE-H-LN.pdf) (last update: )
 
@@ -396,7 +397,7 @@ hand-written draft notes
 :END:
 *** Course Information
 - Time: Tue 7 - 10 PM
-- Location:
+- Location: 商学院 103
 - Office hour:
 - TA:
 *** Lecture note

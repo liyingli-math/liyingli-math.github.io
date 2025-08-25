@@ -6,7 +6,7 @@ draft = false
 ## Course Information {#course-information}
 
 -   Time: Tue 7 - 10 PM
--   Location:
+-   Location: 商学院 103
 -   Office hour:
 -   TA:
 
@@ -29,6 +29,7 @@ draft = false
 
 | Assignments | Due date |
 |-------------|----------|
+|             |          |
 |             |          |
 
 
