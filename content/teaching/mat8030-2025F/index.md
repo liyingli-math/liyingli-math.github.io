@@ -13,7 +13,7 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](./adv-prob-note.pdf) (last update: )
+[lecture note](../notes/adv-prob-note.pdf) (last update: )
 
 
 ## references {#references}
@@ -29,7 +29,6 @@ draft = false
 
 | Assignments | Due date |
 |-------------|----------|
-|             |          |
 |             |          |
 
 
