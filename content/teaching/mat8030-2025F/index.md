@@ -7,8 +7,10 @@ draft = false
 
 -   Time: Tue 7 - 10 PM
 -   Location: 商学院 103
--   Office hour:
+-   Office hour: Wed 10 am - 12 pm, M622
 -   TA:
+    -   蔡志军 (122312911@mail.sustech.edu.cn)
+    -   李才奇 (12331102@mail.sustech.edu.cn)
 
 
 ## Lecture note {#lecture-note}
