@@ -243,8 +243,8 @@ Lecture note
 *** Course Information
 - Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (biweekly)
 - Location: 三教 304
-- Office hour:
-- TA:
+- Office hour: Wed 10 am - 12 pm, M622
+- TA: 程子苓 (chengzl@sustech.edu.cn)
 
 *** Lecture note and reference
 [lecture note](../notes/PDE-H-LN.pdf) (last update: )
@@ -398,8 +398,10 @@ hand-written draft notes
 *** Course Information
 - Time: Tue 7 - 10 PM
 - Location: 商学院 103
-- Office hour:
+- Office hour: Wed 10 am - 12 pm, M622
 - TA:
+  - 蔡志军 (122312911@mail.sustech.edu.cn)
+  - 李才奇 (12331102@mail.sustech.edu.cn)
 *** Lecture note
 
 [lecture note](../notes/adv-prob-note.pdf) (last update: )

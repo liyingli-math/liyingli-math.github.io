@@ -7,8 +7,8 @@ draft = false
 
 -   Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (biweekly)
 -   Location: 三教 304
--   Office hour:
--   TA:
+-   Office hour: Wed 10 am - 12 pm, M622
+-   TA: 程子苓 (chengzl@sustech.edu.cn)
 
 
 ## Lecture note and reference {#lecture-note-and-reference}
