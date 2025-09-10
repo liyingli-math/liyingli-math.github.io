@@ -6,7 +6,7 @@ draft = false
 ## Course Information {#course-information}
 
 -   Time: Tue 7 - 10 PM
--   Location: 商学院 103
+-   Location: 三教 107
 -   Office hour: Wed 10 am - 12 pm, M622
 -   TA:
     -   蔡志军 (122312911@mail.sustech.edu.cn)
@@ -22,8 +22,9 @@ draft = false
 
 -   Durrett, Richard. _Probability: Theory and Examples (Fifth edition)_. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [Copy from Durrett's homepage](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf)
 -   Chung, Kai Lai. _A Course in Probability Theory (Third edition)_. San Diego, Calif.: Academic Press, 2007.
+-   Jacod J, Protter PE. _Probability essentials. 2nd ed._ Berlin; New York: Springer; 2003. [Copy from Springer](https://link.springer.com/book/10.1007/978-3-642-55682-1)
 -   Billingsley, Patrick. _Convergence of Probability Measures (2nd edition)_. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
--   Kolmogorov, A. N. _Foundations of the Theory of Probability (English Translation)_. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](./Kolmogorov1933.pdf)
+-   Kolmogorov, A. N. _Foundations of the Theory of Probability (English Translation)_. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](./notes/Kolmogorov1933.pdf)
 -   Shiryaev, A. N. _Probability_. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. [Copy from Springer](https://doi.org/10.1007/978-1-4757-2539-1).
 
 
