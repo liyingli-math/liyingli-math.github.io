@@ -256,10 +256,11 @@ Lecture note
 - Courant, R., and Hilbert D., /Methods of Mathematical Physics II: Partial Differential Equations/. 1st ed, Wiley, 1989
 
 *** HW
+weekly; posted by Thursday, due next Tuesday before class.
 |------------------+----------+
 | Assignments      | Due date |
 |------------------+----------+
-|  |     |
+| [HW1](./hw1.pdf) | 9/16   |
 |------------------+----------+
 
 *** Grading scheme
