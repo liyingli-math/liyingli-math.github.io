@@ -247,7 +247,7 @@ Lecture note
 - TA: 程子苓 (chengzl@sustech.edu.cn)
 
 *** Lecture note and reference
-[lecture note](../notes/PDE-H-LN.pdf) (last update: Sept 9)
+[lecture note](../notes/PDE-H-LN.pdf) (last update: Sept 16)
 
 - Evans, Lawrence C.,  /Partial Differential Equations/. Vol 19, Graduate Studies in Mathematics, AMS
 - 周蜀林, /偏微分方程/, 北京大学出版社
