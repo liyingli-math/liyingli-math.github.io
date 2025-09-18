@@ -30,9 +30,9 @@ draft = false
 
 ## HW {#hw}
 
-| Assignments | Due date |
-|-------------|----------|
-|             |          |
+| Assignments      | Due date |
+|------------------|----------|
+| [HW1](./hw1.pdf) | Sept 30  |
 
 
 ## Grading scheme {#grading-scheme}
