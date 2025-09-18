@@ -417,10 +417,11 @@ hand-written draft notes
 - Shiryaev, A. N. /Probability/. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. [[https://doi.org/10.1007/978-1-4757-2539-1][Copy from Springer]].
 
 *** HW
+
 |------------------+----------+
 | Assignments      | Due date |
 |------------------+----------+
-|  |     |
+| [HW1](./hw1.pdf) | Sept 30 |
 |------------------+----------+
 *** Grading scheme
 |----------------+-----+--------|
