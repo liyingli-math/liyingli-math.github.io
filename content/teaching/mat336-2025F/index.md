@@ -29,6 +29,7 @@ weekly; posted by Thursday, due next Tuesday before class.
 | Assignments      | Due date |
 |------------------|----------|
 | [HW1](./hw1.pdf) | 9/16     |
+| [HW2](./hw2.pdf) | 9/23     |
 
 
 ## Grading scheme {#grading-scheme}
