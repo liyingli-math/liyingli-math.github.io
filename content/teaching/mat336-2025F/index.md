@@ -13,7 +13,7 @@ draft = false
 
 ## Lecture note and reference {#lecture-note-and-reference}
 
-[lecture note](../notes/PDE-H-LN.pdf) (last update: Sept 24)
+[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 10)
 
 -   Evans, Lawrence C.,  _Partial Differential Equations_. Vol 19, Graduate Studies in Mathematics, AMS
 -   周蜀林, _偏微分方程_, 北京大学出版社
