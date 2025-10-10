@@ -80,17 +80,13 @@
     bottom: 0;
 }
 
-.entry-hint {
+.entry-cover,
+.entry-isdraft {
+    font-size: 14px;
     color: var(--secondary);
 }
 
-.entry-hint-parent {
-    display: flex;
-    justify-content: space-between;
-}
-
 .entry-cover {
-    font-size: 14px;
     margin-bottom: var(--gap);
     text-align: center;
 }
