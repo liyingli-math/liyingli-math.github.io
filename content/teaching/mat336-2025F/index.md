@@ -13,7 +13,7 @@ draft = false
 
 ## Lecture note and reference {#lecture-note-and-reference}
 
-[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 10)
+[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 14)
 
 -   Evans, Lawrence C.,  _Partial Differential Equations_. Vol 19, Graduate Studies in Mathematics, AMS
 -   周蜀林, _偏微分方程_, 北京大学出版社
@@ -32,6 +32,7 @@ weekly; posted by Thursday, due next Tuesday before class.
 | [HW2](./hw2.pdf) | 9/23     |
 | [HW3](./hw3.pdf) | 9/30     |
 | [HW4](./hw4.pdf) | 10/14    |
+| [HW5](./hw5.pdf) | 10/21    |
 
 
 ## Grading scheme {#grading-scheme}
