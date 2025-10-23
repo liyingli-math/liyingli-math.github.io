@@ -247,7 +247,7 @@ Lecture note
 - TA: 程子苓 (chengzl@sustech.edu.cn)
 
 *** Lecture note and reference
-[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 14)
+[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 23)
 
 - Evans, Lawrence C.,  /Partial Differential Equations/. Vol 19, Graduate Studies in Mathematics, AMS
 - 周蜀林, /偏微分方程/, 北京大学出版社
@@ -414,7 +414,7 @@ hand-written draft notes
   - 李才奇 (12331102@mail.sustech.edu.cn)
 *** Lecture note
 
-[lecture note](../notes/adv-prob-note.pdf) (last update: Oct 15)
+[lecture note](../notes/adv-prob-note.pdf) (last update: Oct 23)
 
 *** references
 - Durrett, Richard. /Probability: Theory and Examples (Fifth edition)/. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [[https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf][Copy from Durrett's homepage]]
