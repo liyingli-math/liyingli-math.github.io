@@ -34,6 +34,7 @@ weekly; posted by Thursday, due next Tuesday before class.
 | [HW4](./hw4.pdf) | 10/14    |
 | [HW5](./hw5.pdf) | 10/21    |
 | [HW6](./hw6.pdf) | 10/28    |
+| [HW7](./hw7.pdf) | 11/4     |
 
 
 ## Grading scheme {#grading-scheme}
