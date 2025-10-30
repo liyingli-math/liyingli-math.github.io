@@ -15,7 +15,7 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](../notes/adv-prob-note.pdf) (last update: Oct 23)
+[lecture note](../notes/adv-prob-note.pdf) (last update: Oct 30)
 
 
 ## references {#references}
@@ -34,6 +34,7 @@ draft = false
 |------------------|----------|
 | [HW1](./hw1.pdf) | Sept 30  |
 | [HW2](./hw2.pdf) | Oct 28   |
+| [HW3](./hw3.pdf) | Nov 11   |
 
 
 ## Grading scheme {#grading-scheme}
