@@ -416,7 +416,7 @@ hand-written draft notes
   - 李才奇 (12331102@mail.sustech.edu.cn)
 *** Lecture note
 
-[lecture note](../notes/adv-prob-note.pdf) (last update: Oct 23)
+[lecture note](../notes/adv-prob-note.pdf) (last update: Oct 30)
 
 *** references
 - Durrett, Richard. /Probability: Theory and Examples (Fifth edition)/. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [[https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf][Copy from Durrett's homepage]]
@@ -434,6 +434,8 @@ hand-written draft notes
 | [HW1](./hw1.pdf) | Sept 30  |
 |------------------+----------|
 | [HW2](./hw2.pdf) | Oct 28   |
+|------------------+----------|
+| [HW3](./hw3.pdf) | Nov 11   |
 |------------------+----------|
 *** Grading scheme
 |----------------+-----+--------|
