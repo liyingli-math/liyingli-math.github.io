@@ -36,6 +36,7 @@ draft = false
 | [HW2](./hw2.pdf) | Oct 28   |
 | [HW3](./hw3.pdf) | Nov 11   |
 | [HW4](./hw4.pdf) | Nov 25   |
+| [HW5](./hw5.pdf) | Dec 9    |
 
 
 ## Grading scheme {#grading-scheme}
