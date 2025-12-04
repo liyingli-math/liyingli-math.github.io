@@ -15,7 +15,7 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](../notes/adv-prob-note.pdf) (last update: Oct 30)
+[lecture note](../notes/adv-prob-note.pdf) (last update: Dec 4)
 
 
 ## references {#references}
