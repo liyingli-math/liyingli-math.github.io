@@ -56,6 +56,23 @@ menu:
     #   name: SUSTech
     #   url: "https://math.sustech.edu.cn/?lang=en"
     #   weight: 99
+  conf2026:
+    - identifier: conf2026-home
+      name: Home
+      url: /conf2026/home
+      weight: 1
+    - identifier: conf2026-schedule
+      name: Schedule
+      url: /conf2026/schedule
+      weight: 10
+    - identifier: conf2026-abstract
+      name: Abstract
+      url: /conf2026/abstract
+      weight: 15
+    - identifier: conf2026-logistic
+      name: Logistic
+      url: /conf2026/logistic
+      weight: 20
 
 ## use chroma for syntax highlighting
 markup:

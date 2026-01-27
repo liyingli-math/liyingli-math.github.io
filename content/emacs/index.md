@@ -224,16 +224,15 @@ I design my agenda view so that the tasks that I should pick will appear near th
 -   "Task to Refile": newly captured tasks waiting for classification.
 -   The other sections are tasks with `NEXT`, `TODO` and `IDEA` keywords, see [The TODO keywords](#emacs-todo-keywords) for more explanation. Within each section I sort the tasks according to their priorities.
 
-<!--list-separator-->
 
--  The TODO keywords
+##### The TODO keywords {#emacs-todo-keywords}
 
-    The default keywords are `TODO` and `DONE`, which are self-explanatory.
-    Depending on your workflow you can customize it, but it is better to keep it simple. I use the following.
+The default keywords are `TODO` and `DONE`, which are self-explanatory.
+Depending on your workflow you can customize it, but it is better to keep it simple. I use the following.
 
-    -   `NEXT`: a task in progress, which will appear near the top of my agenda view.
-    -   `IDEA`: I use this keyword for valuable ideas worth pursuing in research projects (see [Project TODO List](#emacs-research-todo)), or immature projects.
-    -   `HOLD`: tasks paused for some reasons.
+-   `NEXT`: a task in progress, which will appear near the top of my agenda view.
+-   `IDEA`: I use this keyword for valuable ideas worth pursuing in research projects (see [Project TODO List](#emacs-research-todo)), or immature projects.
+-   `HOLD`: tasks paused for some reasons.
 
 
 #### Clocking {#clocking}

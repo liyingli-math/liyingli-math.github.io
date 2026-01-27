@@ -1029,3 +1029,78 @@ Below are two introductory series of videos tutorials on Bilibili (in Chinese) t
 - [[https://space.bilibili.com/314984514/lists/1292182][Org Roam and PKM]]
 *** My Configuration
 I am using [[https://github.com/doomemacs/doomemacs][Doom Emacs]]. You can find my configuration [[https://github.com/liyingli-math/doom-emacs-config][here]].
+
+* Conf2026
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /conf2026
+:END:
+** Home
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: home
+:EXPORT_FILE_NAME: index
+:CUSTOM_ID: conf2026-home
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :MenutoUse conf2026 :customTitle "Workshop on SPDEs and Mathematical Physics"
+:END:
+[[../college-of-science.png]]
+
+*** About
+The /Workshop on SPDEs and Mathematical Physics/ is a one-week event that will take place at the [[https://math.sustech.edu.cn/index.html?lang=en][Department of Mathematics at SUSTech]] in Shenzhen, China, from **May 31st, Sunday to June 6th, Saturday**.
+*** Speakers
+*** Organizers
+- LI Liying, SUSTech
+- YANG Guang, SUSTech
+- YUAN Wangjun, SUSTech 
+
+** Schedule
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: schedule
+:EXPORT_FILE_NAME: index
+:CUSTOM_ID: conf2026-schedule
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :MenutoUse conf2026 :customTitle "Workshop on SPDEs and Mathematical Physics"
+:END:
+[[../college-of-science.png]]
+
+/Venue/: College of Science, M1001 
+
+*** Day 0, May 31
+- All day :: Arrival and registration, /Hotel/ 
+
+*** Day 1, Jun 1
+- 9:00 :: Registration 
+- 9:30 - 10:30 :: [[#C26-DOE]]
+- 11:00 - 12:00 :: /Speaker/, /Title/
+- 14:00 - 15:00 :: /Speaker/, /Title/
+- 15:30 - 16:30 :: /Speaker/, /Title/
+- 16:30 - 17:00 :: /Short talk/
+*** Day 2, Jun 2
+*** Day 3, Jun 3 
+*** Day 4, Jun 4
+*** Day 5, Jun 5
+*** Day 6, Jun 6
+- 9:30 - 10:30 :: /Speaker/, /Title/
+- 11:00 - 12:00 :: /Speaker/, /Title/
+- 12:00 :: Departure
+  
+** Abstract
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: abstract
+:EXPORT_FILE_NAME: index
+:CUSTOM_ID: conf2026-abstract
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :MenutoUse conf2026 :customTitle "Workshop on SPDEs and Mathematical Physics"
+:END:
+[[../college-of-science.png]]
+
+*** DOE John, SPDE stuff
+:PROPERTIES:
+:CUSTOM_ID: C26-DOE
+:END:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dignissim et est et euismod. Fusce et metus tempus, pellentesque ex at, convallis nulla. Ut fringilla commodo tincidunt. Fusce sed est eu massa placerat iaculis eu at mauris. Nullam ut mollis nisi, quis malesuada risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam ipsum tortor, suscipit non tincidunt vel, bibendum in libero. Nulla facilisi. Pellentesque vitae neque metus. Cras quis est pharetra, vestibulum nisl et, viverra ipsum. Etiam porta dignissim purus, quis tempor metus volutpat eu. Praesent pulvinar libero eget purus tincidunt finibus.
+
+** Logistics
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: logistic
+:EXPORT_FILE_NAME: index
+:CUSTOM_ID: conf2026-logistic
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :MenutoUse conf2026 :customTitle "Workshop on SPDEs and Mathematical Physics"
+:END:
+[[../college-of-science.png]]
