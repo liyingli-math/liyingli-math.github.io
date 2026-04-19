@@ -362,31 +362,32 @@ hand-written draft notes
 *** HW
 - weekly; posted by Wednesday, due next Monday before class.
 - We encourage discussion and collaboration, but students should mention the names of their collaborators in their submitted
-|------------------+----------+
-| Assignments      | Due date |
-|------------------+----------+
-| [HW1](./hw1.pdf) | 9/23     |
-|------------------+----------+
-| [HW2](./hw2.pdf) | 9/30     |
-|------------------+----------+
-| [HW3](./hw3.pdf) | 10/14    |
-|------------------+----------+
-| [HW4](./hw4.pdf) | 10/21    |
-|------------------+----------+
-| [HW5](./hw5.pdf) | 10/28    |
-|------------------+----------+
-| [HW6](./hw6.pdf) | 11/11    |
-|------------------+----------+
-| [HW7](./hw7.pdf) | 11/18    |
-|------------------+----------+
-| [HW8](./hw8.pdf) | 11/25    |
-|------------------+----------+
-| [HW9](./hw9.pdf) | 12/2     |
-|------------------+----------+
-| [HW10](./hw10.pdf)   | 12/16    |
-|------------------+----------+
-| [HW11](./hw11.pdf)   | 12/23    |
-|------------------+----------+
+|--------------------+----------|
+| Assignments        | Due date |
+|--------------------+----------|
+| [HW1](./hw1.pdf)   | 9/23     |
+|--------------------+----------|
+| [HW2](./hw2.pdf)   | 9/30     |
+|--------------------+----------|
+| [HW3](./hw3.pdf)   | 10/14    |
+|--------------------+----------|
+| [HW4](./hw4.pdf)   | 10/21    |
+|--------------------+----------|
+| [HW5](./hw5.pdf)   | 10/28    |
+|--------------------+----------|
+| [HW6](./hw6.pdf)   | 11/11    |
+|--------------------+----------|
+| [HW7](./hw7.pdf)   | 11/18    |
+|--------------------+----------|
+| [HW8](./hw8.pdf)   | 11/25    |
+|--------------------+----------|
+| [HW9](./hw9.pdf)   | 12/2     |
+|--------------------+----------|
+| [HW10](./hw10.pdf) | 12/16    |
+|--------------------+----------|
+| [HW11](./hw11.pdf) | 12/23    |
+|--------------------+----------|
+|                    |          |
 *** Grading scheme
 |----------------+-----+--------|
 |                |   % |        |
@@ -432,7 +433,7 @@ hand-written draft notes
 - Chung, Kai Lai. /A Course in Probability Theory (Third edition)/. San Diego, Calif.: Academic Press, 2007.
 - Jacod J, Protter PE. /Probability essentials. 2nd ed./ Berlin; New York: Springer; 2003. [[https://link.springer.com/book/10.1007/978-3-642-55682-1][Copy from Springer]]
 - Billingsley, Patrick. /Convergence of Probability Measures (2nd edition)/. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
-- Kolmogorov, A. N. /Foundations of the Theory of Probability (English Translation)/. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](./notes/Kolmogorov1933.pdf)
+- Kolmogorov, A. N. /Foundations of the Theory of Probability (English Translation)/. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](../notes/Kolmogorov1933.pdf)
 - Shiryaev, A. N. /Probability/. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. [[https://doi.org/10.1007/978-1-4757-2539-1][Copy from Springer]].
 
 *** HW

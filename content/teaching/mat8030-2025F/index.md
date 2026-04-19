@@ -24,7 +24,7 @@ draft = false
 -   Chung, Kai Lai. _A Course in Probability Theory (Third edition)_. San Diego, Calif.: Academic Press, 2007.
 -   Jacod J, Protter PE. _Probability essentials. 2nd ed._ Berlin; New York: Springer; 2003. [Copy from Springer](https://link.springer.com/book/10.1007/978-3-642-55682-1)
 -   Billingsley, Patrick. _Convergence of Probability Measures (2nd edition)_. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
--   Kolmogorov, A. N. _Foundations of the Theory of Probability (English Translation)_. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](./notes/Kolmogorov1933.pdf)
+-   Kolmogorov, A. N. _Foundations of the Theory of Probability (English Translation)_. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](../notes/Kolmogorov1933.pdf)
 -   Shiryaev, A. N. _Probability_. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. [Copy from Springer](https://doi.org/10.1007/978-1-4757-2539-1).
 
 
