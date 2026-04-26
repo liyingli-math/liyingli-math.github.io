@@ -1047,6 +1047,27 @@ I am using [[https://github.com/doomemacs/doomemacs][Doom Emacs]]. You can find 
 *** About
 The /Workshop on SPDEs and Mathematical Physics/ is a one-week event that will take place at the [[https://math.sustech.edu.cn/index.html?lang=en][Department of Mathematics at SUSTech]] in Shenzhen, China, from **May 31st, Sunday to June 6th, Saturday**.
 *** Speakers
+- [[https://chiaraamorino.github.io/index.html][AMORINO Chiara]] (Univ. Pompeu Fabra)
+- CHEN Hongyi (UIC)
+- [[http://webhome.auburn.edu/~lzc0090/][CHEN Le]] (Auburn Univ.)
+- [[https://web.math.utk.edu/~xchen3/][CHEN Xia]] (Univ. of Tennessee)
+- [[https://www.birmingham.ac.uk/staff/profiles/maths/huang-jingyu][HUANG Jingyu]] (Burminhan Univ.)
+- [[https://sites.google.com/view/mjoseph/home][JOSEPH Mathew]] (ISI, Bangalore)
+- [[https://sites.google.com/view/kunwookim/][KIM Kunwoo]] (POSTECH)
+- [[https://w3.impa.br/~landim/][LANDIM Claudio]] (IMPA)
+- [[https://sse.cuhk.edu.cn/en/faculty/leecheukyin][LEE Cheuk Yin]] (CUHKSZ)
+- [[https://shanghai.nyu.edu/academics/faculty/directory/vahagn-nersesyan][NERSESYAN Vahagn]] (NYU Shanghai) 
+- [[https://www.math.hkust.edu.hk/~mnitzschner/][NITZSCHNER Maximilian]] (HKUST)
+- [[https://scottandrewsmith.github.io/][SMITH Scott Andrew]] (AMSS, CAS)
+- [[https://faculty.sdu.edu.cn/songjian2/en/index.htm][SONG Jian]] (Shandong Univ.)
+- TAO Wenxuan (Burminhan Univ.)
+- [[https://sites.google.com/view/xiong-wang][WANG Xiong]] (Sun Yat-sen Univ.)
+- [[https://profiles.cardiff.ac.uk/staff/xiap][XIA Panqiu]] (Cardiff Univ.)
+- [[https://stt.msu.edu/users/xiaoyimi/][XIAO Yimin]] (Michigan State Univ.)
+- [[https://www.gbu.edu.cn/detail/article/513][YUAN Shenglan]] (Great Bay Univ.)
+- [[https://cam.tju.edu.cn/faculty/teacherDetail.php?id=123][WANG Meng]] (Tianjin Univ.)
+- GUO Yuhui (BNBU)
+
 *** Organizers
 - LI Liying, SUSTech
 - YANG Guang, SUSTech
@@ -1067,20 +1088,19 @@ The /Workshop on SPDEs and Mathematical Physics/ is a one-week event that will t
 - All day :: Arrival and registration, /Hotel/ 
 
 *** Day 1, Jun 1
-- 9:00 :: Registration 
-- 9:30 - 10:30 :: [[#C26-DOE]]
-- 11:00 - 12:00 :: /Speaker/, /Title/
+- 8:45 :: Registration 
+- 9:00 - 10:00 :: [[#C26-DOE]]
+- 10:30 - 11:30 :: /Speaker/, /Title/
+- 11:30 - 12:00 :: /Speaker/, /Title/ (Short talk)
 - 14:00 - 15:00 :: /Speaker/, /Title/
-- 15:30 - 16:30 :: /Speaker/, /Title/
-- 16:30 - 17:00 :: /Short talk/
+- 15:30 - 16:30 :: Speaker, /Title/
+- 16:30 - 17:30 :: /Speaker/, /Title/
 *** Day 2, Jun 2
 *** Day 3, Jun 3 
 *** Day 4, Jun 4
 *** Day 5, Jun 5
 *** Day 6, Jun 6
-- 9:30 - 10:30 :: /Speaker/, /Title/
-- 11:00 - 12:00 :: /Speaker/, /Title/
-- 12:00 :: Departure
+Departure
   
 ** Abstract
 :PROPERTIES:
@@ -1105,3 +1125,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dignissim et
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :MenutoUse conf2026 :customTitle "Workshop on SPDEs and Mathematical Physics"
 :END:
 [[../college-of-science.png]]
+*** Direction 
+
+Address: No. 1088 Xueyuan Road, Xili, Nanshan District, Shenzhen (深圳市南山区学苑大道 1088 号)
+
+All talks will be held in the Department of Mathematics at the Southern University of Science and Technology. The department building is located near Gate No. 1.
+[[../campusMap.png]]
+
+*** Accommodation
+
+Hotel rooms will be provided for all participants.
+
+*** Transportation
+
+Participants may reach Shenzhen by air or high-speed rail.
+
+**** By Rail/高铁
+
+Shenzhen North Railway Station (深圳北站) is situated approximately 4 km from the campus. Participants may either take a taxi or use Metro Line 5 to Tanglang Station (塘朗站), which is a five-minute walk from Gate No. 1.
+
+**** By Air/飞机
+
+Shenzhen Bao'an International Airport (深圳宝安机场) is approximately 50 minutes from the campus by car. Upon arrival, participants may take a taxi at Exit Gate 13 or use a ride-hailing service at Exit Gate 15 to reach the hotel or campus.
+
+*** Practical Information
+
+Shenzhen's weather in June is typically hot and humid, with average temperatures ranging from 26°C to 32°C.
