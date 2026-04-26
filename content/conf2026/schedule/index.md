@@ -18,23 +18,26 @@ All day
 
 ## Day 1, Jun 1 {#day-1-jun-1}
 
-9:00
+8:45
 : Registration
 
-9:30 - 10:30
+9:00 - 10:00
 : [DOE John, SPDE stuff]({{< relref "abstract#C26-DOE" >}})
 
-11:00 - 12:00
+10:30 - 11:30
 : _Speaker_, _Title_
+
+11:30 - 12:00
+: _Speaker_, _Title_ (Short talk)
 
 14:00 - 15:00
 : _Speaker_, _Title_
 
 15:30 - 16:30
-: _Speaker_, _Title_
+: Speaker, _Title_
 
-16:30 - 17:00
-: _Short talk_
+16:30 - 17:30
+: _Speaker_, _Title_
 
 
 ## Day 2, Jun 2 {#day-2-jun-2}
@@ -51,11 +54,4 @@ All day
 
 ## Day 6, Jun 6 {#day-6-jun-6}
 
-9:30 - 10:30
-: _Speaker_, _Title_
-
-11:00 - 12:00
-: _Speaker_, _Title_
-
-12:00
-: Departure
+Departure
