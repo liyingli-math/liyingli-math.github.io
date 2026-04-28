@@ -1048,9 +1048,10 @@ I am using [[https://github.com/doomemacs/doomemacs][Doom Emacs]]. You can find 
 The /Workshop on SPDEs and Mathematical Physics/ is a one-week event that will take place at the [[https://math.sustech.edu.cn/index.html?lang=en][Department of Mathematics at SUSTech]] in Shenzhen, China, from **May 31st, Sunday to June 6th, Saturday**.
 *** Speakers
 - [[https://chiaraamorino.github.io/index.html][AMORINO Chiara]] (Univ. Pompeu Fabra)
-- CHEN Hongyi (UIC)
+- [[https://www.au.dk/en/hchen77@math.au.dk/][CHEN Hongyi]] (Aarhus Univ.)
 - [[http://webhome.auburn.edu/~lzc0090/][CHEN Le]] (Auburn Univ.)
 - [[https://web.math.utk.edu/~xchen3/][CHEN Xia]] (Univ. of Tennessee)
+- GUO Yuhui (BNBU)
 - [[https://www.birmingham.ac.uk/staff/profiles/maths/huang-jingyu][HUANG Jingyu]] (Burminhan Univ.)
 - [[https://sites.google.com/view/mjoseph/home][JOSEPH Mathew]] (ISI, Bangalore)
 - [[https://sites.google.com/view/kunwookim/][KIM Kunwoo]] (POSTECH)
@@ -1060,13 +1061,15 @@ The /Workshop on SPDEs and Mathematical Physics/ is a one-week event that will t
 - [[https://www.math.hkust.edu.hk/~mnitzschner/][NITZSCHNER Maximilian]] (HKUST)
 - [[https://scottandrewsmith.github.io/][SMITH Scott Andrew]] (AMSS, CAS)
 - [[https://faculty.sdu.edu.cn/songjian2/en/index.htm][SONG Jian]] (Shandong Univ.)
+- [[https://zhenyao-sun.github.io/][SUN Zhenyao]] (Beijing Institute of Technology)
 - TAO Wenxuan (Burminhan Univ.)
+- [[https://cam.tju.edu.cn/faculty/teacherDetail.php?id=123][WANG Meng]] (Tianjin Univ.)
 - [[https://sites.google.com/view/xiong-wang][WANG Xiong]] (Sun Yat-sen Univ.)
+- [[https://math.sysu.edu.cn/teacher/564][WU Jing]] (Sun Yat-sen Univ.)
 - [[https://profiles.cardiff.ac.uk/staff/xiap][XIA Panqiu]] (Cardiff Univ.)
 - [[https://stt.msu.edu/users/xiaoyimi/][XIAO Yimin]] (Michigan State Univ.)
 - [[https://www.gbu.edu.cn/detail/article/513][YUAN Shenglan]] (Great Bay Univ.)
-- [[https://cam.tju.edu.cn/faculty/teacherDetail.php?id=123][WANG Meng]] (Tianjin Univ.)
-- GUO Yuhui (BNBU)
+- [[https://faculty.ustc.edu.cn/zhangtusheng/zh_CN/index/996432/list/index.htm][Zhang Tusheng]] (UTSC)
 
 *** Organizers
 - LI Liying, SUSTech
