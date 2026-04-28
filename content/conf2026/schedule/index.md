@@ -22,7 +22,7 @@ All day
 : Registration
 
 9:00 - 10:00
-: [DOE John, SPDE stuff]({{< relref "abstract#C26-DOE" >}})
+: _Speaker_, _Title_
 
 10:30 - 11:30
 : _Speaker_, _Title_
