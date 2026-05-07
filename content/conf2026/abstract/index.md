@@ -8,16 +8,21 @@ customTitle = "Workshop on SPDEs and Mathematical Physics"
 {{< figure src="../college-of-science.png" >}}
 
 
+## AMORINO Chiara, Fractional interacting particle system: drift parameter estimation via Malliavin calculus {#C26-AMORINO}
+
+We address the problem of estimating the drift parameter in a system of \\(N\\) interacting particles driven by additive fractional Brownian motion of Hurst index \\( H \geq 1/2 \\). Considering continuous observation of the interacting particles over a fixed interval \\([0, T]\\), we examine the asymptotic regime as \\( N \to \infty \\). Our main tool is a random variable reminiscent of the least squares estimator but unobservable due to its reliance on the Skorohod integral. We demonstrate that this object is consistent and asymptotically normal by establishing a quantitative propagation of chaos for Malliavin derivatives, which holds for any \\( H \in (0,1) \\). Leveraging a connection between the divergence integral and the Young integral, we construct computable estimators of the drift parameter. These estimators are shown to be consistent and asymptotically Gaussian. Finally, a numerical study highlights the strong performance of the proposed estimators.
+
+The talk is based on a joint work with I. Nourdin and R. Schevchenko.
+
+
 ## CHEN Hongyi, Sharp Riemannian heat kernel estimates on the cut locus and the Multiplicative Stochastic Heat Equation {#C26-CHEN-Hongyi}
 
 Using sharp global heat kernel bounds and geodesic comparison geometry, we show that the Dalang condition for well-posedness of the multiplicative Stochastic Heat Equation with measure-valued initial conditions, first introduced on Euclidean space, holds on general compact Riemannian manifolds. We furthermore establish upper and lower moment bounds for all such solutions, providing evidence for intermittency in this generality. This extends and simplifies earlier work that required non-positive curvature.
 
 
-## CHIARA, Fractional interacting particle system: drift parameter estimation via Malliavin calculus {#C26-CHIARA}
+## LANDIM, Claudio, Critical dynamical fluctuations in reaction-diffusion processes {#C26-LANDIM}
 
-We address the problem of estimating the drift parameter in a system of \\(N\\) interacting particles driven by additive fractional Brownian motion of Hurst index \\( H \geq 1/2 \\). Considering continuous observation of the interacting particles over a fixed interval \\([0, T]\\), we examine the asymptotic regime as \\( N \to \infty \\). Our main tool is a random variable reminiscent of the least squares estimator but unobservable due to its reliance on the Skorohod integral. We demonstrate that this object is consistent and asymptotically normal by establishing a quantitative propagation of chaos for Malliavin derivatives, which holds for any \\( H \in (0,1) \\). Leveraging a connection between the divergence integral and the Young integral, we construct computable estimators of the drift parameter. These estimators are shown to be consistent and asymptotically Gaussian. Finally, a numerical study highlights the strong performance of the proposed estimators.
-
-The talk is based on a joint work with I. Nourdin and R. Schevchenko.
+We consider a one-dimensional microscopic reaction-diffusion process obtained as a superposition of a Glauber and a Kawasaki dynamics.  The reaction term is tuned so that a dynamical phase transition occurs in the model as a suitable parameter is varied.  We study dynamical fluctuations of the particle's density at the critical point. We characterise the slowdown of the dynamics at criticality, prove that density fluctuations are non-Gaussian and characterise their limit as the solution of a non-linear SDE.  The proof relies on a decoupling of slow and fast scales relying in particular on a relative entropy argument.  Joint work with Benoit Dagallier.
 
 
 ## SMITH Scott Andrew, Mass generation for the two dimensional \\(O(N) \\) Linear Sigma Model in the large \\(N \\) limit {#C26-SMITH}
@@ -39,6 +44,15 @@ u(0,\cdot)=u\_0(x),
 where \\(-(-\Delta)^{\rho/2}\\) with \\(\rho\in(0,2]\\) is the fractional Laplacian and \\(\xi\\) is a Gaussian noise with covariance \\(\mathbb{E}[\xi(t) \xi(s)]=|t-s|^{2H-2}\\) for \\(H\in(\frac12, 1]\\). This equation with \\(\rho\in(1,2]\\) arises naturally in the study of the disordered pinning model.
 
 We show that the equation admits a local \\(L^2\\)-solution when \\(\rho = 2\\), whereas for \\(\rho \in (0,2)\\), any solution---if it exists uniquely---cannot be \\(L^p\\)-integrable for any \\(p > 1\\). Moreover, inspired by the recent work of Quastel et al, we prove that the equation has a unique global \\(L^1\\)-solution whenever \\(\tfrac{1}{\rho}+1<2H\\). We also establish the strict positivity of the solution.  Our work partially fills the gap in the study of the Weinrib-Halperin prediction.
+
+
+## TAO Wenxuan, Ergodicity and Asymptotic Limits for Langevin Interacting Systems with Singular Forces and Multiplicative Noises {#C26-TAO-wenxuan}
+
+This talk presents recent results on the long-time behavior and singular-parameter limits of interacting Langevin particle systems with singular forces and multiplicative noise. We consider two regimes: a classical Langevin model with state-dependent friction and a relativistic Langevin model with momentum-dependent diffusion.
+
+In the classical case, we prove exponential ergodicity toward the Gibbs–Boltzmann distribution and justify the small-mass limit, leading to an overdamped interacting dynamics with an additional noise-induced drift. In the relativistic case, we establish algebraic convergence to the Maxwell–Jüttner distribution and prove the Newtonian limit as the speed of light tends to infinity.
+
+A key ingredient is the construction of Lyapunov functions that simultaneously control confinement, high momentum, and collision singularities.
 
 
 ## WANG Xiong, Stochastic wave equation with additive fractional noise: Solvability and global Hölder continuity {#C26-WANG-Xiong}
