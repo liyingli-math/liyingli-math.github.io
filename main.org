@@ -1057,8 +1057,11 @@ The /Workshop on SPDEs and Mathematical Physics/ is a one-week event that will t
 - [[https://sites.google.com/view/kunwookim/][KIM Kunwoo]] (POSTECH)
 - [[https://w3.impa.br/~landim/][LANDIM Claudio]] (IMPA) [[#C26-LANDIM][talk]]
 - [[https://sse.cuhk.edu.cn/en/faculty/leecheukyin][LEE Cheuk Yin]] (CUHKSZ)
+- [[http://maths.jsnu.edu.cn/_t1395/14866/list.htm][LI Shihu]] (Jiangshu Normal Univ.)
 - [[https://shanghai.nyu.edu/academics/faculty/directory/vahagn-nersesyan][NERSESYAN Vahagn]] (NYU Shanghai) 
 - [[https://www.math.hkust.edu.hk/~mnitzschner/][NITZSCHNER Maximilian]] (HKUST)
+- [[https://sites.google.com/view/feipu/home][PU Fei]] (Beijing Normal Univ) [[#C26-PU-Fei][talk]]
+- QI Weiwei (AMSS, CAS)
 - [[https://scottandrewsmith.github.io/][SMITH Scott Andrew]] (AMSS, CAS) [[#C26-SMITH][talk]]
 - [[https://faculty.sdu.edu.cn/songjian2/en/index.htm][SONG Jian]] (Shandong Univ.) [[#C26-SONG-Jian][talk]]
 - [[https://zhenyao-sun.github.io/][SUN Zhenyao]] (Beijing Institute of Technology)
@@ -1134,6 +1137,14 @@ Using sharp global heat kernel bounds and geodesic comparison geometry, we show 
 :END:
 
 We consider a one-dimensional microscopic reaction-diffusion process obtained as a superposition of a Glauber and a Kawasaki dynamics.  The reaction term is tuned so that a dynamical phase transition occurs in the model as a suitable parameter is varied.  We study dynamical fluctuations of the particle's density at the critical point. We characterise the slowdown of the dynamics at criticality, prove that density fluctuations are non-Gaussian and characterise their limit as the solution of a non-linear SDE.  The proof relies on a decoupling of slow and fast scales relying in particular on a relative entropy argument.  Joint work with Benoit Dagallier.
+*** PU Fei, Sharp upper bounds on hitting probabilities for the solution to the stochastic heat equation on the line
+:PROPERTIES:
+:CUSTOM_ID: C26-PU-Fei
+:END:
+
+For Gaussian random fields with values in \(\mathbb{R}^d\), sharp upper and lower bounds on the probability of hitting a fixed set have been available for many years. These apply in particular to the solutions of systems of linear SPDEs. For non-Gaussian random fields, the available bounds are less sharp. For nonlinear systems of stochastic heat equations, a sharp lower bound was obtained in a previous paper by Dalang and Pu (2021). Here, we obtain the corresponding sharp upper bound. The proof requires a bound on the joint probability density function of a two-dimensional random vector whose components are the solution to the nonlinear stochastic heat equation and the supremum over a small rectangle of the solution to the linear stochastic heat equation, in terms of the size of the rectangle. This bound makes use of a formula that expresses the density of a locally nondegenerate random vector as an iterated Skorohod integral. The main effort is to estimate, using Malliavin calculus, each of the terms that arise from this formula.
+
+This is based on joint work with Robert C. Dalang and David Nualart.
 
 *** SMITH Scott Andrew, Mass generation for the two dimensional \(O(N) \) Linear Sigma Model in the large \(N \) limit
 :PROPERTIES:
