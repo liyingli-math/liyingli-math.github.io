@@ -20,9 +20,46 @@ The talk is based on a joint work with I. Nourdin and R. Schevchenko.
 Using sharp global heat kernel bounds and geodesic comparison geometry, we show that the Dalang condition for well-posedness of the multiplicative Stochastic Heat Equation with measure-valued initial conditions, first introduced on Euclidean space, holds on general compact Riemannian manifolds. We furthermore establish upper and lower moment bounds for all such solutions, providing evidence for intermittency in this generality. This extends and simplifies earlier work that required non-positive curvature.
 
 
+## GUO Yuhui, The exact Hausdorff measure for general anisotropic Gaussian random fields {#C26-GUO-Yuhui}
+
+In this paper, we consider a class of anisotropic Gaussian random fields \\(X=\\{X(t),t \in  \mathbb{R}^N\\}\\) with values in \\(\mathbb{R}^d \\), whose components are independent
+and may not be identically distributed. We establish a general framework for determining the exact Hausdorff measure functions for the image set and graph set of \\(X \\) satisfying certain property of strong local nondeterminism. These results can be applied to fractional Brownian motions and their relatives, the solutions to systems of linear stochastic heat equations, and anisotropic Gaussian random fields with or without stationary increments.
+
+This is a joint work with Yimin Xiao and Wangjun Yuan.
+
+
+## HU Jingwu, On the spatio-temporal increments of nonlinear parabolic SPDEs and the open KPZ equation {#C26-HU-Jingwu}
+
+We study spatio-temporal increments of the solutions to nonlinear parabolic SPDEs on a bounded interval with Dirichlet, Neumann, or Robin boundary conditions. We identify the exact local and uniform spatio-temporal moduli of continuity for the sample functions of the solutions. These moduli of continuity results imply the existence of random points in space-time at which spatio-temporal oscillations are exceptionally large. We also establish small-ball probability estimates and Chung-type laws of the iterated logarithm for spatio-temporal increments. Our method yields extension of some of these results to the open KPZ equation on the unit interval with inhomogeneous Neumann boundary conditions.
+
+This is the joint work with Dr. Cheuk Yin Lee
+
+
+## KIM Kunwoo, Invariance principle for stochastic reaction-diffusion equations {#C26-KIM-Kunwoo}
+
+We establish a notion of universality for the parabolic Anderson model via an invariance principle for a wide family of parabolic SPDEs. We then use this invariance principle in order to provide an asymptotic theory for a wide class of non-linear SPDEs. This is based on joint work with Davar Khoshnevisan and Carl Mueller.
+
+
 ## LANDIM, Claudio, Critical dynamical fluctuations in reaction-diffusion processes {#C26-LANDIM}
 
 We consider a one-dimensional microscopic reaction-diffusion process obtained as a superposition of a Glauber and a Kawasaki dynamics.  The reaction term is tuned so that a dynamical phase transition occurs in the model as a suitable parameter is varied.  We study dynamical fluctuations of the particle's density at the critical point. We characterise the slowdown of the dynamics at criticality, prove that density fluctuations are non-Gaussian and characterise their limit as the solution of a non-linear SDE.  The proof relies on a decoupling of slow and fast scales relying in particular on a relative entropy argument.  Joint work with Benoit Dagallier.
+
+
+## LEE Cheuk Yin, Points of slow growth for parabolic SPDEs {#C26-LEE-Cheuk-Yin}
+
+We consider the 1+1 dimensional stochastic heat equation driven by multiplicative space-time white noise, subject to initial condition \\(u(0,x)=1$. It is known that \\(u(t,x)-1\\) has approximately a Gaussian distribution for every \\(x\\) when \\(t\\) is approximately 0. We prove that there exist random points \\(x\\) where the fluctuations of the solution near times zero are almost surely of sharp order \\(t^{1/4}\\). Our work bears some loose resemblance to the study of the slow points of Brownian motion increments, though significant challenges arise due to the infinite-dimensional nature of the present problem. Joint work with Davar Khoshnevisan.
+
+
+## NERSESYAN Vahagn, Controllability as a key tool for studying long-time behaviour of random dynamical systems {#C26-NERSESYAN}
+
+This talk is devoted to the study of the long-time behaviour of random dynamical systems under highly degenerate non-Gaussian forcing. I will review recent results showing how controllability properties of the underlying deterministic dynamics can be used to handle the degeneracy and establish ergodic behaviour.
+
+
+## NITZSCHNER Maximilian, Non-coincidence of critical points for directed polymers on percolation clusters {#C26-NITZSCHNER}
+
+We consider the model of a directed polymer in a random environment with independent and identically distributed space-time disorder, in which the underlying random walk is defined on a typical realization of an infinite cluster of supercritical Bernoulli bond percolation in dimensions \\(d \ge 3 \\). Generically, directed polymer models defined via random walks on locally finite, connected graphs undergo a phase transition between a strong disorder phase (at low temperatures) and a weak disorder phase (at high temperatures), which can be characterized by the decay (or lack thereof) of the normalized partition function of the model as the polymer length increases. We show that even though on any realization of the percolation cluster the polymer is in a strong disorder phase, there is a regime in which the decay rate is sub-exponential. This is in contrast to the "sharpness" of the model on the full lattice in \\(d \ge 3 \\) recently established by Junk and Lacoin, namely the fact that on the full lattice, the decay of normalized partition function to zero in the strong disorder regime happens exponentially fast.
+
+This talk is based on joint work with Francesca Cottini (Laboratoire de Probabilités, Statistique et Modélisation, Sorbonne Université).
 
 
 ## PU Fei, Sharp upper bounds on hitting probabilities for the solution to the stochastic heat equation on the line {#C26-PU-Fei}
@@ -60,6 +97,12 @@ This talk presents recent results on the long-time behavior and singular-paramet
 In the classical case, we prove exponential ergodicity toward the Gibbs–Boltzmann distribution and justify the small-mass limit, leading to an overdamped interacting dynamics with an additional noise-induced drift. In the relativistic case, we establish algebraic convergence to the Maxwell–Jüttner distribution and prove the Newtonian limit as the speed of light tends to infinity.
 
 A key ingredient is the construction of Lyapunov functions that simultaneously control confinement, high momentum, and collision singularities.
+
+
+## WANG Meng, From Directed Polymers to Spatially Correlated KPZ Equations in Higher Dimensions {#C26-WANG-Meng}
+
+In this talk, we study directed polymers on \\(\mathbb Z^d\\) with the random environment white in time and spatially correlated. Under an intermediate disorder
+scaling, the renormalized partition function converges to the solution of a stochastic heat equation driven by spatially correlated Gaussian noise. We further consider the logarithm of the partition function, namely the polymer free energy, and discuss its convergence to the Cole-Hopf solution of the corresponding spatially correlated KPZ equation. One of the main steps is to prove tightness of the free energy, where negative moment estimates for the partition function are needed. This is a joint work with Professor Yaozhong Hu.
 
 
 ## WANG Xiong, Stochastic wave equation with additive fractional noise: Solvability and global Hölder continuity {#C26-WANG-Xiong}
