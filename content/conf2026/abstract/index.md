@@ -115,6 +115,12 @@ scaling, the renormalized partition function converges to the solution of a stoc
 We determine the range of Hurst parameters that provide the necessary and sufficient conditions for the solvability, in \\(L^2(\Omega)\\), of the stochastic wave equation: \\( \frac{\partial^2  }{\partial t^2}u(t,x) =\Delta u(t,x)+\dot{W}(t,x)\\),  where \\(\\{  W(t,x),\ t\ge 0, x\in \mathbb{R}^d\\} \\) is a fractional Brownian field with temporal Hurst parameter \\(H\_0\in[\tfrac12,1]\\) and spatial Hurst parameters \\(H\_i\in(0,1)\\) for \\(i=1,\cdots,d\\). In particular, the solvability condition exhibits a phase transition at \\(H\_0 = 1\\). We also obtain the sharp growth rate and the sharp H\\"older continuity of the solution on the real line in the case \\(H\_0=1/2\\).
 
 
+## WU Jing, Limit theorems of SDEs with reflections {#C26-WU-Jing}
+
+This talk is concerned with limit theorems for path-dependent reflected stochastic differential
+equations and distribution dependent reflected stochastic differential equations.
+
+
 ## XIA Panqiu, A class of d-dimensional directed polymers in a Gaussian environment {#C26-XIA-Panqiu}
 
 In this talk, I will discuss a class of continuous directed polymer models in random environments that are white in time and spatially correlated. Using an Ito-normalised stochastic heat equation perspective, we establish structural properties of the partition function, including positivity, stationarity, scaling, homogeneity, and a Chapman—Kolmogorov relation. On short time scales, the polymer paths behave much like Brownian motion, with similar regularity and quadratic variation. We also obtain a sharp dichotomy: depending on the strength of spatial correlations, the polymer measure is either equivalent to or singular with respect to the Wiener measure. Finally, in spatial dimension \\( d > 2\\), we prove that in a high-temperature regime the polymers exhibit diffusive behaviour at large times. This extends the Alberts—Khanin—Quastel framework from the 1 + 1 white noise setting to higher-dimensional Gaussian environments with general spatial covariance. This talk is based on joint work with Le Chen, Cheng Ouyang, and Samy Tindel.

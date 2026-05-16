@@ -1069,7 +1069,7 @@ The /Workshop on SPDEs and Mathematical Physics/ is a one-week event that will t
 - TAO Wenxuan (Burminhan Univ.) [[#C26-TAO-wenxuan][talk]]
 - [[https://cam.tju.edu.cn/faculty/teacherDetail.php?id=123][WANG Meng]] (Tianjin Univ.) [[#C26-WANG-Meng][talk]]
 - [[https://sites.google.com/view/xiong-wang][WANG Xiong]] (Sun Yat-sen Univ.) [[#C26-WANG-Xiong][talk]]
-- [[https://math.sysu.edu.cn/teacher/564][WU Jing]] (Sun Yat-sen Univ.) 
+- [[https://math.sysu.edu.cn/teacher/564][WU Jing]] (Sun Yat-sen Univ.) [[#C26-WU-Jing][talk]]
 - [[https://profiles.cardiff.ac.uk/staff/xiap][XIA Panqiu]] (Cardiff Univ.) [[#C26-XIA-Panqiu][talk]]
 - [[https://www.gbu.edu.cn/detail/article/513][YUAN Shenglan]] (Great Bay Univ.) [[#C26-YUAN-Shenglan][talk]]
 - [[https://faculty.ustc.edu.cn/zhangtusheng/zh_CN/index/996432/list/index.htm][Zhang Tusheng]] (UTSC) [[#C26-ZHANG-Tusheng][talk]]
@@ -1245,6 +1245,13 @@ scaling, the renormalized partition function converges to the solution of a stoc
 
 We determine the range of Hurst parameters that provide the necessary and sufficient conditions for the solvability, in \(L^2(\Omega)\), of the stochastic wave equation: \( \frac{\partial^2  }{\partial t^2}u(t,x) =\Delta u(t,x)+\dot{W}(t,x)\),  where \(\{  W(t,x),\ t\ge 0, x\in \mathbb{R}^d\} \) is a fractional Brownian field with temporal Hurst parameter \(H_0\in[\tfrac12,1]\) and spatial Hurst parameters \(H_i\in(0,1)\) for \(i=1,\cdots,d\). In particular, the solvability condition exhibits a phase transition at \(H_0 = 1\). We also obtain the sharp growth rate and the sharp H\"older continuity of the solution on the real line in the case \(H_0=1/2\).
 
+*** WU Jing, Limit theorems of SDEs with reflections
+:PROPERTIES:
+:CUSTOM_ID: C26-WU-Jing
+:END:
+
+This talk is concerned with limit theorems for path-dependent reflected stochastic differential
+equations and distribution dependent reflected stochastic differential equations.
 *** XIA Panqiu, A class of d-dimensional directed polymers in a Gaussian environment
 :PROPERTIES:
 :CUSTOM_ID: C26-XIA-Panqiu

@@ -37,7 +37,7 @@ The _Workshop on SPDEs and Mathematical Physics_ is a one-week event that will t
 -   TAO Wenxuan (Burminhan Univ.) [talk]({{< relref "abstract#C26-TAO-wenxuan" >}})
 -   [WANG Meng](https://cam.tju.edu.cn/faculty/teacherDetail.php?id=123) (Tianjin Univ.) [talk]({{< relref "abstract#C26-WANG-Meng" >}})
 -   [WANG Xiong](https://sites.google.com/view/xiong-wang) (Sun Yat-sen Univ.) [talk]({{< relref "abstract#C26-WANG-Xiong" >}})
--   [WU Jing](https://math.sysu.edu.cn/teacher/564) (Sun Yat-sen Univ.)
+-   [WU Jing](https://math.sysu.edu.cn/teacher/564) (Sun Yat-sen Univ.) [talk]({{< relref "abstract#C26-WU-Jing" >}})
 -   [XIA Panqiu](https://profiles.cardiff.ac.uk/staff/xiap) (Cardiff Univ.) [talk]({{< relref "abstract#C26-XIA-Panqiu" >}})
 -   [YUAN Shenglan](https://www.gbu.edu.cn/detail/article/513) (Great Bay Univ.) [talk]({{< relref "abstract#C26-YUAN-Shenglan" >}})
 -   [Zhang Tusheng](https://faculty.ustc.edu.cn/zhangtusheng/zh_CN/index/996432/list/index.htm) (UTSC) [talk]({{< relref "abstract#C26-ZHANG-Tusheng" >}})
