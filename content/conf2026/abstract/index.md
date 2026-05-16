@@ -35,6 +35,11 @@ We study spatio-temporal increments of the solutions to nonlinear parabolic SPDE
 This is the joint work with Dr. Cheuk Yin Lee
 
 
+## JOSEPH Mathew, Blowup and Instantaneous Explosion for the Multiplicative Stochastic Heat Equation with Superlinear Drift {#C26-JOSEPH}
+
+We consider the multiplicative stochastic heat equation with a superlinear drift term on both \\([0,1] \\) and \\(\mathbb{R} \\). Our primary result establishes that the finite Osgood criterion on the drift is the sharp condition for finite-time blowup on a bounded interval. In the case of the entire real line, we prove that the solution explodes instantaneously for the constant initial profile. By employing a comparison principle between bounded and unbounded domains, we provide a unified framework that generalizes previous results and accommodates a wider class of diffusion coefficients. This talk is based on joint work with Shubham Ovhal.
+
+
 ## KIM Kunwoo, Invariance principle for stochastic reaction-diffusion equations {#C26-KIM-Kunwoo}
 
 We establish a notion of universality for the parabolic Anderson model via an invariance principle for a wide family of parabolic SPDEs. We then use this invariance principle in order to provide an asymptotic theory for a wide class of non-linear SPDEs. This is based on joint work with Davar Khoshnevisan and Carl Mueller.
@@ -47,7 +52,7 @@ We consider a one-dimensional microscopic reaction-diffusion process obtained as
 
 ## LEE Cheuk Yin, Points of slow growth for parabolic SPDEs {#C26-LEE-Cheuk-Yin}
 
-We consider the 1+1 dimensional stochastic heat equation driven by multiplicative space-time white noise, subject to initial condition \\(u(0,x)=1$. It is known that \\(u(t,x)-1\\) has approximately a Gaussian distribution for every \\(x\\) when \\(t\\) is approximately 0. We prove that there exist random points \\(x\\) where the fluctuations of the solution near times zero are almost surely of sharp order \\(t^{1/4}\\). Our work bears some loose resemblance to the study of the slow points of Brownian motion increments, though significant challenges arise due to the infinite-dimensional nature of the present problem. Joint work with Davar Khoshnevisan.
+We consider the 1+1 dimensional stochastic heat equation driven by multiplicative space-time white noise, subject to initial condition \\(u(0,x)=1\\). It is known that \\(u(t,x)-1\\) has approximately a Gaussian distribution for every \\(x\\) when \\(t\\) is approximately 0. We prove that there exist random points \\(x\\) where the fluctuations of the solution near times zero are almost surely of sharp order \\(t^{1/4}\\). Our work bears some loose resemblance to the study of the slow points of Brownian motion increments, though significant challenges arise due to the infinite-dimensional nature of the present problem. Joint work with Davar Khoshnevisan.
 
 
 ## NERSESYAN Vahagn, Controllability as a key tool for studying long-time behaviour of random dynamical systems {#C26-NERSESYAN}
@@ -118,3 +123,8 @@ In this talk, I will discuss a class of continuous directed polymer models in ra
 ## YUAN Shenglan, Stochastic turbulence for Burgers equation driven by cylindrical Lévy process {#C26-YUAN-Shenglan}
 
 This work is devoted to investigating stochastic turbulence for the fluid flow in one-dimensional viscous Burgers equation perturbed by Lévy space-time white noise with the periodic boundary condition. We rigorously discuss the regularity of solutions and their statistical quantities in this stochastic dynamical system. The quantities include moment estimate, structure function and energy spectrum of the turbulent velocity field. Furthermore, we provide qualitative and quantitative properties of the stochastic Burgers equation when the kinematic viscosity \\(\nu \\) tends towards zero. The inviscid limit describes the strong stochastic turbulence.
+
+
+## ZHANG Tusheng, Stochastic reaction diffusion equations on unbounded domains: well-posedness and ergodicity {#C26-ZHANG-Tusheng}
+
+In this talk, we consider stochastic reaction diffusion equations on unbounded domains driven by space-time white noise. I will report the progresses on the well-posedness and ergodicity of solutions. Both the unbounded domain and the space-time noise bring significant challenges to the study.
