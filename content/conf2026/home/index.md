@@ -21,7 +21,7 @@ The _Workshop on SPDEs and Mathematical Physics_ is a one-week event that will t
 -   [CHEN Xia](https://web.math.utk.edu/~xchen3/) (Univ. of Tennessee)
 -   GUO Yuhui (BNBU) [talk]({{< relref "abstract#C26-GUO-Yuhui" >}})
 -   [HUANG Jingyu](https://www.birmingham.ac.uk/staff/profiles/maths/huang-jingyu) (Burminhan Univ.)
--   [JOSEPH Mathew](https://sites.google.com/view/mjoseph/home) (ISI, Bangalore)
+-   [JOSEPH Mathew](https://sites.google.com/view/mjoseph/home) (ISI, Bangalore) [talk]({{< relref "abstract#C26-JOSEPH" >}})
 -   HU Jingwu (CUHKSZ) [talk]({{< relref "abstract#C26-HU-Jingwu" >}})
 -   [KIM Kunwoo](https://sites.google.com/view/kunwookim/) (POSTECH) [talk]({{< relref "abstract#C26-KIM-Kunwoo" >}})
 -   [LANDIM Claudio](https://w3.impa.br/~landim/) (IMPA) [talk]({{< relref "abstract#C26-LANDIM" >}})
@@ -40,7 +40,7 @@ The _Workshop on SPDEs and Mathematical Physics_ is a one-week event that will t
 -   [WU Jing](https://math.sysu.edu.cn/teacher/564) (Sun Yat-sen Univ.)
 -   [XIA Panqiu](https://profiles.cardiff.ac.uk/staff/xiap) (Cardiff Univ.) [talk]({{< relref "abstract#C26-XIA-Panqiu" >}})
 -   [YUAN Shenglan](https://www.gbu.edu.cn/detail/article/513) (Great Bay Univ.) [talk]({{< relref "abstract#C26-YUAN-Shenglan" >}})
--   [Zhang Tusheng](https://faculty.ustc.edu.cn/zhangtusheng/zh_CN/index/996432/list/index.htm) (UTSC)
+-   [Zhang Tusheng](https://faculty.ustc.edu.cn/zhangtusheng/zh_CN/index/996432/list/index.htm) (UTSC) [talk]({{< relref "abstract#C26-ZHANG-Tusheng" >}})
 
 
 ## Organizers {#organizers}

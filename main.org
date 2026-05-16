@@ -1053,7 +1053,7 @@ The /Workshop on SPDEs and Mathematical Physics/ is a one-week event that will t
 - [[https://web.math.utk.edu/~xchen3/][CHEN Xia]] (Univ. of Tennessee)
 - GUO Yuhui (BNBU) [[#C26-GUO-Yuhui][talk]]
 - [[https://www.birmingham.ac.uk/staff/profiles/maths/huang-jingyu][HUANG Jingyu]] (Burminhan Univ.)
-- [[https://sites.google.com/view/mjoseph/home][JOSEPH Mathew]] (ISI, Bangalore)
+- [[https://sites.google.com/view/mjoseph/home][JOSEPH Mathew]] (ISI, Bangalore) [[#C26-JOSEPH][talk]]
 - HU Jingwu (CUHKSZ) [[#C26-HU-Jingwu][talk]]
 - [[https://sites.google.com/view/kunwookim/][KIM Kunwoo]] (POSTECH) [[#C26-KIM-Kunwoo][talk]]
 - [[https://w3.impa.br/~landim/][LANDIM Claudio]] (IMPA) [[#C26-LANDIM][talk]]
@@ -1072,7 +1072,7 @@ The /Workshop on SPDEs and Mathematical Physics/ is a one-week event that will t
 - [[https://math.sysu.edu.cn/teacher/564][WU Jing]] (Sun Yat-sen Univ.) 
 - [[https://profiles.cardiff.ac.uk/staff/xiap][XIA Panqiu]] (Cardiff Univ.) [[#C26-XIA-Panqiu][talk]]
 - [[https://www.gbu.edu.cn/detail/article/513][YUAN Shenglan]] (Great Bay Univ.) [[#C26-YUAN-Shenglan][talk]]
-- [[https://faculty.ustc.edu.cn/zhangtusheng/zh_CN/index/996432/list/index.htm][Zhang Tusheng]] (UTSC)
+- [[https://faculty.ustc.edu.cn/zhangtusheng/zh_CN/index/996432/list/index.htm][Zhang Tusheng]] (UTSC) [[#C26-ZHANG-Tusheng][talk]]
 
 *** Organizers
 - LI Liying, SUSTech
@@ -1149,6 +1149,13 @@ This is a joint work with Yimin Xiao and Wangjun Yuan.
 We study spatio-temporal increments of the solutions to nonlinear parabolic SPDEs on a bounded interval with Dirichlet, Neumann, or Robin boundary conditions. We identify the exact local and uniform spatio-temporal moduli of continuity for the sample functions of the solutions. These moduli of continuity results imply the existence of random points in space-time at which spatio-temporal oscillations are exceptionally large. We also establish small-ball probability estimates and Chung-type laws of the iterated logarithm for spatio-temporal increments. Our method yields extension of some of these results to the open KPZ equation on the unit interval with inhomogeneous Neumann boundary conditions.
 
 This is the joint work with Dr. Cheuk Yin Lee
+*** JOSEPH Mathew, Blowup and Instantaneous Explosion for the Multiplicative Stochastic Heat Equation with Superlinear Drift
+:PROPERTIES:
+:CUSTOM_ID: C26-JOSEPH
+:END:
+
+We consider the multiplicative stochastic heat equation with a superlinear drift term on both \([0,1] \) and \(\mathbb{R} \). Our primary result establishes that the finite Osgood criterion on the drift is the sharp condition for finite-time blowup on a bounded interval. In the case of the entire real line, we prove that the solution explodes instantaneously for the constant initial profile. By employing a comparison principle between bounded and unbounded domains, we provide a unified framework that generalizes previous results and accommodates a wider class of diffusion coefficients. This talk is based on joint work with Shubham Ovhal.
+
 *** KIM Kunwoo, Invariance principle for stochastic reaction-diffusion equations 
 :PROPERTIES:
 :CUSTOM_ID: C26-KIM-Kunwoo
@@ -1165,7 +1172,7 @@ We consider a one-dimensional microscopic reaction-diffusion process obtained as
 :CUSTOM_ID: C26-LEE-Cheuk-Yin
 :END:
 
-We consider the 1+1 dimensional stochastic heat equation driven by multiplicative space-time white noise, subject to initial condition \(u(0,x)=1$. It is known that \(u(t,x)-1\) has approximately a Gaussian distribution for every \(x\) when \(t\) is approximately 0. We prove that there exist random points \(x\) where the fluctuations of the solution near times zero are almost surely of sharp order \(t^{1/4}\). Our work bears some loose resemblance to the study of the slow points of Brownian motion increments, though significant challenges arise due to the infinite-dimensional nature of the present problem. Joint work with Davar Khoshnevisan.
+We consider the 1+1 dimensional stochastic heat equation driven by multiplicative space-time white noise, subject to initial condition \(u(0,x)=1\). It is known that \(u(t,x)-1\) has approximately a Gaussian distribution for every \(x\) when \(t\) is approximately 0. We prove that there exist random points \(x\) where the fluctuations of the solution near times zero are almost surely of sharp order \(t^{1/4}\). Our work bears some loose resemblance to the study of the slow points of Brownian motion increments, though significant challenges arise due to the infinite-dimensional nature of the present problem. Joint work with Davar Khoshnevisan.
 *** NERSESYAN Vahagn, Controllability as a key tool for studying long-time behaviour of random dynamical systems
 :PROPERTIES:
 :CUSTOM_ID: C26-NERSESYAN
@@ -1252,6 +1259,12 @@ In this talk, I will discuss a class of continuous directed polymer models in ra
 
 This work is devoted to investigating stochastic turbulence for the fluid flow in one-dimensional viscous Burgers equation perturbed by Lévy space-time white noise with the periodic boundary condition. We rigorously discuss the regularity of solutions and their statistical quantities in this stochastic dynamical system. The quantities include moment estimate, structure function and energy spectrum of the turbulent velocity field. Furthermore, we provide qualitative and quantitative properties of the stochastic Burgers equation when the kinematic viscosity \(\nu \) tends towards zero. The inviscid limit describes the strong stochastic turbulence.
 
+*** ZHANG Tusheng, Stochastic reaction diffusion equations on unbounded domains: well-posedness and ergodicity
+:PROPERTIES:
+:CUSTOM_ID: C26-ZHANG-Tusheng
+:END:
+
+In this talk, we consider stochastic reaction diffusion equations on unbounded domains driven by space-time white noise. I will report the progresses on the well-posedness and ergodicity of solutions. Both the unbounded domain and the space-time noise bring significant challenges to the study.
 ** Logistics
 :PROPERTIES:
 :EXPORT_HUGO_BUNDLE: logistic
