@@ -55,6 +55,11 @@ We consider a one-dimensional microscopic reaction-diffusion process obtained as
 We consider the 1+1 dimensional stochastic heat equation driven by multiplicative space-time white noise, subject to initial condition \\(u(0,x)=1\\). It is known that \\(u(t,x)-1\\) has approximately a Gaussian distribution for every \\(x\\) when \\(t\\) is approximately 0. We prove that there exist random points \\(x\\) where the fluctuations of the solution near times zero are almost surely of sharp order \\(t^{1/4}\\). Our work bears some loose resemblance to the study of the slow points of Brownian motion increments, though significant challenges arise due to the infinite-dimensional nature of the present problem. Joint work with Davar Khoshnevisan.
 
 
+## LI Shihu, Some recent results on McKean-Vlasov SPDEs in the variational framework {#C26-LI-Shihu}
+
+In this talk, we will discuss some recent process on McKean-Vlasov SPDEs in the variational framework. We first show the existence and uniqueness of solutions for McKean-Vlasov SPDEs, then establish the propagation of chaos of the interacting systems in this framework.This talk is based on joint works with Wei Hong and Wei Liu.
+
+
 ## NERSESYAN Vahagn, Controllability as a key tool for studying long-time behaviour of random dynamical systems {#C26-NERSESYAN}
 
 This talk is devoted to the study of the long-time behaviour of random dynamical systems under highly degenerate non-Gaussian forcing. I will review recent results showing how controllability properties of the underlying deterministic dynamics can be used to handle the degeneracy and establish ergodic behaviour.
@@ -93,6 +98,26 @@ u(0,\cdot)=u\_0(x),
 where \\(-(-\Delta)^{\rho/2}\\) with \\(\rho\in(0,2]\\) is the fractional Laplacian and \\(\xi\\) is a Gaussian noise with covariance \\(\mathbb{E}[\xi(t) \xi(s)]=|t-s|^{2H-2}\\) for \\(H\in(\frac12, 1]\\). This equation with \\(\rho\in(1,2]\\) arises naturally in the study of the disordered pinning model.
 
 We show that the equation admits a local \\(L^2\\)-solution when \\(\rho = 2\\), whereas for \\(\rho \in (0,2)\\), any solution---if it exists uniquely---cannot be \\(L^p\\)-integrable for any \\(p > 1\\). Moreover, inspired by the recent work of Quastel et al, we prove that the equation has a unique global \\(L^1\\)-solution whenever \\(\tfrac{1}{\rho}+1<2H\\). We also establish the strict positivity of the solution.  Our work partially fills the gap in the study of the Weinrib-Halperin prediction.
+
+
+## SUN Zhenyao, From stochastic heat equations with gradient multiplicative noises to Arratia flow {#C26-SUN-Zhenyao}
+
+Consider the 1-D stochastic heat equation with transport noise:
+
+\begin{equation\*}
+ d v^\varepsilon\_t(x) = (\Delta/2) v^\varepsilon\_t(x) dt + \alpha\_\varepsilon (\nabla v^\varepsilon\_t(x)) dW^\varepsilon\_t(x), \quad  t \ge  0, \ x \in \mathbb{R},
+\end{equation\*}
+
+and the 1-D stochastic heat equation with multiplicative conservative noise:
+
+\begin{equation\*}
+d u^{\varepsilon}\_t (x) = (\Delta /2) u^{\varepsilon}\_t(x) dt + \alpha\_{\varepsilon} \nabla \bigl(u^{\varepsilon}\_t (x) dW^{\varepsilon}\_t(x )\bigr), \quad t \ge 0, \ x \in \mathbb{R} .
+\end{equation\*}
+
+where \\(W^{\varepsilon} = W \ast h\_{\varepsilon} \\) is the spatial convolution between the cylindrical Wiener process \\(W \\) and a compactly supported smooth mollifier \\(h\_{\varepsilon} := \varepsilon^{-1} h(\varepsilon^{-1} \cdot) \\).
+We show that as \\(\varepsilon \downarrow 0 \\), the solutions \\(v^{\varepsilon}\_t \\) and \\(u^{\varepsilon}\_t \\) converge in finite-dimensional distributions to the cumulative Arratia flow and the massive Arratia flow respectively, when the noise strength \\(\alpha\_{\varepsilon} \\) is properly tuned.
+
+This is an ongoing joint work with Leonid Mytnik and Xiaolong Zhang.
 
 
 ## TAO Wenxuan, Ergodicity and Asymptotic Limits for Langevin Interacting Systems with Singular Forces and Multiplicative Noises {#C26-TAO-wenxuan}
