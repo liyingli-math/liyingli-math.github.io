@@ -20,6 +20,19 @@ The talk is based on a joint work with I. Nourdin and R. Schevchenko.
 Using sharp global heat kernel bounds and geodesic comparison geometry, we show that the Dalang condition for well-posedness of the multiplicative Stochastic Heat Equation with measure-valued initial conditions, first introduced on Euclidean space, holds on general compact Riemannian manifolds. We furthermore establish upper and lower moment bounds for all such solutions, providing evidence for intermittency in this generality. This extends and simplifies earlier work that required non-positive curvature.
 
 
+## CHEN Le, Spatial covariance of KPZ from flat initial profile {#C26-CHEN-Le}
+
+We study the fixed-time spatial covariance of the one-dimensional KPZ equation started from the flat initial profile. Writing the Cole--Hopf solution as \\(h(t,x) = \log Z(t,x)\\), where \\(Z\\) solves the stochastic heat equation \\(\partial\_t Z = \tfrac12 \partial\_x^2 Z + Z\\,\dot W\\) with \\(Z(0,\cdot)\equiv 1\\), we prove the sharp large-distance asymptotic
+
+\begin{equation\*}
+   \operatorname{Cov}\\!\bigl(h(t,x),h(t,0)\bigr) \sim \kappa(t)\int\_0^t p\_{2r}(x)\\,\mathrm{d} r = \frac{2\\,\kappa(t)}{\sqrt{\pi}}\\, t^{3/2}\\,|x|^{-2}\\, \exp\\!\left(-\frac{x^{2}}{4t}\right), \qquad |x|\to\infty,
+\end{equation\*}
+
+where \\(\kappa(t)=\bigl(\mathbb{E}[Z(t,0)^{-1}]\bigr)^{2}\\) and \\(p\_t\\) is the one-dimensional heat kernel. The flat profile thus produces a Gaussian covariance envelope, in sharp contrast with the polynomial \\(t/|x|\\) asymptotic obtained by Gu--Pu (arXiv:2506.23065) for narrow-wedge initial data. To our knowledge, this is the first exact spatial covariance asymptotic for the KPZ equation under flat initial data. Along the way, we obtain an explicit closed-form formula for the second moment of the normalized random Green's function \\(\bar{\mathcal{G}}\_\beta\\), an object of independent interest in the theory of the continuum directed random polymer. The proof combines a Clark--Ocone covariance representation, a boundary-layer reduction localized near \\(s\lesssim |x|^{-2+\varepsilon}\\) and \\(y\approx x/2\\), a future-only renormalization, and shear invariance plus shear mixing of the white noise.
+
+This is joint work with Juan José Jiménez (Auburn).
+
+
 ## GUO Yuhui, The exact Hausdorff measure for general anisotropic Gaussian random fields {#C26-GUO-Yuhui}
 
 In this paper, we consider a class of anisotropic Gaussian random fields \\(X=\\{X(t),t \in  \mathbb{R}^N\\}\\) with values in \\(\mathbb{R}^d \\), whose components are independent
