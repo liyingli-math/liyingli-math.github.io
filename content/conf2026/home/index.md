@@ -17,7 +17,7 @@ The _Workshop on SPDEs and Mathematical Physics_ is a one-week event that will t
 
 -   [AMORINO Chiara](https://chiaraamorino.github.io/index.html) (Univ. Pompeu Fabra) [talk]({{< relref "abstract#C26-AMORINO" >}})
 -   [CHEN Hongyi](https://www.au.dk/en/hchen77@math.au.dk/) (Aarhus Univ.) [talk]({{< relref "abstract#C26-CHEN-Hongyi" >}})
--   [CHEN Le](http://webhome.auburn.edu/~lzc0090/) (Auburn Univ.)
+-   [CHEN Le](http://webhome.auburn.edu/~lzc0090/) (Auburn Univ.) [talk]({{< relref "abstract#C26-CHEN-Le" >}})
 -   [CHEN Xia](https://web.math.utk.edu/~xchen3/) (Univ. of Tennessee)
 -   GUO Yuhui (BNBU) [talk]({{< relref "abstract#C26-GUO-Yuhui" >}})
 -   [HUANG Jingyu](https://www.birmingham.ac.uk/staff/profiles/maths/huang-jingyu) (Burminhan Univ.)
