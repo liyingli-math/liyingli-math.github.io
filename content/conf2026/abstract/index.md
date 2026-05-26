@@ -33,6 +33,9 @@ where \\(\kappa(t)=\bigl(\mathbb{E}[Z(t,0)^{-1}]\bigr)^{2}\\) and \\(p\_t\\) is 
 This is joint work with Juan José Jiménez (Auburn).
 
 
+## CHEN Xia, TBA {#C26-CHEN-Xia}
+
+
 ## GUO Yuhui, The exact Hausdorff measure for general anisotropic Gaussian random fields {#C26-GUO-Yuhui}
 
 In this paper, we consider a class of anisotropic Gaussian random fields \\(X=\\{X(t),t \in  \mathbb{R}^N\\}\\) with values in \\(\mathbb{R}^d \\), whose components are independent
@@ -46,6 +49,9 @@ This is a joint work with Yimin Xiao and Wangjun Yuan.
 We study spatio-temporal increments of the solutions to nonlinear parabolic SPDEs on a bounded interval with Dirichlet, Neumann, or Robin boundary conditions. We identify the exact local and uniform spatio-temporal moduli of continuity for the sample functions of the solutions. These moduli of continuity results imply the existence of random points in space-time at which spatio-temporal oscillations are exceptionally large. We also establish small-ball probability estimates and Chung-type laws of the iterated logarithm for spatio-temporal increments. Our method yields extension of some of these results to the open KPZ equation on the unit interval with inhomogeneous Neumann boundary conditions.
 
 This is the joint work with Dr. Cheuk Yin Lee
+
+
+## HUANG Jingyu, TBA {#C26-HUANG-Jingyu}
 
 
 ## JOSEPH Mathew, Blowup and Instantaneous Explosion for the Multiplicative Stochastic Heat Equation with Superlinear Drift {#C26-JOSEPH}
@@ -90,6 +96,11 @@ This talk is based on joint work with Francesca Cottini (Laboratoire de Probabil
 For Gaussian random fields with values in \\(\mathbb{R}^d\\), sharp upper and lower bounds on the probability of hitting a fixed set have been available for many years. These apply in particular to the solutions of systems of linear SPDEs. For non-Gaussian random fields, the available bounds are less sharp. For nonlinear systems of stochastic heat equations, a sharp lower bound was obtained in a previous paper by Dalang and Pu (2021). Here, we obtain the corresponding sharp upper bound. The proof requires a bound on the joint probability density function of a two-dimensional random vector whose components are the solution to the nonlinear stochastic heat equation and the supremum over a small rectangle of the solution to the linear stochastic heat equation, in terms of the size of the rectangle. This bound makes use of a formula that expresses the density of a locally nondegenerate random vector as an iterated Skorohod integral. The main effort is to estimate, using Malliavin calculus, each of the terms that arise from this formula.
 
 This is based on joint work with Robert C. Dalang and David Nualart.
+
+
+## QI Weiwei, Intrinsic vs. Extrinsic Noise in Transient Dynamics: A Quasi-Stationary Approach {#C26-QI-Weiwei}
+
+Transient dynamics---long-lasting but ultimately finite-time behaviors---are ubiquitous in complex stochastic systems. Understanding their underlying mechanisms remains a fundamental challenge. In this talk, we investigate randomly perturbed processes arising in chemical reaction networks and population dynamics, where extinction is inevitable but preceded by long-lived persistence. Using quasi-stationary distributions (QSDs), we characterize these transient dynamics and analyze their asymptotics in the vanishing-noise regime. We show that intrinsic and extrinsic noise can induce fundamentally different transient dynamics, leading to distinct persistence and extinction patterns. We conclude with a discussion of broader implications and open problems.
 
 
 ## SMITH Scott Andrew, Mass generation for the two dimensional \\(O(N) \\) Linear Sigma Model in the large \\(N \\) limit {#C26-SMITH}
@@ -151,12 +162,6 @@ scaling, the renormalized partition function converges to the solution of a stoc
 ## WANG Xiong, Stochastic wave equation with additive fractional noise: Solvability and global Hölder continuity {#C26-WANG-Xiong}
 
 We determine the range of Hurst parameters that provide the necessary and sufficient conditions for the solvability, in \\(L^2(\Omega)\\), of the stochastic wave equation: \\( \frac{\partial^2  }{\partial t^2}u(t,x) =\Delta u(t,x)+\dot{W}(t,x)\\),  where \\(\\{  W(t,x),\ t\ge 0, x\in \mathbb{R}^d\\} \\) is a fractional Brownian field with temporal Hurst parameter \\(H\_0\in[\tfrac12,1]\\) and spatial Hurst parameters \\(H\_i\in(0,1)\\) for \\(i=1,\cdots,d\\). In particular, the solvability condition exhibits a phase transition at \\(H\_0 = 1\\). We also obtain the sharp growth rate and the sharp H\\"older continuity of the solution on the real line in the case \\(H\_0=1/2\\).
-
-
-## WU Jing, Limit theorems of SDEs with reflections {#C26-WU-Jing}
-
-This talk is concerned with limit theorems for path-dependent reflected stochastic differential
-equations and distribution dependent reflected stochastic differential equations.
 
 
 ## XIA Panqiu, A class of d-dimensional directed polymers in a Gaussian environment {#C26-XIA-Panqiu}
