@@ -25,7 +25,7 @@ All day
 : [PU Fei, Sharp upper bounds on hitting probabilities for the solution to the stochastic heat equation on the line]({{< relref "abstract#C26-PU-Fei" >}})
 
 10:20 - 11:10
-: [HUANG Jingyu, TBA]({{< relref "abstract#C26-HUANG-Jingyu" >}})
+: [HUANG Jingyu, Some SPDEs with non Lipschitz coefficients]({{< relref "abstract#C26-HUANG-Jingyu" >}})
 
 11:30 - 12:00
 : [HU Jingwu, On the spatio-temporal increments of nonlinear parabolic SPDEs and the open KPZ equation]({{< relref "abstract#C26-HU-Jingwu" >}})
@@ -46,10 +46,10 @@ All day
 : [JOSEPH Mathew, Blowup and Instantaneous Explosion for the Multiplicative Stochastic Heat Equation with Superlinear Drift]({{< relref "abstract#C26-JOSEPH" >}})
 
 10:20 - 11:10
-: [CHEN Xia, TBA]({{< relref "abstract#C26-CHEN-Xia" >}})
+: [CHEN Xia, Hyperbolic Anderson models and Brownian motions]({{< relref "abstract#C26-CHEN-Xia" >}})
 
 11:30 - 12:00
-: [CHEN Hongyi, Sharp Riemannian heat kernel estimates on the cut locus and the Multiplicative Stochastic Heat Equation]({{< relref "abstract#C26-CHEN-Hongyi" >}})
+: [GUO Yuhui, The exact Hausdorff measure for general anisotropic Gaussian random fields]({{< relref "abstract#C26-GUO-Yuhui" >}})
 
 12:00 - 14:00
 : _Lunch Break_
@@ -64,7 +64,7 @@ All day
 ## Day 3, Jun 3 {#day-3-jun-3}
 
 09:00 - 09:50
-: [SONG Jian, On a fractional stochastic heat equation arising from the disordered pinning model]({{< relref "abstract#C26-SONG-Jian" >}})
+: [SONG Jian, On a fractional stochastic heat equation arising from the disorde-ed pinning model]({{< relref "abstract#C26-SONG-Jian" >}})
 
 10:20 - 11:10
 : [ZHANG Tusheng, Stochastic reaction diffusion equations on unbounded domains: well-posedness and ergodicity]({{< relref "abstract#C26-ZHANG-Tusheng" >}})
@@ -109,7 +109,7 @@ All day
 : [NERSESYAN Vahagn, Controllability as a key tool for studying long-time behaviour of random dynamical systems]({{< relref "abstract#C26-NERSESYAN" >}})
 
 11:30 - 12:00
-: [GUO Yuhui, The exact Hausdorff measure for general anisotropic Gaussian random fields]({{< relref "abstract#C26-GUO-Yuhui" >}})
+: [CHEN Hongyi, Sharp Riemannian heat kernel estimates on the cut locus and the Multiplicative Stochastic Heat Equation]({{< relref "abstract#C26-CHEN-Hongyi" >}})
 
 12:00 - 14:00
 : _Lunch Break_
@@ -121,7 +121,7 @@ All day
 : [SUN Zhenyao, From stochastic heat equations with gradient multiplicative noises to Arratia flow]({{< relref "abstract#C26-SUN-Zhenyao" >}})
 
 16:20 - 17:10
-: [WANG Xiong, Stochastic wave equation with additive fractional noise: Solvability and global Hölder continuity]({{< relref "abstract#C26-WANG-Xiong" >}})
+: [WANG Xiong, Learning Multi-type heterogeneous interacting particle systems]({{< relref "abstract#C26-WANG-Xiong" >}})
 
 
 ## Day 6, Jun 6 {#day-6-jun-6}

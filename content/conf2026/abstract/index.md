@@ -33,7 +33,13 @@ where \\(\kappa(t)=\bigl(\mathbb{E}[Z(t,0)^{-1}]\bigr)^{2}\\) and \\(p\_t\\) is 
 This is joint work with Juan José Jiménez (Auburn).
 
 
-## CHEN Xia, TBA {#C26-CHEN-Xia}
+## CHEN Xia, Hyperbolic Anderson models and Brownian motions {#C26-CHEN-Xia}
+
+One of powerful tools in studying parabolic Anderson equations is Feynman-Kac formula that represents the solution in terms of Brownian motions.
+
+In this talk, we provide a link between the hyperbolic Anderson equations and Brownian motions under Laplace transform, and show how this connection greatly advances our understand on the hyperbolic equations.
+
+Part of the talks comes from a collaboration with Yaozhong Hu.
 
 
 ## GUO Yuhui, The exact Hausdorff measure for general anisotropic Gaussian random fields {#C26-GUO-Yuhui}
@@ -51,7 +57,9 @@ We study spatio-temporal increments of the solutions to nonlinear parabolic SPDE
 This is the joint work with Dr. Cheuk Yin Lee
 
 
-## HUANG Jingyu, TBA {#C26-HUANG-Jingyu}
+## HUANG Jingyu, Some SPDEs with non Lipschitz coefficients {#C26-HUANG-Jingyu}
+
+In this talk I am going to show some recent results about stochastic heat and wave equations with non-Lipschitz coefficients, using the stopping time arguments and moment estimates. This is based on joint works with Le Chen, Mohammud Foondun, Mickey Salins and Wenxuan Tao.
 
 
 ## JOSEPH Mathew, Blowup and Instantaneous Explosion for the Multiplicative Stochastic Heat Equation with Superlinear Drift {#C26-JOSEPH}
@@ -108,7 +116,7 @@ Transient dynamics---long-lasting but ultimately finite-time behaviors---are ubi
 This talk will focus on the \\(O(N)\\) Linear Sigma Model on \\(\mathbb{R}^{2}\\) under a scaling dictated by the formal \\(1/N\\) expansion.  We show that in the large \\(N\\) limit, correlations decay exponentially fast, where the acquired mass decays exponentially in the inverse temperature.  In fact, each marginal converges to a massive Gaussian Free Field (GFF) on \\(\mathbb{R}^{2}\\), quantified in the \\(2\\)-Wasserstein distance with a weighted \\(H^{1}(\mathbb{R}^{2})\\) cost function.  In contrast to prior work on the torus via parabolic stochastic quantization, our results hold without restrictions on the coupling constants, allowing us to also obtain a massive GFF in a suitable double scaling limit.  Our proof combines the Feyel/Üstünel extension of Talagrand's inequality with some classical tools in Euclidean Quantum Field Theory.  Based on joint work with Matias Delgadino.
 
 
-## SONG Jian, On a fractional stochastic heat equation arising from the disordered pinning model {#C26-SONG-Jian}
+## SONG Jian, On a fractional stochastic heat equation arising from the disorde-ed pinning model {#C26-SONG-Jian}
 
 We study the mild Skorohod  solution to the following fractional stochastic heat equation on \\(\mathbb{R}\\):
 
@@ -159,9 +167,9 @@ In this talk, we study directed polymers on \\(\mathbb Z^d\\) with the random en
 scaling, the renormalized partition function converges to the solution of a stochastic heat equation driven by spatially correlated Gaussian noise. We further consider the logarithm of the partition function, namely the polymer free energy, and discuss its convergence to the Cole-Hopf solution of the corresponding spatially correlated KPZ equation. One of the main steps is to prove tightness of the free energy, where negative moment estimates for the partition function are needed. This is a joint work with Professor Yaozhong Hu.
 
 
-## WANG Xiong, Stochastic wave equation with additive fractional noise: Solvability and global Hölder continuity {#C26-WANG-Xiong}
+## WANG Xiong, Learning Multi-type heterogeneous interacting particle systems {#C26-WANG-Xiong}
 
-We determine the range of Hurst parameters that provide the necessary and sufficient conditions for the solvability, in \\(L^2(\Omega)\\), of the stochastic wave equation: \\( \frac{\partial^2  }{\partial t^2}u(t,x) =\Delta u(t,x)+\dot{W}(t,x)\\),  where \\(\\{  W(t,x),\ t\ge 0, x\in \mathbb{R}^d\\} \\) is a fractional Brownian field with temporal Hurst parameter \\(H\_0\in[\tfrac12,1]\\) and spatial Hurst parameters \\(H\_i\in(0,1)\\) for \\(i=1,\cdots,d\\). In particular, the solvability condition exhibits a phase transition at \\(H\_0 = 1\\). We also obtain the sharp growth rate and the sharp H\\"older continuity of the solution on the real line in the case \\(H\_0=1/2\\).
+We propose a framework for the joint inference of network topology, multi-type interaction kernels, and latent type assignments in heterogeneous interacting particle systems from multi-trajectory data. This learning task is a challenging non-convex mixed-integer optimization problem, which we address through a novel three-stage approach. First, we leverage shared structure across agent interactions to recover a low-rank embedding of the system parameters via matrix sensing. Second, we identify discrete interaction types by clustering within the learned embedding. Third, we recover the network weight matrix and kernel coefficients through matrix factorization and a post-processing refinement. We provide theoretical guarantees with estimation error bounds under a Restricted Isometry Property (RIP) assumption and establish conditions for the exact recovery of interaction types based on cluster separability. Numerical experiments on synthetic datasets, including heterogeneous predator-prey systems, demonstrate that our method yields an accurate reconstruction of the underlying dynamics and is robust to noise.
 
 
 ## XIA Panqiu, A class of d-dimensional directed polymers in a Gaussian environment {#C26-XIA-Panqiu}
