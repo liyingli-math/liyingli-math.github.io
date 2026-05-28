@@ -15,10 +15,14 @@ Address: No. 1088 Xueyuan Road, Xili, Nanshan District, Shenzhen (深圳市南�
 All talks will be held in the Department of Mathematics at the Southern University of Science and Technology. The department building is located near Gate No. 1.
 ![](../campusMap.png)
 
+From the Tanglang (塘朗) station, you can take the Exit C and walk to the campus in 5 minutes.
+![](../exitCSubwayToCampus.png)
+
 
 ## Accommodation {#accommodation}
 
-Hotel rooms will be provided for all participants.
+We provide accommodation for all participants at the _Vienna Good Sleep International Hotel (维也纳好眠国际酒店)_. It is 15-minute walk from the Tanglang (塘朗) station from Exit A.
+![](../exitASubwayToHotel.png)
 
 
 ## Transportation {#transportation}
