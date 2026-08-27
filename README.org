@@ -1,0 +1,35 @@
+#+title: README
+
+This is a Hugo static site repository. The Hugo =.md= files under =content/= are exported from =main.org= via the =ox-hugo= package.
+
+* Installation of Hugo PaperMod and update
+
+The PaperMod is installed and updated via the git submodule. 
+#+begin_src bash
+git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+git submodule update --init --recursive # needed when you reclone your repo (submodules may not get cloned automatically)
+#+end_src
+
+* Custom menu
+
+For (hidden) conference pages, the =toml= frontmatter accepts a custom field =MenutoUse= like so:
+#+begin_src yaml
+MenutoUse = "conf2026"
+#+end_src
+
+The additional menu is defined in =config.yml= like
+#+begin_src yaml
+menu:
+  conf2026:
+    - identifier: conf2026-home
+      name: Home
+      url: /conf2026/home
+      weight: 1
+#+end_src
+
+This is achieved by a layout overwrite at =layouts/partials/header.html=.
+
+* Github page deploy
+
+Copy from [[https://gohugo.io/host-and-deploy/host-on-github-pages/#article][Hugo doc]] to =.github/workflow/hugo.yaml=. Last updated: 2026-08-27.
+
