@@ -5,12 +5,16 @@ draft = false
 
 ## Current semester {#current-semester}
 
-[MAT8030 Advanced Probability, 2025 Fall]({{< relref "mat8030-2025F" >}})
+[MAT8030 Advanced Probability, 2026 Fall]({{< relref "mat8030-2026F" >}})
 
-[MAT336 Partial Differential Equations (H), 2025 Fall]({{< relref "mat336-2025F" >}})
+[MAT336 Partial Differential Equations (H), 2026 Fall]({{< relref "mat336-2026F" >}})
 
 
 ## Past {#past}
+
+[MAT8030 Advanced Probability, 2025 Fall]({{< relref "mat8030-2025F" >}})
+
+[MAT336 Partial Differential Equations (H), 2025 Fall]({{< relref "mat336-2025F" >}})
 
 [MAT7093 Stochastic Analysis, 2025 Spring]({{< relref "mat7093-2025S" >}})
 

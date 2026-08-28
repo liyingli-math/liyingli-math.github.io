@@ -31,6 +31,13 @@ My name is LI Liying (李立颖). I am a mathematician working in the probabilit
 - 2022 - 2023: Postdoc, University of Michigan, Ann Arbor
 - 2019 - 2022: Postdoc, University of Toronto, Mississauga
 ** Teaching
+- 2026 Fall: MAT8030, Advance Probability, SUSTech  [[#mat8030-2026F][[Course Page]​]]
+- 2026 Fall: MAT336, PDE (H), SUSTech [[#mat336-2026F][[Course Page]​]]
+- 2025 Fall: MAT8030, Advance Probability, SUSTech  [[#mat8030-2025F][[Course Page]​]]
+- 2025 Fall: MAT336, PDE (H), SUSTech [[#mat336-2025F][[Course Page]​]]
+- 2025 Spring: MAT7093, Stochastic Analysis, SUSTech [[#mat7093-2025S][[Course Page]​]]
+- 2024 Fall: MAT8030, Advance Probability, SUSTech  [[#mat8030-2024F][[Course Page]​]]
+- 2024 Fall: MAT336, PDE (H), SUSTech [[#mat336-2024F][[Course Page]​]]
 - 2024 Spring: MAT7093, Stochastic Analysis, SUSTech [[#mat7093-2024S][[Course Page]​]]
 - 2023 Fall: MAT212, Probability and mathematical statistics, SUSTech [[#mat212-2023F][[Course Page]​]]
 - 2022 Fall & 2023 Spring: MAT115, Calculus I, UM
@@ -88,11 +95,16 @@ My primary research field is probability. I am interested in ergodic properties 
 
 *** Current semester
 
+[[#mat8030-2026F]]
+
+[[#mat336-2026F]]
+
+*** Past
+
 [[#mat8030-2025F]]
 
 [[#mat336-2025F]]
 
-*** Past
 [[#mat7093-2025S]]
 
 [[#mat8030-2024F]]
@@ -316,6 +328,64 @@ weekly; posted by Thursday, due next Tuesday before class.
 |   21-23 | *Nonlinear first-order equations*: Hamilton--Jacobi equation, entropy solutions, shocks, Hopf--Lax formula.                                                                                                                                  |
 |---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+** MAT336 Partial Differential Equations (H), 2026 Fall
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: mat336-2026F
+:EXPORT_FILE_NAME: index
+:CUSTOM_ID: mat336-2026F
+:END:
+*** Course Information
+- Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (biweekly)
+- Location: TBA
+- Office hour: Wed 10 am - 12 pm, M622
+- TA: 何哲豪
+
+*** Lecture note and reference
+[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 23, 2025)
+
+- Evans, Lawrence C.,  /Partial Differential Equations/. Vol 19, Graduate Studies in Mathematics, AMS
+- 周蜀林, /偏微分方程/, 北京大学出版社
+- Qing Han, Fanghua Lin, /Elliptic Partial Differential Equations/. 2nd ed, AMS Lecture Notes.
+- Strauss, Walter A., /Partial Differential Equations: An Introduction/. 2nd ed, Wiley, 2008
+- Courant, R., and Hilbert D., /Methods of Mathematical Physics II: Partial Differential Equations/. 1st ed, Wiley, 1989
+
+*** HW
+weekly; posted by Thursday, due next Tuesday before class.
+
+
+*** Grading scheme
+|----------------+-----+--------|
+|                |   % |        |
+|----------------+-----+--------|
+| Participation  |  5% |        |
+|----------------+-----+--------|
+| HW assignments | 20% | weekly |
+|----------------+-----+--------|
+| Mid-term       | 25% |        |
+|----------------+-----+--------|
+| Final          | 50% |        |
+|----------------+-----+--------|
+
+*** Schedule (tentative)
+| Lecture | Content                                                                                                                                                                                                                                      |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | *Introduction to PDEs*:  important examples, classical solutions, initial values and boundary conditions, well-posedness, classification.                                                                                                    |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       2 | *First-order equations*:  transport problem, methods of characteristics, formation of shocks.                                                                                                                                                |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     3-6 | *Parabolic (Heat) equation*: Fourier transform, fundamental solutions; maximum principle and energy estimates; mixed boundary conditions                                                                                                     |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    7-11 | *Elliptic equations*: Laplace and Poisson's equation; harmonic function, mean-value properties, maximum principle; fundamental solutions, Green's functions; energy method; eigenvalue problem and separation of variables, Parron's method. |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      12 | Midterm                                                                                                                                                                                                                                      |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   13-16 | *Wave equation*: solutions formula in dimension 1, 2 and 3; domain of influences; separation of variables, plane and traveling waves.                                                                                                        |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   17-20 | *Calculus of Variation*: Sobolev spaces, weak solutions and convergence, Lax-Milgram Theorem                                                                                                                                                 |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   21-23 | *Nonlinear first-order equations*: Hamilton--Jacobi equation, entropy solutions, shocks, Hopf--Lax formula.                                                                                                                                  |
+|---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 ** MAT8030 Advanced Probability, 2024 Fall
 :PROPERTIES:
 :EXPORT_HUGO_BUNDLE: mat8030-2024F
@@ -453,6 +523,53 @@ hand-written draft notes
 |------------------+----------|
 | [HW6](./hw6.pdf) | Dec 30   |
 |------------------+----------|
+*** Grading scheme
+|----------------+-----+--------|
+|                |   % |        |
+|----------------+-----+--------|
+| HW assignments | 40% | weekly |
+|----------------+-----+--------|
+| Final          | 60% |        |
+|----------------+-----+--------|
+
+*** Schedule (tentative)
+
+- *Measure theory preliminaries (weeks 1-2)*: properties of measures, probability spaces;  sigma-algebras, monotone class theorem, principle of appropriate sets; distribution functions, construction of measures, Carathéodory's extension theorem; decomposition of distribution functions, singular and absolute continuity, singular measures, Cantor set and function.
+- *Random variables and integration (week 2)*: measurable maps, random variables and vectors, Borel measurability; simple functions, expectation of random variables; monotone/dominated/bounded convergence theorems, Fatou's lemma; change of variables.
+- *Mode of convergence (week 3)*: almost sure convergence, convergence in probability, convergence in Lp, convergence in distribution; first Borel--Cantelli lemma; uniform integrability.
+- *Independence and product measures (week 4)*: independence of r.v.'s, independence of sigma-algebras; product measures, Fubini's theorem, cross-section, Fubini on complete measure spaces; Kolmogorov's extension theorem, cylinder sets, consistency condition, iid r.v.'s.
+- *Law of large numbers (weeks 5-6)*: uncorrelated r.v.'s, Chebyshev's inequality, L2 LLN; weak LLN, convergence of  triangular arrays; second Borel--Cantelli lemma, strong LLN, tail sigma-algebras, Kolmogorov's 0-1 law, Kolmogorov's three-series theorem.
+- *Central Limit Theorem (weeks 7-8)*: weak convergence; characteristic functions and inversion formula; Levy's continuity Theorem; Lindeburg's condition; stable laws and infinitely divisible distributions
+- *Discrete martingales (weeks 9-10)*: conditional expectations; Doob's inequalities, uniformly integrable martingales, down-crossing inequality and a.s. convergence; stopping times, optional sampling theorem
+- *Markov chains (weeks 11-12)*: random walks, zero-one law, recurrence; stationary measures; strong Markov property.
+- *Ergodic Theorems (week 13)*: measure preserving map, invariant sets; invariant measure, ergodic measure; Birkhoff's Ergodic Theorem; subadditive ergodic theorem.
+- *Functional CLT (week 14)*: measures on metric spaces, weak convergence; Brownian motions; Donsker's invariance principle; CLT for martingales; CLT for stationary sequences; mixing.
+- *Other topics and review (weeks 15-16)*: regular conditional expectation; renewal process
+
+** MAT8030 Advanced Probability, 2026 Fall
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: mat8030-2026F
+:EXPORT_FILE_NAME: index
+:CUSTOM_ID: mat8030-2026F
+:END:
+*** Course Information
+- Time: Tue 7 - 10 PM
+- Location: TBA
+- Office hour: Wed 10 am - 12 pm, M622
+- TA: TBA
+*** Lecture note
+
+[lecture note](../notes/adv-prob-note.pdf) (last update: Dec 4, 2025)
+
+*** references
+- Durrett, Richard. /Probability: Theory and Examples (Fifth edition)/. Cambridge Series in Statistical and Probabilistic Mathematics 49. Cambridge ; New York, NY: Cambridge University Press, 2019. [[https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf][Copy from Durrett's homepage]]
+- Chung, Kai Lai. /A Course in Probability Theory (Third edition)/. San Diego, Calif.: Academic Press, 2007.
+- Jacod J, Protter PE. /Probability essentials. 2nd ed./ Berlin; New York: Springer; 2003. [[https://link.springer.com/book/10.1007/978-3-642-55682-1][Copy from Springer]]
+- Billingsley, Patrick. /Convergence of Probability Measures (2nd edition)/. Wiley Series in Probability and Statistics. Probability and Statistics. New York: Wiley, 1999.
+- Kolmogorov, A. N. /Foundations of the Theory of Probability (English Translation)/. Edited by Nathan Morrison. 1st ed., 1933. [PDF copy](../notes/Kolmogorov1933.pdf)
+- Shiryaev, A. N. /Probability/. Vol. 95. Graduate Texts in Mathematics. New York, NY: Springer New York, 1996. [[https://doi.org/10.1007/978-1-4757-2539-1][Copy from Springer]].
+
+*** HW
 *** Grading scheme
 |----------------+-----+--------|
 |                |   % |        |
