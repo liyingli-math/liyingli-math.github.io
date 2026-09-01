@@ -5,8 +5,8 @@ draft = false
 
 ## Course Information {#course-information}
 
--   Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (biweekly)
--   Location: TBA
+-   Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (odd weeks)
+-   Location: Chi Wah Building 305
 -   Office hour: Wed 10 am - 12 pm, M622
 -   TA: 何哲豪
 

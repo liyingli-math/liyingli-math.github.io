@@ -64,7 +64,7 @@ My primary research field is probability. I am interested in ergodic properties 
 
 ** Papers
 *** Probability
-#+begin_special
+- /Peng Gao/, /L. Li/, Polynomial mixing for stochastic viscous conservation law equation on the whole line, [[https://arxiv.org/pdf/2608.29824][https://arxiv.org/abs/2608.29824]]
 - /Khanin Konstantin, L. Li/, On the rate of convergence to coalescing Brownian motions, [[https://arxiv.org/pdf/2110.09731][https://arxiv.org/abs/2110.09731]],
    Ann. Inst. H. Poincaré Probab. Statist. *60(1):* 208-231 (2024)
 - /Alexander Dunlap, Yu Gu, L. Li/, Localization length of the 1+1 continuum directed random polymer, [[https://arxiv.org/pdf/2211.07318][https://arxiv.org/abs/2211.07318]], Annales Henri Poincaré, *volume 24*, pages 2537–2555 (2023)
@@ -74,7 +74,6 @@ My primary research field is probability. I am interested in ergodic properties 
 - /Yuri Bakhtin, L. Li/, Weakly mixing smooth planer vector field without asymptotic directions, [[https://arxiv.org/pdf/1808.05544.pdf][https://arxiv.org/abs/1808.05544]], Proc. Amer. Math. Soc., *148* (2020), 4733-4744
 - /Yuri Bakhtin, L. Li/, Zero temperature limit for directed polymers and inviscid limit for stationary solutions of stochastic Burgers equation, [[https://arxiv.org/pdf/1706.09950.pdf][https://arxiv.org/abs/1706.09950]],  J. Stat. Phys. *172*, 1358-1397 (2018)
 - /Yuri Bakhtin, L. Li/, Thermodynamic limit for directed polymers and stationary solutions of the Burgers equation, [[https://arxiv.org/pdf/1607.04864.pdf][https://arxiv.org/abs/1607.04864]], Comm. Pure Appl. Math., *72(3)*, (2019), 536-619
-#+end_special
 *** Applied math
 #+begin_special
 - /Alan E. Rask, L. Li, and Paul M. Zimmerman/, Kohn–Sham Density in a Slater Orbital Basis Set, J. Phys. Chem. A, *128*, 16, 3194–3204 (2024)
@@ -335,8 +334,8 @@ weekly; posted by Thursday, due next Tuesday before class.
 :CUSTOM_ID: mat336-2026F
 :END:
 *** Course Information
-- Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (biweekly)
-- Location: TBA
+- Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (odd weeks)
+- Location: Chi Wah Building 305
 - Office hour: Wed 10 am - 12 pm, M622
 - TA: 何哲豪
 
@@ -554,7 +553,7 @@ hand-written draft notes
 :END:
 *** Course Information
 - Time: Tue 7 - 10 PM
-- Location: TBA
+- Location: Chi Wah Building 104
 - Office hour: Wed 10 am - 12 pm, M622
 - TA: TBA
 *** Lecture note
@@ -574,9 +573,9 @@ hand-written draft notes
 |----------------+-----+--------|
 |                |   % |        |
 |----------------+-----+--------|
-| HW assignments | 40% | weekly |
+| HW assignments | 41% | every two weeks  |
 |----------------+-----+--------|
-| Final          | 60% |        |
+| Final          | 59% |        |
 |----------------+-----+--------|
 
 *** Schedule (tentative)

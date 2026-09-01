@@ -6,7 +6,7 @@ draft = false
 ## Course Information {#course-information}
 
 -   Time: Tue 7 - 10 PM
--   Location: TBA
+-   Location: Chi Wah Building 104
 -   Office hour: Wed 10 am - 12 pm, M622
 -   TA: TBA
 
@@ -31,10 +31,10 @@ draft = false
 
 ## Grading scheme {#grading-scheme}
 
-|                | %   |        |
-|----------------|-----|--------|
-| HW assignments | 40% | weekly |
-| Final          | 60% |        |
+|                | %   |                 |
+|----------------|-----|-----------------|
+| HW assignments | 41% | every two weeks |
+| Final          | 59% |                 |
 
 
 ## Schedule (tentative) {#schedule--tentative}
