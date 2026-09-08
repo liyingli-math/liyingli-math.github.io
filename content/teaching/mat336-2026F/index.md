@@ -6,14 +6,14 @@ draft = false
 ## Course Information {#course-information}
 
 -   Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (odd weeks)
--   Location: Chi Wah Building 305
+-   Location: Chi Wah Lecture Hall 305
 -   Office hour: Wed 10 am - 12 pm, M622
 -   TA: 何哲豪
 
 
 ## Lecture note and reference {#lecture-note-and-reference}
 
-[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 23, 2025)
+[lecture note](../notes/PDE-H-LN.pdf) (last update: Sept 08, 2026)
 
 -   Evans, Lawrence C.,  _Partial Differential Equations_. Vol 19, Graduate Studies in Mathematics, AMS
 -   周蜀林, _偏微分方程_, 北京大学出版社

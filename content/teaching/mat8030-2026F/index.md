@@ -6,9 +6,9 @@ draft = false
 ## Course Information {#course-information}
 
 -   Time: Tue 7 - 10 PM
--   Location: Chi Wah Building 104
+-   Location: Chi Wah Lecture Hall 104
 -   Office hour: Wed 10 am - 12 pm, M622
--   TA: TBA
+-   TA: 张君妍 zhangjy7 at sustech dot edu dot cn
 
 
 ## Lecture note {#lecture-note}
