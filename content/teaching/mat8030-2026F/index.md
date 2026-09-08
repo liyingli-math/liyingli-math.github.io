@@ -8,12 +8,14 @@ draft = false
 -   Time: Tue 7 - 10 PM
 -   Location: Chi Wah Lecture Hall 104
 -   Office hour: Wed 10 am - 12 pm, M622
--   TA: 张君妍 zhangjy7 at sustech dot edu dot cn
+-   TA:
+    -   张君妍 zhangjy7 at sustech dot edu dot cn
+    -   罗亮辉 luolh dot sustech dot edu dot cn
 
 
 ## Lecture note {#lecture-note}
 
-[lecture note](../notes/adv-prob-note.pdf) (last update: Dec 4, 2025)
+[lecture note](../notes/adv-prob-note.pdf) (last update: Sept 8, 2026)
 
 
 ## references {#references}
