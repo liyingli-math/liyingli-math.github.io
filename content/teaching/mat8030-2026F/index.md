@@ -10,7 +10,7 @@ draft = false
 -   Office hour: Wed 10 am - 12 pm, M622
 -   TA:
     -   张君妍 zhangjy7 at sustech dot edu dot cn
-    -   罗亮辉 luolh dot sustech dot edu dot cn
+    -   罗亮晖 luolh dot sustech dot edu dot cn
 
 
 ## Lecture note {#lecture-note}
