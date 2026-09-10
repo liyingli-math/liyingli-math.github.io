@@ -26,6 +26,10 @@ draft = false
 
 weekly; posted by Thursday, due next Tuesday before class.
 
+| Assignments      | Due date |
+|------------------|----------|
+| [HW1](./hw1.pdf) | 9/15     |
+
 
 ## Grading scheme {#grading-scheme}
 
