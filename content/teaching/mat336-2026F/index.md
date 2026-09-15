@@ -26,6 +26,8 @@ draft = false
 
 weekly; posted by Thursday, due next Tuesday before class.
 
+For AI usage in homework, see [AI usage in homework]({{< relref "ai-usage" >}}).
+
 | Assignments      | Due date |
 |------------------|----------|
 | [HW1](./hw1.pdf) | 9/15     |

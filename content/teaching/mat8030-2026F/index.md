@@ -30,6 +30,8 @@ draft = false
 
 ## HW {#hw}
 
+For AI usage in homework, see [AI usage in homework]({{< relref "ai-usage" >}}).
+
 
 ## Grading scheme {#grading-scheme}
 
