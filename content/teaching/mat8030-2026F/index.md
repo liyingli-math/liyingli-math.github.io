@@ -15,7 +15,7 @@ draft = false
 
 ## Lecture note {#lecture-note}
 
-[lecture note](../notes/adv-prob-note.pdf) (last update: Sept 8, 2026)
+[lecture note](../notes/adv-prob-note.pdf) (last update: Sept 17, 2026)
 
 
 ## references {#references}
@@ -31,6 +31,10 @@ draft = false
 ## HW {#hw}
 
 For AI usage in homework, see [AI usage in homework]({{< relref "ai-usage" >}}).
+
+| Assignments      | Due date |
+|------------------|----------|
+| [HW1](./hw1.pdf) | Sept 29  |
 
 
 ## Grading scheme {#grading-scheme}
