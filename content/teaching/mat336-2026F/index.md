@@ -8,7 +8,7 @@ draft = false
 -   Time: Tue 10 am - 12 pm, Thur 10 am - 12 pm (odd weeks)
 -   Location: Chi Wah Lecture Hall 305
 -   Office hour: Wed 10 am - 12 pm, M622
--   TA: 何哲豪
+-   TA: 何杰豪
 
 
 ## Lecture note and reference {#lecture-note-and-reference}
