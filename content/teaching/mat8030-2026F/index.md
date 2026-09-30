@@ -35,6 +35,7 @@ For AI usage in homework, see [AI usage in homework]({{< relref "ai-usage" >}}).
 | Assignments      | Due date |
 |------------------|----------|
 | [HW1](./hw1.pdf) | Sept 29  |
+| [HW2](./hw2.pdf) | Oct 19   |
 
 
 ## Grading scheme {#grading-scheme}
