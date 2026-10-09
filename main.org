@@ -364,7 +364,7 @@ weekly; posted by Thursday, due next Tuesday before class.
 - TA: 何杰豪
 
 *** Lecture note and reference
-[lecture note](../notes/PDE-H-LN.pdf) (last update: Sept 19, 2026)
+[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 9, 2026)
 
 - Evans, Lawrence C.,  /Partial Differential Equations/. Vol 19, Graduate Studies in Mathematics, AMS
 - 周蜀林, /偏微分方程/, 北京大学出版社
