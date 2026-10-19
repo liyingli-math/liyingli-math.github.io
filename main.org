@@ -362,9 +362,10 @@ weekly; posted by Thursday, due next Tuesday before class.
 - Location: Chi Wah Lecture Hall 305
 - Office hour: Wed 10 am - 12 pm, M622
 - TA: 何杰豪
+- Midterm: Nov 5th, Thursday
 
 *** Lecture note and reference
-[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 9, 2026)
+[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 19, 2026)
 
 - Evans, Lawrence C.,  /Partial Differential Equations/. Vol 19, Graduate Studies in Mathematics, AMS
 - 周蜀林, /偏微分方程/, 北京大学出版社
@@ -377,17 +378,19 @@ weekly; posted by Thursday, due next Tuesday before class.
 
 For AI usage in homework, see [[#ai-usage]].
 
-|--------------------+----------|
-| Assignments        | Due date |
-|--------------------+----------|
-| [HW1](./hw1.pdf)   | 9/15     |
-|--------------------+----------|
-| [HW2](./hw2.pdf)   | 9/22     |
-|--------------------+----------|
-| [HW3](./hw3.pdf)   | 10/13    |
-|--------------------+----------|
-| [HW4](./hw4.pdf)   | 10/20    |
-|--------------------+----------|
+|------------------+----------|
+| Assignments      | Due date |
+|------------------+----------|
+| [HW1](./hw1.pdf) | 9/15     |
+|------------------+----------|
+| [HW2](./hw2.pdf) | 9/22     |
+|------------------+----------|
+| [HW3](./hw3.pdf) | 10/13    |
+|------------------+----------|
+| [HW4](./hw4.pdf) | 10/27    |
+|------------------+----------|
+| HW5              | 11/3     |
+|------------------+----------|
 *** Grading scheme
 |----------------+-----+--------|
 |                |   % |        |
@@ -410,7 +413,7 @@ For AI usage in homework, see [[#ai-usage]].
 |---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     3-6 | *Parabolic (Heat) equation*: Fourier transform, fundamental solutions; maximum principle and energy estimates; mixed boundary conditions                                                                                                     |
 |---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    7-11 | *Elliptic equations*: Laplace and Poisson's equation; harmonic function, mean-value properties, maximum principle; fundamental solutions, Green's functions; energy method; eigenvalue problem and separation of variables, Parron's method. |
+|    7-11 | *Elliptic equations*: Laplace and Poisson's equation; harmonic function, mean-value properties, maximum principle; fundamental solutions, Green's functions; energy method; eigenvalue problem and separation of variables, Perron's method. |
 |---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |      12 | Midterm                                                                                                                                                                                                                                      |
 |---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

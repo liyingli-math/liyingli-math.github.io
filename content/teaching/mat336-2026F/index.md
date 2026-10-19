@@ -9,11 +9,12 @@ draft = false
 -   Location: Chi Wah Lecture Hall 305
 -   Office hour: Wed 10 am - 12 pm, M622
 -   TA: 何杰豪
+-   Midterm: Nov 5th, Thursday
 
 
 ## Lecture note and reference {#lecture-note-and-reference}
 
-[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 9, 2026)
+[lecture note](../notes/PDE-H-LN.pdf) (last update: Oct 19, 2026)
 
 -   Evans, Lawrence C.,  _Partial Differential Equations_. Vol 19, Graduate Studies in Mathematics, AMS
 -   周蜀林, _偏微分方程_, 北京大学出版社
@@ -33,7 +34,8 @@ For AI usage in homework, see [AI usage in homework]({{< relref "ai-usage" >}}).
 | [HW1](./hw1.pdf) | 9/15     |
 | [HW2](./hw2.pdf) | 9/22     |
 | [HW3](./hw3.pdf) | 10/13    |
-| [HW4](./hw4.pdf) | 10/20    |
+| [HW4](./hw4.pdf) | 10/27    |
+| HW5              | 11/3     |
 
 
 ## Grading scheme {#grading-scheme}
@@ -53,7 +55,7 @@ For AI usage in homework, see [AI usage in homework]({{< relref "ai-usage" >}}).
 | 1       | **Introduction to PDEs**:  important examples, classical solutions, initial values and boundary conditions, well-posedness, classification.                                                                                                    |
 | 2       | **First-order equations**:  transport problem, methods of characteristics, formation of shocks.                                                                                                                                                |
 | 3-6     | **Parabolic (Heat) equation**: Fourier transform, fundamental solutions; maximum principle and energy estimates; mixed boundary conditions                                                                                                     |
-| 7-11    | **Elliptic equations**: Laplace and Poisson's equation; harmonic function, mean-value properties, maximum principle; fundamental solutions, Green's functions; energy method; eigenvalue problem and separation of variables, Parron's method. |
+| 7-11    | **Elliptic equations**: Laplace and Poisson's equation; harmonic function, mean-value properties, maximum principle; fundamental solutions, Green's functions; energy method; eigenvalue problem and separation of variables, Perron's method. |
 | 12      | Midterm                                                                                                                                                                                                                                        |
 | 13-16   | **Wave equation**: solutions formula in dimension 1, 2 and 3; domain of influences; separation of variables, plane and traveling waves.                                                                                                        |
 | 17-20   | **Calculus of Variation**: Sobolev spaces, weak solutions and convergence, Lax-Milgram Theorem                                                                                                                                                 |
