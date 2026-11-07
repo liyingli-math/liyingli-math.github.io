@@ -64,6 +64,7 @@ My primary research field is probability. I am interested in ergodic properties 
 
 ** Papers
 *** Probability
+- /L. Li/, Global solutions for continuous-time Burgers equations and infinite-volume polymer measures, [[http://arxiv.org/pdf/2611.08355][http://arxiv.org/abs/2611.08355]]
 - /Peng Gao/, /L. Li/, Polynomial mixing for stochastic viscous conservation law equation on the whole line, [[https://arxiv.org/pdf/2608.29824][https://arxiv.org/abs/2608.29824]]
 - /Khanin Konstantin, L. Li/, On the rate of convergence to coalescing Brownian motions, [[https://arxiv.org/pdf/2110.09731][https://arxiv.org/abs/2110.09731]],
    Ann. Inst. H. Poincaré Probab. Statist. *60(1):* 208-231 (2024)
@@ -622,6 +623,8 @@ For AI usage in homework, see [[#ai-usage]].
 | [HW2](./hw2.pdf) | Oct 20 |
 |------------------+----------|
 | [HW3](./hw3.pdf) | Nov 3  |
+|------------------+----------|
+| [HW4](./hw4.pdf) | Nov 17 |
 |------------------+----------|
 *** Grading scheme
 |----------------+-----+--------|
