@@ -36,6 +36,7 @@ For AI usage in homework, see [AI usage in homework]({{< relref "ai-usage" >}}).
 | [HW3](./hw3.pdf) | 10/13    |
 | [HW4](./hw4.pdf) | 10/27    |
 | [HW5](./hw5.pdf) | 11/3     |
+| [HW6](./hw6.pdf) | 11/24    |
 
 
 ## Grading scheme {#grading-scheme}
